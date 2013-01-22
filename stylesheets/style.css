@@ -4,14 +4,6 @@
    over ride	
 -----------------------------------------------------*/
 
-	.Aone {
-	padding-bottom: 30px; 
-	background: green; 
-	}
-	.Atwo {
-		padding-bottom: 30px; 
-		background: purple; 
-	}
 
 
 /* -----------------------------------------
@@ -20,17 +12,16 @@
 
 	#logo {
 		margin-top: 43px; 
-		width: 180px;
 	}
 
 	.navBar {
-		margin-top: 88px;
+		margin-top: 100px;
 	}
 
 		.navBar a {
 			color: black; 
-			padding-right: 18px; 
-			font-size: 10px; 
+			padding-right: 30px; 
+			font-size: 11px; 
 		}
 
 
