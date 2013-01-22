@@ -20,7 +20,7 @@
 
 		.navBar a {
 			color: black; 
-			padding-right: 30px; 
+			padding-right: 35px; 
 			font-size: 11px; 
 		}
 
@@ -31,6 +31,15 @@
 
 	.mainContent{
 		margin-top: 30px; 
+	}
+	.welcomeImage_1{
+		width: 550px;
+		height: 376px; 
+	}
+	.welcomeImage_2{
+		margin: 0px 10px 10px 0px;
+		width: 180px;  
+		height: 180px; 
 	}
 
 
