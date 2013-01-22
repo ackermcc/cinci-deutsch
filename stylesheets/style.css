@@ -3,84 +3,35 @@
 /* -------------------------------------------------- 
    over ride	
 -----------------------------------------------------*/
-.column{
-	background: pink;
-	padding: 0px; 
-	margin: 0px; 
-	}
 
-	.Aone{
-	padding-bottom: 50px; 
+	.Aone {
+	padding-bottom: 30px; 
 	background: green; 
 	}
-	.Aone{
+	.Atwo {
 		padding-bottom: 30px; 
 		background: purple; 
 	}
-	.Atwo{
-		padding-bottom: 30px; 
-		background: green; 
-	}
-	.Athree{
-		padding-bottom: 30px; 
-		background: purple; 
-	}
-	.Afour{
-		padding-bottom: 30px; 
-		background: green; 
-	}
-	.Afive{
-		padding-bottom: 30px; 
-		background: purple; 
-	}
-	.Asix{
-		padding-bottom: 30px; 
-		background: green; 
-	}
-	.Aseven{
-		padding-bottom: 30px; 
-		background: purple; 
-	}
-	.Aeight{
-		padding-bottom: 30px; 
-		background: green; 
-	}
-	.Anine{
-		padding-bottom: 30px; 
-		background: purple; 
-	}
-	.Aten{
-		padding-bottom: 30px; 
-		background: green; 
-	}
-	.Aeleven{
-		padding-bottom: 30px; 
-		background: purple; 
-	}
-	.Atweleve{
-		padding-bottom: 30px; 
-		background: green; 
-	}
-.columns {
-	padding: 0px;
-}
+
 
 /* -----------------------------------------
    Nav Bar
 ----------------------------------------- */
-	#logo{
+
+	#logo {
 		margin-top: 43px; 
 		width: 180px;
 	}
 
-	.navBar a{
-		color: black; 
-		padding-right: 18px; 
-		font-size: 10px; 
-	}
-	.navBar{
+	.navBar {
 		margin-top: 88px;
 	}
+
+		.navBar a {
+			color: black; 
+			padding-right: 18px; 
+			font-size: 10px; 
+		}
 
 
 /* -----------------------------------------
