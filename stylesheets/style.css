@@ -1,10 +1,56 @@
 /* Artfully masterminded by ZURB  */
 
 /* -------------------------------------------------- 
+   shared styles
+-----------------------------------------------------*/
+
+body, p, div, a {
+	font-size: 12px;
+	line-height: 1.4;
+}
+
+hr.yellow {
+	border: solid #fdb813;
+	border-width: 3px 0 0;
+	clear: both;
+	margin: 8px 0 21px;
+	height: 0;
+}
+
+hr.red {
+	border: solid #c4122f;
+	border-width: 3px 0 0;
+	clear: both;
+	margin: 8px 0 21px;
+	height: 0;
+}
+
+.eng {
+	font-weight: bold;
+}
+
+.ger {
+	font-weight: normal;
+	font-style: italic;
+}
+
+footer {
+	color: #636466;
+	margin: 50px 0px;
+}
+
+	footer a {
+		color: #636466;
+		text-decoration: underline;
+	}
+
+/* -------------------------------------------------- 
    over ride	
 -----------------------------------------------------*/
 
-
+.row {
+	width: 960px;
+}
 
 /* -----------------------------------------
    Nav Bar
@@ -16,12 +62,16 @@
 
 	.navBar {
 		margin-top: 100px;
+		float: right;
 	}
 
 		.navBar a {
-			color: black; 
-			padding-right: 35px; 
-			font-size: 11px; 
+			color: #000; 
+		}
+
+		.navBar div {
+			margin-left: 31px;
+			float: left;
 		}
 
 
@@ -32,14 +82,22 @@
 	.mainContent{
 		margin-top: 30px; 
 	}
+
 	.welcomeImage_1{
-		width: 550px;
-		height: 376px; 
 	}
+
 	.welcomeImage_2{
 		margin: 0px 10px 10px 0px;
-		width: 180px;  
-		height: 180px; 
+	}
+
+	.social {
+		text-align: right;
+		color: #636466;
+	}
+
+	.social i {
+		font-size: 24px;
+		margin-top: 15px;
 	}
 
 
