@@ -13,7 +13,7 @@ hr.yellow {
 	border: solid #fdb813;
 	border-width: 3px 0 0;
 	clear: both;
-	margin: 8px 0 21px;
+	margin: 5px 0 10px;
 	height: 0;
 }
 
@@ -21,7 +21,7 @@ hr.red {
 	border: solid #c4122f;
 	border-width: 3px 0 0;
 	clear: both;
-	margin: 8px 0 21px;
+	margin: 5px 0 10px;
 	height: 0;
 }
 
@@ -32,6 +32,12 @@ hr.red {
 .ger {
 	font-weight: normal;
 	font-style: italic;
+}
+
+
+
+.secondP{
+	margin-top: 15px; 
 }
 
 footer {
@@ -91,8 +97,8 @@ footer {
 	}
 
 	.social {
-		text-align: right;
-		color: #636466;
+		color: #636466; 
+		margin-top: 35px; 
 	}
 
 	.social i {
@@ -100,9 +106,47 @@ footer {
 		margin-top: 15px;
 	}
 
+	.rightSocial {
+		margin-top: 0px; 
+		text-align: right;
+	}
+
 
 /* -----------------------------------------
-   Page Name 2
+   sub pages
 ----------------------------------------- */
+
+.links{
+	margin-top: 35px; 
+	color: #636466; 
+}
+	.links a{
+		color: #636466; 
+	}
+	.links a:hover{
+		color: #636466; 
+		text-decoration: underline;
+	}
+
+.redEmail {
+	color: #c4122f;
+}
+	.redEmail:hover{
+	color: #c4122f;
+	text-decoration: underline;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
