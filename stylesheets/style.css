@@ -67,9 +67,9 @@ footer {
 	}
 
 	ul{
-		margin:0;
+		margin: 0;
 		padding: 0;
-		list-style-type: none; 
+		list-style: none; 
 		z-index: 1; 
 	}
 
@@ -94,7 +94,10 @@ footer {
 
 	ul.subNav{
 		position: absolute;
-		display: none; 
+		display: none;
+		margin-left: 0px;
+		padding: 10px 0px 10px 15px; 
+		background: #e6e7e8; 
 	}
 		ul.subNav li{
 			clear:both;
@@ -132,6 +135,9 @@ footer {
 		text-align: right;
 	}
 
+	.right {
+		text-align: right;
+	}
 
 /* -----------------------------------------
    sub pages
