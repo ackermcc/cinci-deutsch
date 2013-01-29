@@ -1,47 +1,6 @@
-<!DOCTYPE html>
 
-<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
-<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
-<head>
-  <meta charset="utf-8" />
+  <? include_once('header.php'); ?>
 
-  <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width" />
-
-  <title>Cincideutsch</title>
-  
-  <!-- Included CSS Files (Uncompressed) -->
-  <!--
-  <link rel="stylesheet" href="stylesheets/foundation.css">
-  -->
-  
-  <!-- Included CSS Files (Compressed) -->
-  <link rel="stylesheet" href="../stylesheets/foundation.min.css">
-  <link rel="stylesheet" href="../stylesheets/style.css">
-  <link rel="stylesheet" href="../css/font-awesome.css">
-
-  <script src="../javascripts/modernizr.foundation.js"></script>
-</head>
-<body>
-
-  <div class="row">
-    <div class="three columns">
-      <a href="../index.html"><img id="logo" src="../images/logo.jpg"></a>
-    </div>
-    
-    <div class="nine columns">
-      <div class="navBar">
-        <div><a><b>Welcome</b> <i>Willkommen</i></a></div>
-        <div><a><b>About</b> <i>Us Über Uns</i></a></div>
-        <div><a><b>Events</b> <i>Veranstaltungen</i></a></div>
-        <div><a><b>Albums</b> <i>Alben</i></a></div>
-        <div><a><b>Contact</b> <i>Kontakt</i></a></div>
-      </div>
-    </div>
-  </div>
-
-  
   <div class="row mainContent">
 
     <div class="three columns ">
@@ -88,14 +47,7 @@
 
   </div>
 
-  <footer>
-    <div class="row">
-      <div class="twelve columns">
-        © Cincideutsch 2013 <br>
-        <a href="http://ma-interactivedesign.com">Developed by Menkhaus & Ackerman Interactive Design</a>
-      </div>
-    </div>
-  </footer>
+  <? include_once('footer.php'); ?>
   
   
   

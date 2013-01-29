@@ -37,22 +37,29 @@
 </head>
 <body>
 
-  <div class="row">
+
+<div class="row">
     <div class="three columns">
-      <a href="index.html"><img id="logo" src="images/logo.jpg"></a>
+      <a href="index.php"><img id="logo" src="logo.jpg"></a>
     </div>
     <div class="nine columns">
-      
+      <!-- <ul class="yellow-arc">
+        <li><img src="images/active-link.png" alt="" /></li>
+        <li><img src="images/active-link.png" alt="" /></li>
+        <li><img src="images/active-link.png" alt="" /></li>
+        <li><img src="images/active-link.png" alt="" /></li>
+        <li><img src="images/active-link.png" alt="" /></li>
+      </ul> -->
       <ul class="navBar">
-        <li><a href="index.html"><b>Welcome </b><i>Willkommen</i></a></li>
-        <li class="dropDown"><a href="pages/about.html"><b>About </b><i>Us Über Uns</i></a>
+        <li><a href="index.php"><b>Welcome </b><i>Willkommen</i></a></li>
+        <li class="dropDown"><a href="about.php"><b>About </b><i>Us Über Uns</i></a>
            <ul class="subNav">
               <li><a href="">About Cincideutsch</a></li>
               <li><a href="">In the News</a></li>
               <li><a href="">Cincinnati History</a></li>
            </ul>  
         </li>
-        <li class="dropDown"><a href="pages/events.html"><b>Events </b><i>Veranstaltungen</i></a>
+        <li class="dropDown"><a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
           <ul class="subNav">
               <li><a href="">Cincideutsch Christkindlmarkt 2013</a></li>
               <li><a href="">Regulars’ Table <i>Stammtisch</i></a></li>
@@ -65,63 +72,9 @@
               <li><a href="">Cincinnati Culture <i>Cincinnati Kultur</i></a></li>
           </ul>
         </li>   
-        <li><a href="pages/albums.html"><b>Albums </b><i>Alben</i></a></li>
-        <li><a href="pages/contact.html"><b>Contact </b><i>Kontakt</i></a></li>
+        <li><a href="albums.php"><b>Albums </b><i>Alben</i></a></li>
+        <li><a href="contact.php"><b>Contact </b><i>Kontakt</i></a></li>
       </ul>
 
     </div>
   </div>
-
-  <div class="row mainContent">
-    <div class="seven columns">
-      <div>
-        <img class="welcomeImage_1" src="http://fpoimg.com/600x420?text=Preview">
-      </div>
-    </div>
-    <div class="five columns">
-      <ul class="block-grid two-up">
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-      </ul>
-    </div>
-  </div>
-  
-  <div class="row">
-    <div class="four columns">
-      <div class="eng">Cincideutsch Christkindlmarkt 2012</div>
-      <hr class="yellow">
-      <div>Cincideutsch introduced the first authentic German-Christmas market to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.
-      </div>
-
-    </div>
-    <div class="four columns">
-      <div class="ger">Cincideutsch Christkindlmarkt 2012</div>
-      <hr class="red">
-      <div class="ger">Cincideutsch...</div>
-
-    </div>
-    <div class="four columns end social right">
-      <div class="eng">Connect <span class="ger">Anschließen</span></div>
-      <i class="icon-twitter-sign"></i>
-      <i class="icon-linkedin-sign"></i>
-      <i class="icon-facebook-sign"></i>
-    </div>
-  </div>
-
-  <footer>
-    <div class="row">
-      <div class="twelve columns">
-        © Cincideutsch 2013 <br>
-        <a href="http://ma-interactivedesign.com">Developed by Menkhaus & Ackerman Interactive Design</a>
-      </div>
-    </div>
-  </footer>
-  
-  
-  
-
-  
-</body>
-</html>

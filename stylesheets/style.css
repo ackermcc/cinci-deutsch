@@ -73,9 +73,15 @@ footer {
 		z-index: 1; 
 	}
 
-	.navBar {
+	.yellow-arc li {
 		margin-top: 100px;
 		float: left;
+		padding-right: 10px;
+	}
+
+	.navBar {
+		float: left;
+		margin-top: 100px;
 	}
 
 		.navBar a {
@@ -91,6 +97,7 @@ footer {
 			float: left; 
 			padding-right: 30px;  
 		}
+
 
 	ul.subNav{
 		position: absolute;
