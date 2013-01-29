@@ -22,6 +22,18 @@
   <link rel="stylesheet" href="css/font-awesome.css">
 
   <script src="javascripts/modernizr.foundation.js"></script>
+  <script src="javascripts/foundation.min.js"></script>
+  <script src="javascripts/app.js"></script>
+
+  <script type="text/javascript">
+    $(window).load(function(){
+
+      $('.dropDown').hover(function(){
+        $(this).find('.subNav').slideToggle("fast");
+      });
+
+    });
+  </script> 
 </head>
 <body>
 
@@ -30,13 +42,33 @@
       <a href="index.html"><img id="logo" src="images/logo.jpg"></a>
     </div>
     <div class="nine columns">
-      <div class="navBar">
-        <div><a><b>Welcome</b> <i>Willkommen</i></a></div>
-        <div><a><b>About</b> <i>Us Über Uns</i></a></div>
-        <div><a><b>Events</b> <i>Veranstaltungen</i></a></div>
-        <div><a><b>Albums</b> <i>Alben</i></a></div>
-        <div><a><b>Contact</b> <i>Kontakt</i></a></div>
-      </div>
+      
+      <ul class="navBar">
+        <li><a href="index.html"><b>Welcome </b><i>Willkommen</i></a></li>
+        <li class="dropDown"><a href="pages/about.html"><b>About </b><i>Us Über Uns</i></a>
+           <ul class="subNav">
+              <li><a href="">About Cincideutsch</a></li>
+              <li><a href="">In the News</a></li>
+              <li><a href="">Cincinnati History</a></li>
+           </ul>  
+        </li>
+        <li class="dropDown"><a href="pages/events.html"><b>Events </b><i>Veranstaltungen</i></a>
+          <ul class="subNav">
+              <li><a href="">Cincideutsch Christkindlmarkt 2013</a></li>
+              <li><a href="">Regulars’ Table <i>Stammtisch</i></a></li>
+              <li><a href="">White Sausage Breakfast <i>Weißwurstfrühstück</i></a></li>
+              <li><a href="">Bockfest <i>Bockfest</i></a></li>
+              <li><a href="">May Festival <i>Maifest</i></a></li>
+              <li><a href="">Shooting Festival <i>Schützenfest</i></a></li>
+              <li><a href="">Oktoberfest <i>Bockfest</i></a></li>
+              <li><a href="">Christmas Market <i>Christkindlmarkt</i></a></li>
+              <li><a href="">Cincinnati Culture <i>Cincinnati Kultur</i></a></li>
+          </ul>
+        </li>   
+        <li><a href="pages/albums.html"><b>Albums </b><i>Alben</i></a></li>
+        <li><a href="pages/contact.html"><b>Contact </b><i>Kontakt</i></a></li>
+      </ul>
+
     </div>
   </div>
 
@@ -89,18 +121,7 @@
   
   
   
-  <!-- Included JS Files (Compressed) -->
-  <script src="javascripts/foundation.min.js"></script>
-  
-  <!-- Initialize JS Plugins -->
-  <script src="javascripts/app.js"></script>
 
-  
-    <script>
-    $(window).load(function(){
-      $("#featured").orbit();
-    });
-    </script> 
   
 </body>
 </html>
