@@ -120,11 +120,23 @@ footer {
 		margin-top: 30px; 
 	}
 
+	.welcomeImage1{
+		margin: 0 -10px 0 0; 
+	}
+
 	.welcomeImage_1{
 	}
 
 	.welcomeImage_2{
-		margin: 0px 10px 10px 0px;
+		/*margin: 0px 10px 10px 0px;*/
+	}
+
+	.welcomeImage2li li{
+		padding: 0px; 
+	}
+	 /*the over ride is not working !!!!!!*/
+	.block-grid.two-up li {
+		padding: 0px 5px 5px; 
 	}
 
 	.social {

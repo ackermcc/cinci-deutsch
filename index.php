@@ -3,12 +3,12 @@
 
   <div class="row mainContent">
     <div class="seven columns">
-      <div>
-        <img class="welcomeImage_1" src="http://fpoimg.com/600x420?text=Preview">
+      <div class="welcomeImage1">
+        <img class="welcomeImage_1" src="http://fpoimg.com/600x435?text=Preview">
       </div>
     </div>
     <div class="five columns">
-      <ul class="block-grid two-up">
+      <ul class="block-grid two-up welcomeImage2li">
         <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
         <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
         <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
