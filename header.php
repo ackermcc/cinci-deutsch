@@ -39,10 +39,10 @@
 
 
 <div class="row">
-    <div class="three columns">
-      <a href="index.php"><img id="logo" src="logo.jpg"></a>
+    <div class="four columns">
+      <a href="index.php"><img id="logo" src="images/logo.jpg" ></a>
     </div>
-    <div class="nine columns">
+    <div class="eight columns">
       <!-- <ul class="yellow-arc">
         <li><img src="images/active-link.png" alt="" /></li>
         <li><img src="images/active-link.png" alt="" /></li>
@@ -52,7 +52,7 @@
       </ul> -->
       <ul class="navBar">
         <li class="navSpace"><a href="index.php"><b>Welcome </b><i>Willkommen</i></a></li>
-        <li class="dropDown navSpace"><a href="about.php"><b>About </b><i>Us Über Uns</i></a>
+        <li class="dropDown navSpace"><a href="about.php"><b>About </b><i>Über</i></a>
            <ul class="subNav">
               <li><a href="">About Cincideutsch</a></li>
               <li><a href="">In the News</a></li>

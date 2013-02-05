@@ -50,6 +50,10 @@ footer {
 		text-decoration: underline;
 	}
 
+	.footerOption2{
+		margin: 50px 0 -40px 0; 
+	}
+
 /* -------------------------------------------------- 
    over ride	
 -----------------------------------------------------*/
@@ -81,7 +85,7 @@ footer {
 
 	.navBar {
 		float: left;
-		margin-top: 97px;
+		margin-top: 117px;
 	}
 
 		.navBar a {
@@ -98,7 +102,7 @@ footer {
 		}
 
 	.navSpace{
-		padding-right: 42px;
+		padding-right: 28px;
 	}
 
 	ul.subNav{
@@ -162,6 +166,7 @@ footer {
 
 	.right {
 		text-align: right;
+		padding-right: 5px; 
 	}
 
 /* -----------------------------------------

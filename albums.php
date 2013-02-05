@@ -6,26 +6,35 @@
     <div class="twelve columns">
       <ul class="block-grid three-up">
         <li>
-            <img src="http://fpoimg.com/250x250?text=Preview">
-            <div>Opera 2011 (9)</div>
+            <img src="http://fpoimg.com/290x290?text=Preview">
+            <div>Opera 2011 <span class="right">(9)</span></div>
             <div>Die Oper 2011</div>
         </li>
-        <li align="center">
-            <img src="http://fpoimg.com/250x250?text=Preview">
-            <div>Cinideutsch Christkindlmarkt 2011 (20)</div>
+        <li>
+            <img src="http://fpoimg.com/290x290?text=Preview">
+            <div>Cinideutsch Christkindlmarkt 2011 <span class="right">(20)</span></div>
             <div>Cincideutsch Christkindlmarkt 2011</div>
         </li>
-        <li align="right">
-            <img src="http://fpoimg.com/250x250?text=Preview">
-            <div>Shooting Festival 2011 (20)</div>
+        <li>
+            <img src="http://fpoimg.com/290x290?text=Preview">
+            <div>Shooting Festival 2011 <span class="right">(20)</span></div>
             <div>Schützenfest 2011</div>
         </li>
       </ul>
     </div>
 
-
-       
-
+  </div>
+  <div class="row">
+    <div class="twelve columns">
+      <div class="footerOption2">
+        <a href=""><img class="smIcons" src="images/facebook.png"></a>
+        <a href=""><img class="smIcons" src="images/twitter.png"></a>
+        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
+        <a href=""><img class="smIcons" src="images/flickr.png"></a>
+        <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
+      </div>  
+    </div>
   </div>
 
   <? include_once('footer.php'); ?>

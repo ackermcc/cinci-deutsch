@@ -3,16 +3,19 @@
 
   <div class="row mainContent">
 
-    <div class="three columns ">
-      <img src="http://fpoimg.com/210x210?text=Preview">
+    <div class="four columns ">
+      <img src="http://fpoimg.com/290x290?text=Preview">
       <div>The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
       <div class="ger secondP">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <i class="icon-twitter-sign"></i>
-        <i class="icon-linkedin-sign"></i>
-        <i class="icon-facebook-sign"></i>
+        <a href=""><img class="smIcons" src="images/facebook.png"></a>
+        <a href=""><img class="smIcons" src="images/twitter.png"></a>
+        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
+        <a href=""><img class="smIcons" src="images/flickr.png"></a>
+        <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
       </div>
     </div>
 
@@ -28,7 +31,7 @@
       <div class="ger">Cincinnati has one of the largest German immigrant populations in the United States.</div>
     </div>
 
-    <div class="three columns">
+    <div class="two columns">
       <div class="links">
         <div class="eng">Links</div>
         <div><a href="">German-American Citizens</a></div>
