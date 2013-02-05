@@ -18,24 +18,27 @@
   </div>
   
   <div class="row">
-    <div class="four columns">
+    <div class="three columns">
       <div class="eng">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="yellow">
-      <div>Cincideutsch introduced the first authentic German-Christmas market to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.
+      <div>Cincideutsch introduced the first authentic German-Christmas market <br> to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.
       </div>
-
     </div>
-    <div class="four columns">
+    <div class="one column"></div>
+    <div class="three columns">
       <div class="ger">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="red">
       <div class="ger">Cincideutsch...</div>
-
     </div>
-    <div class="four columns end social right">
+
+    <div class="five columns end social right">
       <div class="eng">Connect <span class="ger">Anschließen</span></div>
-      <i class="icon-twitter-sign"></i>
-      <i class="icon-linkedin-sign"></i>
-      <i class="icon-facebook-sign"></i>
+      <img class="smIcons" src="images/facebook.png">
+      <img class="smIcons" src="images/twitter.png">
+      <img class="smIcons" src="images/linkedIn.png">
+      <img class="smIcons" src="images/flickr.png">
+      <img class="smIcons" src="images/instagram.png">
+      <img class="smIcons" src="images/meetUp.png">
     </div>
   </div>
 

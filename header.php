@@ -51,15 +51,15 @@
         <li><img src="images/active-link.png" alt="" /></li>
       </ul> -->
       <ul class="navBar">
-        <li><a href="index.php"><b>Welcome </b><i>Willkommen</i></a></li>
-        <li class="dropDown"><a href="about.php"><b>About </b><i>Us Über Uns</i></a>
+        <li class="navSpace"><a href="index.php"><b>Welcome </b><i>Willkommen</i></a></li>
+        <li class="dropDown navSpace"><a href="about.php"><b>About </b><i>Us Über Uns</i></a>
            <ul class="subNav">
               <li><a href="">About Cincideutsch</a></li>
               <li><a href="">In the News</a></li>
               <li><a href="">Cincinnati History</a></li>
            </ul>  
         </li>
-        <li class="dropDown"><a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
+        <li class="dropDown navSpace"><a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
           <ul class="subNav">
               <li><a href="">Cincideutsch Christkindlmarkt 2013</a></li>
               <li><a href="">Regulars’ Table <i>Stammtisch</i></a></li>
@@ -72,7 +72,7 @@
               <li><a href="">Cincinnati Culture <i>Cincinnati Kultur</i></a></li>
           </ul>
         </li>   
-        <li><a href="albums.php"><b>Albums </b><i>Alben</i></a></li>
+        <li class="navSpace"><a href="albums.php"><b>Albums </b><i>Alben</i></a></li>
         <li><a href="contact.php"><b>Contact </b><i>Kontakt</i></a></li>
       </ul>
 
