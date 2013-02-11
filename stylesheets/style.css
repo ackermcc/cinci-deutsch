@@ -33,8 +33,27 @@ hr.red {
 	font-weight: normal;
 	font-style: italic;
 }
+.gerTitle {
+	font-weight: bold;
+	font-style: italic;
+}
 
-
+.pLink {
+	text-decoration: underline;
+	color: #222;
+} 
+	.pLink:hover {
+		text-decoration: underline;
+		color: #c4122f;
+	} 
+.morePhotos {
+	text-decoration: none;
+	color: #222;
+} 
+	.morePhotos:hover {
+		text-decoration: none;
+		color: #c4122f;
+	} 	
 
 .secondP{
 	margin-top: 15px; 
@@ -109,11 +128,14 @@ footer {
 		position: absolute;
 		display: none;
 		margin-left: 0px;
-		padding: 10px 0px 10px 15px; 
+		padding: 7px 20px 10px 15px; 
 		background: #e6e7e8; 
 	}
 		ul.subNav li{
 			clear:both;
+		}
+		ul.subNav li:hover{
+			font-weight: bold;
 		}
 			
 
@@ -155,9 +177,12 @@ footer {
 		margin-top: 15px;
 	}
 
-	.smIcons{
+	.smIcons_index{
 		padding: 5px 0 0 5px; 
 	}
+		.smIcons{
+			padding: 5px 5px 0 0; 
+		}
 
 	.rightSocial {
 		margin-top: 0px; 
@@ -178,6 +203,7 @@ footer {
 	color: #636466; 
 }
 	.links a{
+		font-size: 11px; 
 		color: #636466; 
 	}
 	.links a:hover{

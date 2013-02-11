@@ -54,9 +54,11 @@
         <li class="navSpace"><a href="index.php"><b>Welcome </b><i>Willkommen</i></a></li>
         <li class="dropDown navSpace"><a href="about.php"><b>About </b><i>Über</i></a>
            <ul class="subNav">
-              <li><a href="">About Cincideutsch</a></li>
-              <li><a href="">In the News</a></li>
-              <li><a href="">Cincinnati History</a></li>
+              <li><a href="aboutCincideutsh.php">About Cincideutsch</a></li>
+              <li><a href="ourHistory.php">Our History</a></li>
+              <li><a href="cincinnatisHeritage.php">Cincinnati's Heritage</a></li>
+              <li><a href="EFscholarship.php">EF Scholarship</a></li>
+              <li><a href="supportCincideutsch.php">Support Cincideutschq</a></li>
            </ul>  
         </li>
         <li class="dropDown navSpace"><a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>

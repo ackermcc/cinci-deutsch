@@ -10,12 +10,12 @@
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
+        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
         <a href=""><img class="smIcons" src="images/facebook.png"></a>
         <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
+        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
       </div>
     </div>
 

@@ -27,12 +27,12 @@
   <div class="row">
     <div class="twelve columns">
       <div class="footerOption2">
+        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
         <a href=""><img class="smIcons" src="images/facebook.png"></a>
         <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
+        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
       </div>  
     </div>
   </div>

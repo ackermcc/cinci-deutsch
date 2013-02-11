@@ -33,12 +33,12 @@
 
     <div class="six columns end social right">
       <div class="eng">Connect <span class="ger">Anschließen</span></div>
-      <a href=""><img class="smIcons" src="images/facebook.png"></a>
-      <a href=""><img class="smIcons" src="images/twitter.png"></a>
-      <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-      <a href=""><img class="smIcons" src="images/flickr.png"></a>
-      <a href=""><img class="smIcons" src="images/instagram.png"></a>
-      <a href=""><img class="smIcons" src="images/meetUp.png"></a>
+      <a href=""><img class="smIcons_index" src="images/meetUp.png"></a>
+      <a href=""><img class="smIcons_index" src="images/facebook.png"></a>
+      <a href=""><img class="smIcons_index" src="images/twitter.png"></a>
+      <a href=""><img class="smIcons_index" src="images/flickr.png"></a>
+      <a href=""><img class="smIcons_index" src="images/linkedIn.png"></a>
+      <a href=""><img class="smIcons_index" src="images/instagram.png"></a>
     </div>
   </div>
 
