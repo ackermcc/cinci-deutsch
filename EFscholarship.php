@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img src="http://fpoimg.com/290x290?text=Preview">
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
       <div>The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
         several times a day, drawing tourists from all over the world. It portrays two stories of festivities from the Middle Ages, 
         where a Bavarian knight wins a joust to celebrate the birthday of Duke Wilhelm V.</div>
@@ -43,19 +43,18 @@
     </div>
 
     <div class="three columns">
-      <div class="gerTitle">...</div>
+      <div class="gerTitle">Demnächst</div>
       <hr class="red">
-      <div class="ger">...</div>
+      <div class="ger">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">For Program Applicants</div>
+        <div class="eng">Program Applicants</div>
         <div><a href="">Application</a></div>
         <div><a href="">Recommendation Forms</a></div>
-      </div>
-      <div class="links">
-        <div>Donate to EF Scholarship Fund </div>
+        <p></p>
+        <div><a href="">Donate to EF Scholarship</a></div>
       </div>
     </div>    
 

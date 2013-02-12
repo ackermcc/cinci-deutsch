@@ -1,12 +1,12 @@
 
   <? include_once('header.php'); ?>
-
+  
   <div class="row mainContent">
 
     <div class="four columns ">
       <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
-      <div class="ger secondP">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
+      <div></div>
+      <div class="ger secondP"></div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,31 +20,26 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Cincinnati History</div>
+      <div class="eng">Cincideutsch Christkindlmarkt 2013 </div>
       <hr class="yellow">
-      <div>Cincinnati has one of the largest German immigrant populations in the United States.</div>
+      <div></div>
     </div>
 
     <div class="three columns">
-      <div class="ger">Cincinnati Geschichte</div>
+      <div class="ger">Cincideutsch Christkindlmarkt 2013</div>
       <hr class="red">
-      <div class="ger">Cincinnati has one of the largest German immigrant populations in the United States.</div>
+      <div class="ger"></div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Links</div>
-        <div><a href="">German-American Citizens</a></div>
-        <div><a href="">League (GACL)</a></div>
-        <div><a href="">German Heritage Tours</a></div>
-        <div><a href="">German Heritage Museum</a></div>
-        <div><a href="">Cincinnati, City of Immigrants</a></div>
-        <div><a href="">German Radio</a></div>
-        <div><a href="">Music Hall</a></div>
-        <div class="eng secondP">Lists</div>
-        <div><a href="">German Societies</a></div>
-        <div><a href="">German Restaurants</a></div>
-        <div><a href="">German Companies</a></div>
+        <div class="eng">Directions</div>
+        <div>Fountain Square</div>
+        <div>Parking</div>
+        <div class="secondP">Sponsors 2013</div>
+        <div>Become a Sponsor</div>
+        <div class="eng secondP">Past Christkindlmarkts</div>
+        <div><a href="cincideutschChristkindlmarkt2012.php">2012</a></div>
       </div>
     </div>    
 

@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img src="http://fpoimg.com/290x290?text=Preview">
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
       <div>Courtesy of the Westendorf family collection: The Westendorf family at Cincinnati’s very first Oktoberfest, 
         held by the Germania Society in 1971.<a class="morePhotos"> (more historical photos)</a></div>
       <div class="ger secondP">Courtesy of the Westendorf family collection: The Westendorf family at Cincinnati’s very 

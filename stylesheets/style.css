@@ -7,6 +7,7 @@
 body, p, div, a {
 	font-size: 12px;
 	line-height: 1.4;
+	
 }
 
 hr.yellow {
@@ -36,6 +37,10 @@ hr.red {
 .gerTitle {
 	font-weight: bold;
 	font-style: italic;
+}
+
+.imageSubPg{
+	padding-bottom: 10px; 
 }
 
 .pLink {

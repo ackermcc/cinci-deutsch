@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img src="http://fpoimg.com/290x290?text=Preview">
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
       <div>Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during the opening ceremonies, 
         where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal is hung at each tent, 
         following traditions in Bavaria.  <a class="morePhotos">(more photos)</a></div>
@@ -76,7 +76,7 @@
     <div class="two columns">
       <div class="links">
         <div class="eng">Links</div>
-        <div><a href="">Cincideutsch Christkindlmarkt</a></div>
+        <div><a href="">Christkindlmarkt 2012</a></div>
         <div><a href="">EF Scholarship</a></div>
         <div><a href="">Support Cincideutsch</a></div>
       </div>

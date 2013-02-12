@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img src="http://fpoimg.com/290x290?text=Preview">
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
       <div>Cincideutsch members participating in the 2012 Zinzinnati Oktoberfest. <a class="morePhotos">(more photos)</a></div>
       <div class="ger secondP">Cincideutsch members participating in the 2012 Zinzinnati Oktoberfest. <a class="morePhotos">(more photos)</a></div>
       
@@ -35,13 +35,13 @@
     <div class="three columns">
       <div class="gerTitle">Über Cincideutsch</div>
       <hr class="red">
-      <div class="ger">...</div>
+      <div class="ger">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div class="eng">Links</div>
-        <div><a href="">Cincideutsch Christkindlmarkt</a></div>
+        <div><a href="">Christkindlmarkt 2012</a></div>
         <div><a href="">EF Scholarship</a></div>
         <div><a href="">Support Cincideutsch</a></div>
       </div>

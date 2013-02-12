@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img src="http://fpoimg.com/290x290?text=Preview">
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
       <div>Cincideutsch placed third in the 2012 Bavarian Beneficial Society Bowling Tournament. The has supported German language and 
         customs as well as aided members during times of hardship since it was founded in 1875.</div>
       <div class="ger secondP"></div>
@@ -38,9 +38,9 @@
     </div>
 
     <div class="three columns">
-      <div class="gerTitle">...</div>
+      <div class="gerTitle">Demnächst</div>
       <hr class="red">
-      <div class="ger">...</div>
+      <div class="ger">Demnächst</div>
     </div>
 
     <div class="two columns">
@@ -48,8 +48,7 @@
         <div class="eng">Links</div>
         <div><a href="">Make a Donation</a></div>
         <div><a href="">Become a Sponsor</a></div>
-      </div>
-      <div class="links">
+        <p></p>
         <div><a href="">Annual Reports (pdf) 2012</a></div>
       </div>
     </div>    

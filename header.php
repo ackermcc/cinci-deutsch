@@ -58,19 +58,21 @@
               <li><a href="ourHistory.php">Our History</a></li>
               <li><a href="cincinnatisHeritage.php">Cincinnati's Heritage</a></li>
               <li><a href="EFscholarship.php">EF Scholarship</a></li>
-              <li><a href="supportCincideutsch.php">Support Cincideutschq</a></li>
+              <li><a href="supportCincideutsch.php">Support Cincideutsch</a></li>
            </ul>  
         </li>
         <li class="dropDown navSpace"><a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
           <ul class="subNav">
-              <li><a href="">Cincideutsch Christkindlmarkt 2013</a></li>
-              <li><a href="">Regulars’ Table <i>Stammtisch</i></a></li>
-              <li><a href="">White Sausage Breakfast <i>Weißwurstfrühstück</i></a></li>
-              <li><a href="">Bockfest <i>Bockfest</i></a></li>
-              <li><a href="">May Festival <i>Maifest</i></a></li>
-              <li><a href="">Shooting Festival <i>Schützenfest</i></a></li>
-              <li><a href="">Oktoberfest <i>Bockfest</i></a></li>
-              <li><a href="">Christmas Market <i>Christkindlmarkt</i></a></li>
+              <li><a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt 2012</a></li>
+              <li><a href="regularsTable.php">Regulars’ Table <i>Stammtisch</i></a></li>
+              <li><a href="whiteSausageBreakfast.php">White Sausage Breakfast <i>Weißwurstfrühstück</i></a></li>
+              <li><a href="bockfest.php">Bockfest <i>Bockfest</i></a></li>
+              <li><a href="mayFestival.php">May Festival <i>Maifest</i></a></li>
+              <li><a href="germanDay.php">German Day <i>Schützenfest</i></a></li>
+              <li><a href="shootingFestival.php">Shooting Festival <i>Schützenfest</i></a></li>
+              <li><a href="oktoberfest.php">Oktoberfest <i>Bockfest</i></a></li>
+              <li><a href="">Christmas Markets <i>Christmas Markets</i></a></li>
+              <li><a href="">Singing Festival <i>Singing Festival</i></a></li>
               <li><a href="">Cincinnati Culture <i>Cincinnati Kultur</i></a></li>
           </ul>
         </li>   

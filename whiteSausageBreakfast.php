@@ -1,12 +1,12 @@
 
   <? include_once('header.php'); ?>
-
+  
   <div class="row mainContent">
 
     <div class="four columns ">
       <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
-      <div class="ger secondP">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
+      <div>Händlmaier Mustard Club members enjoying a beautiful day in the beer garden at Mecklenburg Gardens for their once monthly Weisswurstessen.</div>
+      <div class="ger secondP">Händlmaier Senf Klub Mitglieder geniessen eine wunderschoenen Tag im Biergarten bei Mecklenburg Gardens zum monatlichen Weisswurstessen.</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,31 +20,26 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Cincinnati History</div>
+      <div class="eng">White Sausage Breakfast</div>
       <hr class="yellow">
-      <div>Cincinnati has one of the largest German immigrant populations in the United States.</div>
+      <div>
+        <p>Inspired by the Gemütlichkeit of Bavaria’s Händlmaier Mustard Fan Club, Cincinnati’s chapter gathers once each month at 
+          Mecklenburg Gardens for a traditional Bavarian white sausage meal (Weißwurstessen). The spread consists of sausages cooked 
+          in water, sweet mustard (or whichever Händlmaier variety you prefer!), fresh pretzels, and wheat beer. </p>
+      </div>
     </div>
 
     <div class="three columns">
-      <div class="ger">Cincinnati Geschichte</div>
+      <div class="ger">Weisswurstfrühstuck</div>
       <hr class="red">
-      <div class="ger">Cincinnati has one of the largest German immigrant populations in the United States.</div>
+      <div class="ger">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Links</div>
-        <div><a href="">German-American Citizens</a></div>
-        <div><a href="">League (GACL)</a></div>
-        <div><a href="">German Heritage Tours</a></div>
-        <div><a href="">German Heritage Museum</a></div>
-        <div><a href="">Cincinnati, City of Immigrants</a></div>
-        <div><a href="">German Radio</a></div>
-        <div><a href="">Music Hall</a></div>
-        <div class="eng secondP">Lists</div>
-        <div><a href="">German Societies</a></div>
-        <div><a href="">German Restaurants</a></div>
-        <div><a href="">German Companies</a></div>
+
+
+        
       </div>
     </div>    
 
