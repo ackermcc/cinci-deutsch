@@ -71,9 +71,10 @@
               <li><a href="germanDay.php">German Day <i>Schützenfest</i></a></li>
               <li><a href="shootingFestival.php">Shooting Festival <i>Schützenfest</i></a></li>
               <li><a href="oktoberfest.php">Oktoberfest <i>Bockfest</i></a></li>
-              <li><a href="">Christmas Markets <i>Christmas Markets</i></a></li>
-              <li><a href="">Singing Festival <i>Singing Festival</i></a></li>
-              <li><a href="">Cincinnati Culture <i>Cincinnati Kultur</i></a></li>
+              <li><a href="christmasMarket.php">Christmas Markets <i>Christmas Markets</i></a></li>
+              <li><a href="singingFestival.php">Singing Festival <i>Singing Festival</i></a></li>
+              <li><a href="cincinnatiCommunity.php">Cincinnati Community <i>Cincinnati Kultur</i></a></li>
+              <li><a href="cincideutschChristkindlmarkt2013.php">test</a></li>
           </ul>
         </li>   
         <li class="navSpace"><a href="albums.php"><b>Albums </b><i>Alben</i></a></li>

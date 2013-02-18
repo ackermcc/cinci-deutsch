@@ -4,10 +4,10 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Courtesy of the Westendorf family collection: The Westendorf family at Cincinnati’s very first Oktoberfest, 
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Courtesy of the Westendorf family collection: The Westendorf family at Cincinnati’s very first Oktoberfest, 
         held by the Germania Society in 1971.<a class="morePhotos"> (more historical photos)</a></div>
-      <div class="ger secondP">Courtesy of the Westendorf family collection: The Westendorf family at Cincinnati’s very 
+      <div title="ger caption" class="ger secondP cushycms">Courtesy of the Westendorf family collection: The Westendorf family at Cincinnati’s very 
         first Oktoberfest, held by the Germania Society in 1971. <a class="morePhotos"> (more historical photos)</a></div>
       
       <div class="social">
@@ -22,9 +22,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Cincinnati’s Heritage</div>
+      <div title="eng title" class="eng cushycms">Cincinnati’s Heritage</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>A history of Cincinnati would be inconceivable without consideration of the population of German descent, as it has played 
           such an important role in the social, economic, cultural and political development of the city. Already in the early 19th 
           century, Cincinnati became one of the major centers of German immigration, forming the famed German Triangle along with St. 
@@ -52,9 +52,9 @@
     </div>
 
     <div class="three columns">
-      <div class="gerTitle">Über Cincideutsch</div>
+      <div title="ger title" class="gerTitle cushycms">Über Cincideutsch</div>
       <hr class="red">
-      <div class="ger">
+      <div title="ger content" class="ger cushycms">
         <p>Undenkbar wäre eine Gechichte Cincinnatis ohne Berücksichtigung der deutschstämmigen Bevőlkerung, weil sie eine bedeutende 
           Rolle in der sozialen, wirtschaftlichen, kulturellen und politschen Entwicklung der Stadt gespielt hat. Schon früh im 19. 
           Jahrhundert wurde Cincinnati eines der Zentren der deutschen Einwanderung und bildete mit St. Louis und Milwaukee das 
@@ -84,16 +84,18 @@
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Links</div>
-        <div><a href="">Genealogical References</a></div>
-        <div><a href="">Historical Tours</a></div>
-        <div><a href="">Int’l Relations</a></div>
-        <div><a href="">Museum Collections</a></div>
-        <div><a href="">Newspapers &amp Radio</a></div>
-        <div><a href="">Organizations &amp Societies</a></div>
-        <div><a href="">Religious Services</a></div>
-        <div><a href="">Restaurants &amp Breweries</a></div>
-        <div><a href="">Language Education</a></div>
+        <div title="links title" class="eng cushycms">Links</div>
+        <div title="links" class="cushycms">
+          <a href="">Genealogical References</a>
+          <a href="">Historical Tours</a>
+          <a href="">Int’l Relations</a>
+          <a href="">Museum Collections</a>
+          <a href="">Newspapers &amp Radio</a>
+          <a href="">Organizations &amp Societies</a>
+          <a href="">Religious Services</a>
+          <a href="">Restaurants &amp Breweries</a>
+          <a href="">Language Education</a>
+        </div>
       </div>
     </div>    
 

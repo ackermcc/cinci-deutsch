@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
-      <div title="eng caption" class="cushycms"></div>
-      <div title="ger caption" lass="ger secondP cushycms"></div>
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
+      <div>To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
+      <div class="ger secondP">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,35 +20,25 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2013 </div>
+      <div class="eng">Historical Tours</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"></div>
+      <div>
+        <p>ArchiTreks: Cincinnati Walks CincyHaus Tours (American Legacy Tours) German Heritage Tours</p>
+      </div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2013</div>
+      <div class="ger">Demnächst</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"></div>
+      <div class="ger">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms">Directions</div>
-        <div title="links" class="cushycms">
-          <a href="">Fountain Square</a>
-          <a href="">Parking</a>
+        <div class="eng"></div>
+        <div>
+          To add your local historical tour to our list, please email pr@cincideutsch.com.
         </div>
-
-        <div title="links title" class="eng secondP cushycms">Sponsors 2013</div>
-        <div title="links" class="cushycms">
-          <a href="">Become a Sponsor</a>
-        </div>
-
-        <div title="links title" class="eng secondP cushycms">Past Christkindlmarkts</div>
-        <div title="links" class="cushycms">
-          <a href="cincideutschChristkindlmarkt2012.php">2012</a>
-        </div>
-      </div>
     </div>    
 
   </div>

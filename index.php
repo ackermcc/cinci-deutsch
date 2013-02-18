@@ -4,31 +4,31 @@
   <div class="row mainContent">
     <div class="seven columns">
       <div class="welcomeImage1">
-        <img class="welcomeImage_1" src="http://fpoimg.com/600x435?text=Preview">
+        <img title="mainImage" class="welcomeImage_1 cushycms" src="http://fpoimg.com/600x435?text=Preview">
       </div>
     </div>
     <div class="five columns">
       <ul class="block-grid two-up welcomeImage2li">
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img class="welcomeImage_2" src="http://fpoimg.com/200x200?text=Preview"></li>
+        <li><img title="smallImage1" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
+        <li><img title="smallImage2" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
+        <li><img title="smallImage3" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
+        <li><img title="smallImage4" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
       </ul>
     </div>
   </div>
   
   <div class="row">
     <div class="three columns">
-      <div class="eng">Cincideutsch Christkindlmarkt 2012</div>
+      <div title ="english title" class="eng cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="yellow">
-      <div>Cincideutsch introduced the first authentic German-Christmas market <br> to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.
+      <div title="english copy" class="cushycms">Cincideutsch introduced the first authentic German-Christmas market <br> to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.
       </div>
     </div>
     <!-- <div class="one column"></div> -->
     <div class="three columns">
-      <div class="ger">Cincideutsch Christkindlmarkt 2012</div>
+      <div title="german title" class="ger cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="red">
-      <div class="ger">Cincideutsch...</div>
+      <div title="german copy" class="ger cushycms">Cincideutsch...</div>
     </div>
 
     <div class="six columns end social right">

@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
-      <div title="eng caption" class="cushycms"></div>
-      <div title="ger caption" lass="ger secondP cushycms"></div>
+      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
+      <div>...</div>
+      <div class="ger secondP">...</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,35 +20,33 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2013 </div>
+      <div class="eng">Singing Festival</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"></div>
+      <div>
+        <p>Prior to the founding of the May Festival, the greatest singing events in the city were the German singing festivals. Begun 
+          by choirs known as Saengerbunds in 1849, these choral events drew thousands of singers to the city of Cincinnati. Almost 100 
+          years since its founding, enthusiasm for the festival eventually died down due to the increased popularity of the May Festival 
+          and the event ceased to be held as of the 1950s. After the success of the World Choir Games in 2012, Saengerfest was revived 
+          that same year, perpetuating the tradition and reaffirming Cincinnati’s well deserved title of “The City that Sings.” </p>
+      </div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2013</div>
+      <div class="ger">Saengerfest</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"></div>
+      <div class="ger">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms">Directions</div>
-        <div title="links" class="cushycms">
-          <a href="">Fountain Square</a>
-          <a href="">Parking</a>
+        <div class="eng">Celebrations</div>
+        <div>
+          <a href="">Christmas Saengerfest</a>
         </div>
-
-        <div title="links title" class="eng secondP cushycms">Sponsors 2013</div>
-        <div title="links" class="cushycms">
-          <a href="">Become a Sponsor</a>
+        <div class="eng secondP">Resources</div>
+        <div>
+          <a href="">Singing Societies</a>
         </div>
-
-        <div title="links title" class="eng secondP cushycms">Past Christkindlmarkts</div>
-        <div title="links" class="cushycms">
-          <a href="cincideutschChristkindlmarkt2012.php">2012</a>
-        </div>
-      </div>
     </div>    
 
   </div>

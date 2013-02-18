@@ -6,19 +6,19 @@
     <div class="twelve columns">
       <ul class="block-grid three-up">
         <li>
-            <img src="http://fpoimg.com/290x290?text=Preview">
-            <div>Opera 2011 <span class="right">(9)</span></div>
-            <div>Die Oper 2011</div>
+            <img  title="image" class="cushycms" src="http://fpoimg.com/290x290?text=Preview">
+            <div title="eng title" class="cushycms">Opera 2011 <span title="# of images" class="right cushycms">(9)</span></div>
+            <div title="ger title" class="cushycms">Die Oper 2011</div>
         </li>
         <li>
-            <img src="http://fpoimg.com/290x290?text=Preview">
-            <div>Cinideutsch Christkindlmarkt 2011 <span class="right">(20)</span></div>
-            <div>Cincideutsch Christkindlmarkt 2011</div>
+            <img  title="image" class="cushycms" src="http://fpoimg.com/290x290?text=Preview">
+            <div title="eng title" class="cushycms">Cinideutsch Christkindlmarkt 2011 <span title="# of images" class="right cushycms">(20)</span></div>
+            <div title="ger title" class="cushycms">Cincideutsch Christkindlmarkt 2011</div>
         </li>
         <li>
-            <img src="http://fpoimg.com/290x290?text=Preview">
-            <div>Shooting Festival 2011 <span class="right">(20)</span></div>
-            <div>Schützenfest 2011</div>
+            <img  title="image" class="cushycms" src="http://fpoimg.com/290x290?text=Preview">
+            <div title="eng title" class="cushycms">Shooting Festival 2011 <span title="# of images" class="right cushycms">(20)</span></div>
+            <div title="ger title" class="cushycms">Schützenfest 2011</div>
         </li>
       </ul>
     </div>

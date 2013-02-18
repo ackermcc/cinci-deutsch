@@ -4,11 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>The Ribbon Cutting Ceremony at the opening of the Cincideutsch Christkindlmarkt 2012. From left to right: GACL President Dr. 
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">The Ribbon Cutting Ceremony at the opening of the Cincideutsch Christkindlmarkt 2012. From left to right: GACL President Dr. 
         Don Heinrich Tolzmann, Honorary German Consulate Martin Wilhelmy, Cincideutsch Co-Founder Linda McAlister, Councilwoman Laure 
         Quinlivan, Vice Mayor Roxanne Qualls, Cincideutsch Co-Founder Olaf Scheil, and Councilwoman Yvette Simpson. <a class="morePhotos">(more photos)</a></div>
-      <div class="ger secondP">Die Eroeffnungsfeier vom Cincideutsch Christkindlmarkt 2012. Von links nach rechts: GACL President Dr. 
+      <div title="ger caption" class="ger secondP cushycms">Die Eroeffnungsfeier vom Cincideutsch Christkindlmarkt 2012. Von links nach rechts: GACL President Dr. 
         Don Heinrich Tolzmann, Ehrenamtlicher deutscher Konsul Martin Wilhelmy, Cincideutsch Mitgruender Linda McAlister, Ratsangehoerige 
         Laure Quinlivan, Vize Mayor Roxanne Qualls, Cincideutsch MitgruenderOlaf Scheil, and Ratsangehoerige Yvette Simpson. <a class="morePhotos">(mehr Photos)</a></div>
       
@@ -24,9 +24,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Cincideutsch Christkindlmarkt 2012</div>
+      <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>Cincideutsch introduced the first authentic German Christmas market to downtown Cincinnati’s Fountain Square the weekend after 
           Thanksgiving. The market featured local vendors with items ranging from Christmas décor to imported German goods to German-style 
           sweets and foods.</p>
@@ -42,29 +42,37 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Cincideutsch Christkindlmarkt 2012</div>
+      <div title="ger title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="red">
-      <div class="ger">Cincideutsch praesentierte den ersten authentischen deutschen Christkindlmarkt in Downtown Cincinnati’s Fountain 
+      <div title="ger content" class="ger cushycms">Cincideutsch praesentierte den ersten authentischen deutschen Christkindlmarkt in Downtown Cincinnati’s Fountain 
         Square. Der Markt fand am Wochenende nach Thanksgiving statt und lokale Geschaefte und Organisationen hatten die Moeglichkeit, 
         ihre Produkte zu verkaufen. Vom Weihnachtsschmuck ueber importiere deutsche Artikel bis deutsche Suessigkeiten war alles vertreten.</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng"><a href="">Directions</a></div>
-        <div><a href="">Fountain Square</a></div>
-        <div><a href="">Parking</a></div>
+        <div title="link title" class="eng cushycms"><a href="">Directions</a></div>
+        <div title="links" class="cushycms">
+          <a href="">Fountain Square</a>
+          <a href="">Parking</a>
+        </div>
 
-        <div class="eng secondP"><a href="">Presenting Sponsor 2012</a></div>
-        <div><a href="">City of Cincinnati</a></div>
+        <div title="link title" class="eng secondP cushycms"><a href="">Presenting Sponsor 2012</a></div>
+        <div title="links" class="cushycms">
+          <a href="">City of Cincinnati</a>
+        </div>
 
-        <div class="eng secondP"><a href="">Sponsors 2012</a></div>
-        <div><a href="">Christian Moerlein</a></div>
-        <div><a href="">Siemens</a></div>
-        <div><a href="">UBS</a></div>
+        <div title="link title" class="eng secondP cushycms"><a href="">Sponsors 2012</a></div>
+        <div title="links" class="cushycms">
+          <a href="">Christian Moerlein</a>
+          <a href="">Siemens</a>
+          <a href="">UBS</a>
+        </div>
 
-        <div class="eng secondP"><a href="">Become a 2013 Sponsor</a></div>
-        <div><a href="">Become a 2013 Vendor</a></div>
+        <div title="link title" class="eng secondP cushycms"><a href="">Become a 2013 Sponsor</a></div>
+        <div title="links" class="cushycms">
+          <a href="">Become a 2013 Vendor</a>
+        </div>
       </div>
     </div>    
 

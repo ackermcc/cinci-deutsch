@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Cincideutsch members participating in the 2012 Zinzinnati Oktoberfest. <a class="morePhotos">(more photos)</a></div>
-      <div class="ger secondP">Cincideutsch members participating in the 2012 Zinzinnati Oktoberfest. <a class="morePhotos">(more photos)</a></div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Cincideutsch members participating in the 2012 Zinzinnati Oktoberfest. <a class="morePhotos">(more photos)</a></div>
+      <div  title="ger caption" class="ger secondP cushycms">Cincideutsch members participating in the 2012 Zinzinnati Oktoberfest. <a class="morePhotos">(more photos)</a></div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,10 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">About Cincideutsch</div>
+      <div title="eng title" class="eng cushycms">About Cincideutsch</div>
       <hr class="yellow">
-      <div><p>Cincideutsch is a group of German-speaking residents in Cincinnati, Ohio. We come together to celebrate our 
+      <div title="eng content" class="cushycms">
+        <p>Cincideutsch is a group of German-speaking residents in Cincinnati, Ohio. We come together to celebrate our 
         German heritage through such events as our weekly Regulars’ Table, by participating in events like Oktoberfest, 
         which are sponsored by various other local German organizations, and by becoming involved in the arts and community
         development. The speaking experience of members ranges from beginner to native speaker, so if you are looking to
@@ -33,17 +34,19 @@
     </div>
 
     <div class="three columns">
-      <div class="gerTitle">Über Cincideutsch</div>
+      <div title="ger title" class="gerTitle cushycms">Über Cincideutsch</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger title" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Links</div>
-        <div><a href="">Christkindlmarkt 2012</a></div>
-        <div><a href="">EF Scholarship</a></div>
-        <div><a href="">Support Cincideutsch</a></div>
+        <div title="links title" class="eng cushycms">Links</div>
+        <div title="links" class="cushycms">
+          <a href="">Christkindlmarkt 2012</a>
+          <a href="">EF Scholarship</a>
+          <a href="">Support Cincideutsch</a>
+        </div>
       </div>
     </div>    
 
