@@ -4,10 +4,10 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Cincideutsch members in traditional Bavarian garb at the Germania Society’s Oktoberfest in 2012. Formal Dirndl dresses and 
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Cincideutsch members in traditional Bavarian garb at the Germania Society’s Oktoberfest in 2012. Formal Dirndl dresses and 
         Lederhosen have become synonymous with the event throughout the world. <a class="morePhotos">(more photos)</a></div>
-      <div class="ger secondP">Cincideutsch members in traditional Bavarian garb at the Germania Society’s Oktoberfest in 2012. <a class="morePhotos">(more photos)</a></div>
+      <div title="ger caption" class="ger secondP cushycms">Cincideutsch members in traditional Bavarian garb at the Germania Society’s Oktoberfest in 2012. <a class="morePhotos">(more photos)</a></div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -21,9 +21,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Oktoberfest</div>
+      <div title="eng title" class="eng cushycms">Oktoberfest</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms"> 
         <p>Autumn is the busiest time of year for the German community in Cincinnati. From the last week of August through the first week 
           of October, Oktoberfest celebrations can be found every weekend throughout the city. In fact, Cincinnati has more Oktoberfests 
           than any other city in the United States and has acquired the nickname Oktoberfest City, USA. </p>
@@ -45,23 +45,26 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Schützenfest</div>
+      <div title="ger title" class="gerTitle cushycms">Schützenfest</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Celebrations</div>
-        <div><a href="">Germania Society </a></div>
-        <div><a href="">Liberty Home </a></div>
-        <div><a href="">Mainstrasse Village</a></div>
-        <div><a href="">Mount Adams</a></div>
-        <div><a href="">Zinzinnati</a></div>
-        <div><a href="">Überdrome</a></div>
-        <div><a href="">Newport</a></div>
-        <div><a href="">Listermann’s</a></div>
-        <div><a href="">Donauschwaben</a></div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms">
+          <a href="">Germania Society </a>
+          <a href="">Liberty Home </a>
+          <a href="">Mainstrasse Village</a>
+          <a href="">Mount Adams</a>
+          <a href="">Zinzinnati</a>
+          <a href="">Überdrome</a>
+          <a href="">Newport</a>
+          <a href="">Listermann’s</a>
+          <a href="">Donauschwaben</a>
+        </div>
+      </div>
     </div>    
 
   </div>

@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>...</div>
-      <div class="ger secondP">...</div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">...</div>
+      <div title="ger caption" class="ger secondP cushycms">...</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Genealogical References</div>
+      <div title="eng title" class="eng cushycms">Genealogical References</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms"
         <p>This list contains but a small fraction of the many books written about German-Americans. For further reading materials and 
           access to microfilms, visit the downtown branch of the <a class="pLink">Public Library of Cincinnati &amp Hamilton County</a>, which has one of the 
           largest genealogical collections in the country. If you need assistance in your search or references to further resources, 
@@ -31,9 +31,9 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
       <hr class="red">
-      <div class="ger">
+      <div title="ger content" class="ger cushycms">
         <p>eBooks (German) Cincinnati in Wort Und Bild Max Burgheim</p>
         <p>“Die neuner.”: Eine Schilderung der Kriegsjahre des 9ten Regiments Ohio Volunteer Infantry Gustav Tafel</p>
         <p>Cincinnati und sein Deutschthum: </br>
@@ -46,10 +46,9 @@
 
     <div class="two columns">
       <div class="links">
-        <div class="eng"></div>
-        <div>
-          To add your local historical tour to our list, please email pr@cincideutsch.com.
-        </div>
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
+      </div>
     </div>    
 
   </div>

@@ -3,10 +3,10 @@
   
   <div class="row mainContent">
 
-    <div class="three columns ">
-      <img src="http://fpoimg.com/210x210?text=Preview">
-      <div>Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
-      <div class="ger secondP">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
+    <div class="four columns ">
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
+      <div title="ger caption" class="ger secondP cushycms">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,28 +20,35 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Cincideutsch Christkindlmarkt 2013 </div>
+      <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2013 </div>
       <hr class="yellow">
-      <div>Cincideutsch introduced the first authentic German Christmas market <br>to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.</div>
+      <div title="eng content" class="cushycms">Cincideutsch introduced the first authentic German Christmas market <br>to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.</div>
     </div>
 
     <div class="three columns">
-      <div class="ger">Cincideutsch Christkindlmarkt</div>
+      <div title="ger title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt</div>
       <hr class="red">
-      <div class="ger">Cincideutsch...</div>
+      <div title="ger content" class="ger cushycms">Cincideutsch...</div>
     </div>
 
-    <div class="three columns">
+    <div class="two columns">
       <div class="links">
-        <div class="eng">Hours</div>
-        <div>Fri, Nov 23 (11am–10pm)</div>
-        <div>Sat, Nov 24 (11am–10pm)</div>
-        <div>Sun, Nov 25 (11am–7pm)</div>
-        <div class="eng secondP">Directions</div>
-        <div>Fountain Square</div>
-        <div>Parking</div>
-        <div class="eng secondP">Presenting Sponsor</div>
-        <div class="eng secondP">Sponsors</div>
+        <div title="links title" class="eng cushycms">Hours</div>
+        <div title="links" class="cushycms">
+          Fri, Nov 23 (11am–10pm)
+          Sat, Nov 24 (11am–10pm)
+          Sun, Nov 25 (11am–7pm)
+        </div>
+
+        <div title="links title" class="eng cushycms secondP">Directions</div>
+        <div title="links" class="cushycms">
+          Fountain Square
+          Parking
+        </div>
+          
+        <div title="links title" class="eng cushycms secondP">Presenting Sponsor</div>
+
+        <div title="links title" class="eng cushycms secondP">Sponsors</div>
       </div>
     </div>    
 

@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Dancers from the Donauschwaben Society’s Youth Group performing traditional dances at German Day June 4, 2012. </div>
-      <div class="ger secondP">Dancers from the Donauschwaben Society’s Youth Group performing traditional dances at German Day June 4, 2012.</div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Dancers from the Donauschwaben Society’s Youth Group performing traditional dances at German Day June 4, 2012. </div>
+      <div title="ger caption" class="ger secondP cushycms">Dancers from the Donauschwaben Society’s Youth Group performing traditional dances at German Day June 4, 2012.</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">German Day</div>
+      <div title="eng title" class="eng cushycms">German Day</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>Cincinnati held its first German Day celebration in 1895. It is a two day celebration, held at Findlay Market, Ohio’s oldest 
           public market, on Saturday and at the Hofbräuhaus on Sunday during the first weekend of June. Festivities include a recognition 
           of Cincinnati’s German societies and representatives, a ceremonial keg tapping, traditional dance, music, and Gemütlichkeit. </p>
@@ -36,16 +36,16 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">German Day</div>
+      <div title="ger title" class="gerTitle cushycms">German Day</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-
-
-        
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms"></div>
+      </div>
     </div>    
 
   </div>

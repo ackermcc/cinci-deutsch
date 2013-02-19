@@ -4,10 +4,10 @@
   
   <div class="row mainContent">
 
-    <div class="three columns ">
-      <img src="http://fpoimg.com/210x210?text=Preview">
-      <div>Cincideutsch’s cofounders at Zinzinnati’s Oktoberfest in 2012. </div>
-      <div class="ger secondP">Cincideutsch’s cofounders at Zinzinnati’s Oktoberfest in 2012. </div>
+    <div class="four columns ">
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Cincideutsch’s cofounders at Zinzinnati’s Oktoberfest in 2012. </div>
+      <div title="ger caption" class="ger secondP cushycms">Cincideutsch’s cofounders at Zinzinnati’s Oktoberfest in 2012. </div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,86 +20,93 @@
       </div>
     </div>
 
-
-      <div></div>  
-
-
     <div class="three columns ">
-      <div class="eng">Contact</div>
+      <div title="eng title" class="eng cushycms">Contact</div>
       <hr class="yellow">
-      <div>Olaf Scheil (Lübeck, Germany)</div> 
-      <div>Cofounder &amp President</div>  
-      <div ><a class="redEmail" href="mailto:olaf@cincideutsch.com">olaf@cincideutsch.com</a></div>
+      <div title="eng content" class="cushycms">
+        <p>Olaf Scheil (Lübeck, Germany) 
+        Cofounder &amp President  
+        <a class="redEmail" href="mailto:olaf@cincideutsch.com">olaf@cincideutsch.com</a></p>
 
-      <div class="secondP">Linda McAlister (Cincinnati, Ohio)</div>
-      <div>Cofounder, VP, &amp Treasurer</div>  
-      <div><a class="redEmail" href="mailto:linda@cincideutsch.com">linda@cincideutsch.com</a></div>
+        <p>Linda McAlister (Cincinnati, Ohio)
+        Cofounder, VP, &amp Treasurer  
+        <a class="redEmail" href="mailto:linda@cincideutsch.com">linda@cincideutsch.com</a></p>
 
-      <div class="secondP">Peter Rother (Cincinnati, Ohio)</div>
-      <div>Cofounder, Meetup Coordinator</div>  
-      <div><a class="redEmail" href="mailto:peter@cincideutsch.com">peter@cincideutsch.com</a></div>
+        <p>Peter Rother (Cincinnati, Ohio)
+        Cofounder, Meetup Coordinator  
+        <a class="redEmail" href="mailto:peter@cincideutsch.com">peter@cincideutsch.com</a></p>
 
-      <div class="secondP">Lisa Bambach (Cincinnati, Ohio)</div>
-      <div>Creative &amp Marketing Director,</div>  
-      <div>Social Media Coordinator</div>  
-      <div><a class="redEmail" href="mailto:lisa@cincideutsch.com">lisa@cincideutsch.com</a></div>
+        <p>Lisa Bambach (Cincinnati, Ohio)
+        Creative &amp Marketing Director,  
+        Social Media Coordinator  
+        <a class="redEmail" href="mailto:lisa@cincideutsch.com">lisa@cincideutsch.com</a></p>
 
-      <div class="secondP">Katie Paul (Union, Kentucky)</div>
-      <div>Volunteer &amp Social Media Coordinator</div>  
-      <div><a class="redEmail" href="mailto:katie@cincideutsch.com">katie@cincideutsch.com</a></div>
+        <p>Katie Paul (Union, Kentucky)
+        Volunteer &amp Social Media Coordinator 
+        <a class="redEmail" href="mailto:katie@cincideutsch.com">katie@cincideutsch.com</a></p>
 
-      <div class="secondP">Information</div>
-      <div><a class="redEmail" href="mailto:info@cincideutsch.com">info@cincideutsch.com</a></div>
+        <p>Information
+        <a class="redEmail" href="mailto:info@cincideutsch.com">info@cincideutsch.com</a></p>
 
-      <div class="secondP">Public Relations / Social Media Team</div>
-      <div><a class="redEmail" href="mailto:pr@cincideutsch.com">pr@cincideutsch.com</a></div>
+        <p>Public Relations / Social Media Team
+        <a class="redEmail" href="mailto:pr@cincideutsch.com">pr@cincideutsch.com</a></p>
+
+      </div>
     </div>
 
     <div class="three columns">
-      <div class="ger">Kontakt</div>
+      <div title="ger title" class="gerTitle cushycms">Kontakt</div>
       <hr class="red">
-      <div>Olaf Scheil (Lübeck, Germany)</div> 
-      <div>Cofounder &amp President</div>  
-      <div ><a class="redEmail" href="mailto:olaf@cincideutsch.com">olaf@cincideutsch.com</a></div>
+      <div title="ger content" class="ger cushycms">
+        <p>Olaf Scheil (Lübeck, Germany)
+        Cofounder &amp President
+        <a class="redEmail" href="mailto:olaf@cincideutsch.com">olaf@cincideutsch.com</a></p>
 
-      <div class="secondP">Linda McAlister (Cincinnati, Ohio)</div>
-      <div>Cofounder, VP, &amp Treasurer</div>  
-      <div><a class="redEmail" href="mailto:linda@cincideutsch.com">linda@cincideutsch.com</a></div>
+        <p>Linda McAlister (Cincinnati, Ohio)
+        Cofounder, VP, &amp Treasurer
+        <a class="redEmail" href="mailto:linda@cincideutsch.com">linda@cincideutsch.com</a></p>
 
-      <div class="secondP">Peter Rother (Cincinnati, Ohio)</div>
-      <div>Cofounder, Meetup Coordinator</div>  
-      <div><a class="redEmail" href="mailto:peter@cincideutsch.com">peter@cincideutsch.com</a></div>
+        <p>Peter Rother (Cincinnati, Ohio)
+        Cofounder, Meetup Coordinator
+        <a class="redEmail" href="mailto:peter@cincideutsch.com">peter@cincideutsch.com</a></p>
 
-      <div class="secondP">Lisa Bambach (Cincinnati, Ohio)</div>
-      <div>Creative &amp Marketing Director,</div>  
-      <div>Social Media Coordinator</div>  
-      <div><a class="redEmail" href="mailto:lisa@cincideutsch.com">lisa@cincideutsch.com</a></div>
+        <p>Lisa Bambach (Cincinnati, Ohio)
+        Creative &amp Marketing Director,  
+        Social Media Coordinator 
+        <a class="redEmail" href="mailto:lisa@cincideutsch.com">lisa@cincideutsch.com</a></p>
 
-      <div class="secondP">Katie Paul (Union, Kentucky)</div>
-      <div>Volunteer &amp Social Media Coordinator</div>  
-      <div><a class="redEmail" href="mailto:katie@cincideutsch.com">katie@cincideutsch.com</a></div>
+        <p>Katie Paul (Union, Kentucky)
+        Volunteer &amp Social Media Coordinator
+        <a class="redEmail" href="mailto:katie@cincideutsch.com">katie@cincideutsch.com</a></p>
 
-      <div class="secondP">Information</div>
-      <div><a class="redEmail" href="mailto:info@cincideutsch.com">info@cincideutsch.com</a></div>
+        <p>Information
+        <a class="redEmail" href="mailto:info@cincideutsch.com">info@cincideutsch.com</a></p>
 
-      <div class="secondP">Public Relations / Social Media Team</div>
-      <div><a class="redEmail" href="mailto:pr@cincideutsch.com">pr@cincideutsch.com</a></div>
+        <p>Public Relations / Social Media Team
+        <a class="redEmail" href="mailto:pr@cincideutsch.com">pr@cincideutsch.com</a></p>
+
+      </div>
     </div>
 
-    <div class="three columns">
+    <div class="two columns">
       <div class="links">
-        <div class="eng">Links</div>
-        <div><a href="">German-American Citizens</a></div>
-        <div><a href="">League (GACL)</a></div>
-        <div><a href="">German Heritage Tours</a></div>
-        <div><a href="">German Heritage Museum</a></div>
-        <div><a href="">Cincinnati, City of Immigrants</a></div>
-        <div><a href="">German Radio</a></div>
-        <div><a href="">Music Hall</a></div>
-        <div class="eng secondP">Lists</div>
-        <div><a href="">German Societies</a></div>
-        <div><a href="">German Restaurants</a></div>
-        <div><a href="">German Companies</a></div>
+        <div title="links title" class="eng cushycms">Links</div>
+        <div title="links" class="cushycms">
+          <a href="">German-American Citizens</a>
+          <a href="">League (GACL)</a>
+          <a href="">German Heritage Tours</a>
+          <a href="">German Heritage Museum</a>
+          <a href="">Cincinnati, City of Immigrants</a>
+          <a href="">German Radio</a>
+          <a href="">Music Hall</a>
+        </div>
+
+        <div title="links title" class="eng cushycms secondP">Lists</div>
+        <div title="links" class="cushycms">
+          <a href="">German Societies</a>
+          <a href="">German Restaurants</a>
+          <a href="">German Companies</a>
+        </div>
       </div>
     </div>    
 

@@ -4,10 +4,10 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Members of the German American Citizens League participate in parades throughout the year to celebrate the opening of festivals.
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Members of the German American Citizens League participate in parades throughout the year to celebrate the opening of festivals.
        In this picture, the Bloatarian Brewing League is lining up for the opening ceremony at the Zinzinnati Oktoberfest.</div>
-      <div class="ger secondP">Members of the GACL participate in parades throughout the year to celebrate the opening of festivals. In 
+      <div title="ger caption" class="ger secondP cushycms">Members of the GACL participate in parades throughout the year to celebrate the opening of festivals. In 
         this picture, the Bloatarian Brewing League is lining up for the opening ceremony at the Zinzinnati Oktoberfest.</div>
       
       <div class="social">
@@ -22,9 +22,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Organizations &amp Societies</div>
+      <div title="eng title" class="eng cushycms">Organizations &amp Societies</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p><b>Cultural</b>  </br>
           Bavarian Beneficial Society </br>
           Boone County Germanna Group </br>
@@ -53,9 +53,9 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">...</div>
+      <div title="ger title" class="gerTitle cushycms">...</div>
       <hr class="red">
-      <div class="">
+      <div title="ger content" class="ger cushycms">
         <p><b>Historical</b> </br>
           Bundeslaender Verein </br>
           Friends of the German Heritage Museum </br>
@@ -76,7 +76,9 @@
 
     <div class="two columns">
       <div class="links">
-        <div>To add your local organization to our list, please email pr@cincideutsch.com.</div>
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms">To add your local organization to our list, please email pr@cincideutsch.com.</div>
+      </div>  
     </div>    
 
   </div>

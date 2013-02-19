@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>...</div>
-      <div class="ger secondP">...</div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">...</div>
+      <div title="ger caption" class="ger secondP cushycms">...</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Newspapers &amp Radio</div>
+      <div title="eng title" class="eng cushycms">Newspapers &amp Radio</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p><a class="pLink">WAIF 88.3FM</a> </br>
           Host: Gebhard Ehrler </br>
           Wednesdays 5–8pm </br>
@@ -41,16 +41,16 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Cincinnati Gemeinde</div>
+      <div title="ger title" class="gerTitle cushycms">Cincinnati Gemeinde</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div>
-          To add your local newspaper or radio broadcast to our list, please email pr@cincideutsch.com.
-        </div>
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms">To add your local newspaper or radio broadcast to our list, please email pr@cincideutsch.com.</div>
+      </div>
     </div>    
 
   </div>

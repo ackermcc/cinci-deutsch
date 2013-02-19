@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>A Cincideutsch member is crowned the May Queen at the Germania Society’s first annual Maifest in 2012. <a class="morePhotos">(more photos)</a></div>
-      <div class="ger secondP">Katie Paul, ein Mitglied von Cincideutsch, wird beim ersten Maifest im Jahr bei Germania Society’s  zur Mai Konigin gekuert. </div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">A Cincideutsch member is crowned the May Queen at the Germania Society’s first annual Maifest in 2012. <a class="morePhotos">(more photos)</a></div>
+      <div title="ger caption" class="ger secondP cushycms">Katie Paul, ein Mitglied von Cincideutsch, wird beim ersten Maifest im Jahr bei Germania Society’s  zur Mai Konigin gekuert. </div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">May Festival</div>
+      <div title="eng title" class="eng cushycms">May Festival</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>The May Festival, which marks the arrival of spring, was first held in Cincinnati by the German singing societies in 1873. The 
           success of the festival led to the construction of Music Hall in Over-the-Rhine three years later. It is now the oldest choral 
           festival in the United States.</p>
@@ -39,20 +39,26 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">May Festival</div>
+      <div title="ger title" class="gerTitle cushycms">May Festival</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng"><a href="">Celebrations</a></div>
-        <div><a href="">May Festival</a></div>
-        <div><a href="">Mainstrasse Village</a></div>
-        <div><a href="">Germania Society</a></div>
-        <div class="eng secondP"><a href="">Other Resources</a></div>
-        <div><a href="">Singing Societies</a></div>
-        <div><a href="">Saengerfest</a></div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms">
+          <a href="">May Festival</a>
+          <a href="">Mainstrasse Village</a>
+          <a href="">Germania Society</a>
+        </div>
+
+        <div title="links title" class="eng cushycms secondP">Other Resources</div>
+        <div title="links" class="cushycms">
+          <a href="">Singing Societies</a>
+          <a href="">Saengerfest</a>
+        </div>
+      </div>
     </div>    
 
   </div>

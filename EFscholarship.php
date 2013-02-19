@@ -4,11 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
         several times a day, drawing tourists from all over the world. It portrays two stories of festivities from the Middle Ages, 
         where a Bavarian knight wins a joust to celebrate the birthday of Duke Wilhelm V.</div>
-      <div class="ger secondP"></div>
+      <div title="ger caption" class="ger secondP cushycms"></div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -22,9 +22,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Education First (EF) Scholarship </div>
+      <div title="eng title" class="eng cushycms">Education First (EF) Scholarship </div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>Page should not be shown initially, but will later be added once information is gathered.</p>
         <p>Dear Peter, </br> 
             My name is Halie, and I work for EF Education First, which runs several language schools offering immersion programs abroad. 
@@ -43,18 +43,21 @@
     </div>
 
     <div class="three columns">
-      <div class="gerTitle">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Program Applicants</div>
-        <div><a href="">Application</a></div>
-        <div><a href="">Recommendation Forms</a></div>
-        <p></p>
-        <div><a href="">Donate to EF Scholarship</a></div>
+        <div title="links title" class="eng cushycms">Program Applicants</div>
+        <div title="links" class="cushycms">
+          <a href="">Application</a>
+          <a href="">Recommendation Forms</a>
+        </div>
+        <div title="links" class="secondP cushycms">
+          <a href="">Donate to EF Scholarship</a>
+        </div>
       </div>
     </div>    
 

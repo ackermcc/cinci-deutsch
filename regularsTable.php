@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Cincideutsch members participating in Stammtisch at Mecklenburg Gardens in Corryville. <a class="morePhotos">(more photos)</a></div>
-      <div class="ger secondP">Cincideutsch Mitglieder beim woechentlichen Stammtich im Mecklenburg Gardens in Corryville.</div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Cincideutsch members participating in Stammtisch at Mecklenburg Gardens in Corryville. <a class="morePhotos">(more photos)</a></div>
+      <div title="ger caption" class="ger secondP cushycms">Cincideutsch Mitglieder beim woechentlichen Stammtich im Mecklenburg Gardens in Corryville.</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Regular’s Table</div>
+      <div title="eng title" class="eng cushycms">Regular’s Table</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>Every Monday, Cincideutsch gathers at Mecklenburg Gardens, the oldest beer garden in Cincinnati, for a regulars’ table. It is a 
           twist on the traditional German Stammtisch, where community members come together to discuss specific topics. Cincideutsch’s 
           weekly gathering gives people a place to meet other German speakers, whether they be permanent residents of Cincinnati or 
@@ -32,7 +32,7 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Stammtisch</div>
+      <div title="ger title" class="gerTitle cushycms">Stammtisch</div>
       <hr class="red">
       <div class="ger">Jeden Montag treffen sich die Mitglieder von Cincideutsch im Mecklenburg Gardens, dem aeltesten Biergarten in 
         Cincinnati, zum woechentlichen Stammtisch. Der Stammtisch ist eine gesunde Mischung aus gemuetlichem Beisammensein und 
@@ -44,7 +44,8 @@
 
     <div class="two columns">
       <div class="links">
-        
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms"></div>
       </div>
     </div>    
 

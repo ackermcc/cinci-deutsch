@@ -26,7 +26,7 @@
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="ger cushycms">Cincinnati Geschichte</div>
+      <div title="ger title" class="gerTitle cushycms">Cincinnati Geschichte</div>
       <hr class="red">
       <div title="ger content" class="ger cushycms">Cincinnati has one of the largest German immigrant populations in the United States.</div>
     </div>

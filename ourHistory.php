@@ -4,11 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during the opening ceremonies, 
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during the opening ceremonies, 
         where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal is hung at each tent, 
         following traditions in Bavaria.  <a class="morePhotos">(more photos)</a></div>
-      <div class="ger secondP">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during 
+      <div title="ger caption" class="ger secondP cushycms">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during 
         the opening ceremonies, where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal 
         is hung at each tent, following traditions in Bavaria. <a class="morePhotos">(more photos)</a></div>
       
@@ -24,9 +24,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Our History</div>
+      <div title="eng title" class="eng cushycms">Our History</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>
           February 14, 2011 </br>
           First <a  class="pLink">Stammtisch</a> held at Mecklenburg Gardens by the German Language and Culture Group of Cincinnati
@@ -60,9 +60,9 @@
     </div>
 
     <div class="three columns">
-      <div class="gerTitle">Unsere Geschichte</div>
+      <div title="ger title" class="gerTitle cushycms">Unsere Geschichte</div>
       <hr class="red">
-      <div class="ger">
+      <div title="ger content" class="ger cushycms">
         <p>14 Februar 2011</p>
         <p>19 Juli 2011</p>
         <p>Januar 2012</p>
@@ -75,10 +75,12 @@
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Links</div>
-        <div><a href="">Christkindlmarkt 2012</a></div>
-        <div><a href="">EF Scholarship</a></div>
-        <div><a href="">Support Cincideutsch</a></div>
+        <div title="links title" class="eng cushycms">Links</div>
+        <div title="links" class="cushycms">
+          <a href="">Christkindlmarkt 2012</a>
+          <a href="">EF Scholarship</a>
+          <a href="">Support Cincideutsch</a>
+        </div>
       </div>
     </div>    
 

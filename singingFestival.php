@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>...</div>
-      <div class="ger secondP">...</div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">...</div>
+      <div title="ger caption" class="ger secondP cushycms">...</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Singing Festival</div>
+      <div title="eng title" class="eng cushycms">Singing Festival</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>Prior to the founding of the May Festival, the greatest singing events in the city were the German singing festivals. Begun 
           by choirs known as Saengerbunds in 1849, these choral events drew thousands of singers to the city of Cincinnati. Almost 100 
           years since its founding, enthusiasm for the festival eventually died down due to the increased popularity of the May Festival 
@@ -32,21 +32,23 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Saengerfest</div>
+      <div title="ger title" class="gerTitle cushycms">Saengerfest</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div class="eng">Celebrations</div>
-        <div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms">
           <a href="">Christmas Saengerfest</a>
         </div>
-        <div class="eng secondP">Resources</div>
-        <div>
+
+        <div title="links title" class="eng cushycms secondP">Resources</div>
+        <div title="links" class="cushycms">
           <a href="">Singing Societies</a>
         </div>
+      </div>  
     </div>    
 
   </div>

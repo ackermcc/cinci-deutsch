@@ -4,9 +4,9 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div>...</div>
-      <div class="ger secondP">...</div>
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms">...</div>
+      <div title="ger caption" class="ger secondP cushycms">...</div>
       
       <div class="social">
         <div class="eng">Connect <span class="ger">Anschließen</span></div>
@@ -20,9 +20,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Out-of-Print Newspapers</div>
+      <div title="eng title" class="eng cushycms">Out-of-Print Newspapers</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms">
         <p>Arbeiterzeitung </br>
           Cincinnati Anzeiger </br>
           Cincinnati Abend Presse </br>
@@ -52,9 +52,9 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Out-of-Print Religious Publications</div>
+      <div title="ger title" class="gerTitle cushycms">Out-of-Print Religious Publications</div>
       <hr class="red">
-      <div class="ger">
+      <div title="ger content" class="ger cushycms">
         <p>Catholic </br>
           Der Sendbote </br>
           Der Wahrheitsfreund</p>
@@ -71,7 +71,9 @@
 
     <div class="two columns">
       <div class="links">
-        <div>To add an out-of-print publication to our list, please email pr@cincideutsch.com.</div>
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms">To add an out-of-print publication to our list, please email pr@cincideutsch.com.</div>
+      </div>
     </div>    
 
   </div>

@@ -4,10 +4,10 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img class="imageSubPg" src="http://fpoimg.com/290x290?text=Preview">
-      <div><a class="pLink">Old Saint Mary’s Catholic Church</a>, built by German immigrants in 1841, is the oldest church in the city of Cincinnati. Mass is 
+      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <div title="eng caption" class="cushycms"><a class="pLink">Old Saint Mary’s Catholic Church</a>, built by German immigrants in 1841, is the oldest church in the city of Cincinnati. Mass is 
         still held in German every Sunday. (more cultural photos)</div>
-      <div class="ger secondP"><a class="pLink">Die katholische Kirche Old Saint Mary’s</a> wurde 1841 von deutschen Einwanderer gebaut. Es handelt sich um die
+      <div title="ger caption" class="ger secondP cushycms"><a class="pLink">Die katholische Kirche Old Saint Mary’s</a> wurde 1841 von deutschen Einwanderer gebaut. Es handelt sich um die
         aelteste Kirche in Cincinnati. Jeden Sonntag wird eine Messe gehalten. </div>
       
       <div class="social">
@@ -22,9 +22,9 @@
     </div>
 
     <div class="three columns">
-      <div class="eng">Religious Services</div>
+      <div title="eng title" class="eng cushycms">Religious Services</div>
       <hr class="yellow">
-      <div>
+      <div title="eng content" class="cushycms"
         <p><a class="pLink">Christ Lutheran Church</a></br>
           3301 Compton Road
           Cincinnati, Ohio 45251
@@ -42,14 +42,16 @@
     </div>
 
     <div class="three columns">
-      <div class="ger">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
       <hr class="red">
-      <div class="ger">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Demnächst</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div>To add your local German religious services to our list, please email pr@cincideutsch.com.</div>
+        <div title="links title" class="eng cushycms"></div>
+        <div title="links" class="cushycms">To add your local German religious services to our list, please email pr@cincideutsch.com.</div>
+      </div>  
     </div>    
 
   </div>
