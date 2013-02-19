@@ -27,10 +27,19 @@
 
   <script type="text/javascript">
     $(window).load(function(){
+        // alert(window.location);
+
+      $(".navBar li a").click(function() {
+        $(".navBar li a").removeClass("selected");
+        $(this).addClass("selected"); 
+        // alert('clicked')
+      });
+
 
       $('.dropDown').hover(function(){
         $(this).find('.subNav').slideToggle("fast");
       });
+
 
     });
   </script> 
@@ -43,16 +52,16 @@
       <a href="index.php"><img id="logo" src="images/logo.jpg" ></a>
     </div>
     <div class="eight columns">
-      <!-- <ul class="yellow-arc">
-        <li><img src="images/active-link.png" alt="" /></li>
-        <li><img src="images/active-link.png" alt="" /></li>
-        <li><img src="images/active-link.png" alt="" /></li>
-        <li><img src="images/active-link.png" alt="" /></li>
-        <li><img src="images/active-link.png" alt="" /></li>
-      </ul> -->
+      
       <ul class="navBar">
-        <li class="navSpace"><a href="index.php"><b>Welcome </b><i>Willkommen</i></a></li>
-        <li class="dropDown navSpace"><a href="about.php"><b>About </b><i>Über</i></a>
+        <li class="nav navSpace">
+          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <a href="index.php"><b>Welcome </b><i>Willkommen</i></a>
+        </li>
+
+        <li class="nav dropDown navSpace">
+          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <a href="about.php"><b>About </b><i>Über</i></a>
            <ul class="subNav">
               <li><a href="aboutCincideutsh.php">About Cincideutsch</a></li>
               <li><a href="ourHistory.php">Our History</a></li>
@@ -61,7 +70,10 @@
               <li><a href="supportCincideutsch.php">Support Cincideutsch</a></li>
            </ul>  
         </li>
-        <li class="dropDown navSpace"><a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
+
+        <li class="nav dropDown navSpace">
+          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
           <ul class="subNav">
               <li><a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt 2012</a></li>
               <li><a href="regularsTable.php">Regulars’ Table <i>Stammtisch</i></a></li>
@@ -74,11 +86,18 @@
               <li><a href="christmasMarket.php">Christmas Markets <i>Christmas Markets</i></a></li>
               <li><a href="singingFestival.php">Singing Festival <i>Singing Festival</i></a></li>
               <li><a href="cincinnatiCommunity.php">Cincinnati Community <i>Cincinnati Kultur</i></a></li>
-              <li><a href="cincideutschChristkindlmarkt2013.php">test</a></li>
           </ul>
-        </li>   
-        <li class="navSpace"><a href="albums.php"><b>Albums </b><i>Alben</i></a></li>
-        <li><a href="contact.php"><b>Contact </b><i>Kontakt</i></a></li>
+        </li> 
+
+        <li class="nav navSpace">
+          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <a href="albums.php"><b>Albums </b><i>Alben</i></a>
+        </li>
+
+        <li class="nav navEnd">
+          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <a href="contact.php"><b>Contact </b><i>Kontakt</i></a>
+        </li>
       </ul>
 
     </div>
