@@ -1,3 +1,14 @@
+<?php
+
+$path = $_SERVER['PHP_SELF'];
+$page = basename($path);
+$page = basename($path, '.php');
+
+$about = array("about", "aboutCincideutsh", "ourHistory", "cincinnatisHeritage", "EFscholarship", "supportCincideutsch");
+$events = array("events", "cincideutschChristkindlmarkt2012", "regularsTable", "whiteSausageBreakfast", "bockfest", "mayFestival", "germanDay", "shootingFestival", "oktoberfest", "christmasMarket", "singingFestival", "cincinnatiCommunity");
+
+?>
+
 <!DOCTYPE html>
 
 <!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
@@ -29,11 +40,10 @@
     $(window).load(function(){
         // alert(window.location);
 
-      $(".navBar li a").click(function() {
-        $(".navBar li a").removeClass("selected");
-        $(this).addClass("selected"); 
-        // alert('clicked')
-      });
+      // $(".navBar li a").click(function() {
+      //   $(".navBar li img").removeClass("selected");
+      //   $(this).siblings().addClass("selected");
+      // });
 
 
       $('.dropDown').hover(function(){
@@ -55,12 +65,12 @@
       
       <ul class="navBar">
         <li class="nav navSpace">
-          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <img <?php if($page == 'index'){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a href="index.php"><b>Welcome </b><i>Willkommen</i></a>
         </li>
 
         <li class="nav dropDown navSpace">
-          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <img <?php if(in_array($page, $about)){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a href="about.php"><b>About </b><i>Über</i></a>
            <ul class="subNav">
               <li><a href="aboutCincideutsh.php">About Cincideutsch</a></li>
@@ -72,7 +82,7 @@
         </li>
 
         <li class="nav dropDown navSpace">
-          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <img <?php if(in_array($page, $events)){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a href="events.php"><b>Events </b><i>Veranstaltungen</i></a>
           <ul class="subNav">
               <li><a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt 2012</a></li>
@@ -90,12 +100,12 @@
         </li> 
 
         <li class="nav navSpace">
-          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <img <?php if($page == 'albums'){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a href="albums.php"><b>Albums </b><i>Alben</i></a>
         </li>
 
         <li class="nav navEnd">
-          <img class="yellowArc" src="images/active-link.png" width="60px"></br>
+          <img <?php if($page == 'contact'){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a href="contact.php"><b>Contact </b><i>Kontakt</i></a>
         </li>
       </ul>

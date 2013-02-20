@@ -94,10 +94,6 @@ footer {
 		margin-top: 43px; 
 	}
 
-	.selected{
-		padding:50px;
-	}
-
 	ul{
 		margin: 0;
 		padding: 0;
@@ -105,13 +101,14 @@ footer {
 		z-index: 1; 
 	}
 
-	/*.yellow-arc li {
-		margin-top: 100px;
-		float: left;
-		padding-right: 10px;
-	}*/
-	.yellowArc{
+
+	.yellowArc {
+		opacity: 0;
 	}
+
+		.yellowArc.selected {
+			opacity: 1;
+		}
 
 	.navBar {
 		float: left;
