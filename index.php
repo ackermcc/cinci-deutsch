@@ -26,7 +26,7 @@
     </div>
     <!-- <div class="one column"></div> -->
     <div class="three columns">
-      <div title="german title" class="ger cushycms">Cincideutsch Christkindlmarkt 2012</div>
+      <div title="german title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="red">
       <div title="german copy" class="ger cushycms">Cincideutsch...</div>
     </div>

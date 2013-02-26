@@ -58,10 +58,10 @@ $events = array("events", "cincideutschChristkindlmarkt2012", "regularsTable", "
 
 
 <div class="row">
-    <div class="four columns">
-      <a href="index.php"><img id="logo" src="images/logo.jpg" ></a>
+    <div class="four columns smallCenter">
+      <a href="index.php"><img class="logo" src="images/logo.jpg" ></a>
     </div>
-    <div class="eight columns">
+    <div class="eight columns smallCenter">
       
       <ul class="navBar">
         <li class="nav navSpace">

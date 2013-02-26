@@ -90,7 +90,7 @@ footer {
    Nav Bar
 ----------------------------------------- */
 
-	#logo {
+	.logo {
 		margin-top: 43px; 
 	}
 
@@ -227,7 +227,48 @@ footer {
 	text-decoration: underline;
 	}
 
+/* ---------------------------------
+	max-width: 940px
+ ---------------------------------*/
 
+@media only screen and (max-width: 955px){
+	.navBar{
+		/*margin-top: 20px;*/
+		float: none;
+	}
+
+}
+
+/* ---------------------------------
+	max-width: 767px
+ ---------------------------------*/
+
+@media only screen and (max-width: 767px){
+	.navBar{
+		margin-top: 20px;
+	}
+
+	.smallCenter{
+		text-align: center;
+	}
+
+	.welcomeImage1{
+		margin: 0px; 
+		text-align: center;
+	}
+	.welcomeImage2li {
+		text-align: center;
+		padding: 20px 15px 0px 15px; 
+	}
+
+	.eng{
+		padding-top: 20px;
+	}
+	.gerTitle{
+		padding-top: 20px;
+	}
+
+}
 
 
 
