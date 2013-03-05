@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/Covington_HeritageTour_Tolzmann_290x290.png">
       <div title="eng caption" class="cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
       <div title="ger caption" class="ger secondP cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
       

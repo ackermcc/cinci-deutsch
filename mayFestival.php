@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0022_290x290.png">
       <div title="eng caption" class="cushycms">A Cincideutsch member is crowned the May Queen at the Germania Society’s first annual Maifest in 2012. <a class="morePhotos">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">Katie Paul, ein Mitglied von Cincideutsch, wird beim ersten Maifest im Jahr bei Germania Society’s  zur Mai Konigin gekuert. </div>
       

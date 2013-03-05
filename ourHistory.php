@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0119_290x290.png">
       <div title="eng caption" class="cushycms">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during the opening ceremonies, 
         where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal is hung at each tent, 
         following traditions in Bavaria.  <a class="morePhotos">(more photos)</a></div>

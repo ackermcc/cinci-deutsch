@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0048_290x290.png">
       <div title="eng caption" class="cushycms">The Kolping Sängerchor singing German Christmas carols during the opening ceremony of Cincideutsch’s first Christkindlmarkt on Fountain Square. <a class="pLink">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">The Kolping Sängerchor singing German Christmas carols during the opening ceremony of Cincideutsch’s first Christkindlmarkt on Fountain Square. <a class="pLink">(more photos)</a></div>
       

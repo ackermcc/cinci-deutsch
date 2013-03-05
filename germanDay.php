@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/600_30067261_290x290.png">
       <div title="eng caption" class="cushycms">Dancers from the Donauschwaben Society’s Youth Group performing traditional dances at German Day June 4, 2012. </div>
       <div title="ger caption" class="ger secondP cushycms">Dancers from the Donauschwaben Society’s Youth Group performing traditional dances at German Day June 4, 2012.</div>
       

@@ -71,7 +71,7 @@ $events = array("events", "cincideutschChristkindlmarkt2012", "regularsTable", "
 
         <li class="nav dropDown navSpace">
           <img <?php if(in_array($page, $about)){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
-          <a href="about.php"><b>About </b><i>Über</i></a>
+          <a href="aboutCincideutsh.php"><b>About </b><i>Über</i></a>
            <ul class="subNav">
               <li><a href="aboutCincideutsh.php">About Cincideutsch</a></li>
               <li><a href="ourHistory.php">Our History</a></li>

@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/DSC_0054_290x290.png">
       <div title="eng caption" class="cushycms">Händlmaier Mustard Club members enjoying a beautiful day in the beer garden at Mecklenburg Gardens for their once monthly Weisswurstessen.</div>
       <div title="ger caption" class="ger secondP cushycms">Händlmaier Senf Klub Mitglieder geniessen eine wunderschoenen Tag im Biergarten bei Mecklenburg Gardens zum monatlichen Weisswurstessen.</div>
       

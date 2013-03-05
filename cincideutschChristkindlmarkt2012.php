@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0108_290x290.png">
       <div title="eng caption" class="cushycms">The Ribbon Cutting Ceremony at the opening of the Cincideutsch Christkindlmarkt 2012. From left to right: GACL President Dr. 
         Don Heinrich Tolzmann, Honorary German Consulate Martin Wilhelmy, Cincideutsch Co-Founder Linda McAlister, Councilwoman Laure 
         Quinlivan, Vice Mayor Roxanne Qualls, Cincideutsch Co-Founder Olaf Scheil, and Councilwoman Yvette Simpson. <a class="morePhotos">(more photos)</a></div>

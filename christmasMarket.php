@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0128_1_290x290.png">
       <div title="eng caption" class="cushycms">The Germania Jadghorn Bläser Gruppe performs  during the opening ceremony of the 2012 Cincideutsch Christkindlmarkt. <a class="morePhotos">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">Jadghorn</div>
       

@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0004_290x290.png">
       <div title="eng caption" class="cushycms">Cincideutsch members participating in Stammtisch at Mecklenburg Gardens in Corryville. <a class="morePhotos">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">Cincideutsch Mitglieder beim woechentlichen Stammtich im Mecklenburg Gardens in Corryville.</div>
       

@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/_DSC0079_290x290.png">
       <div title="eng caption" class="cushycms">Members of the German American Citizens League participate in parades throughout the year to celebrate the opening of festivals.
        In this picture, the Bloatarian Brewing League is lining up for the opening ceremony at the Zinzinnati Oktoberfest.</div>
       <div title="ger caption" class="ger secondP cushycms">Members of the GACL participate in parades throughout the year to celebrate the opening of festivals. In 

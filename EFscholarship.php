@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/DSC04125_290x290.png">
       <div title="eng caption" class="cushycms">The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
         several times a day, drawing tourists from all over the world. It portrays two stories of festivities from the Middle Ages, 
         where a Bavarian knight wins a joust to celebrate the birthday of Duke Wilhelm V.</div>

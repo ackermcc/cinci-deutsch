@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview">
+      <img title="image" class="imageSubPg cushycms" src="images/image_290x290.png">
       <div title="eng caption" class="cushycms">A mug from the 2012 Schützenfest, showcasing the iconic eagle and symbos of marksmen. <a class="morePhotos">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms"></div>
       

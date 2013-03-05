@@ -4,15 +4,15 @@
   <div class="row mainContent">
     <div class="seven columns">
       <div class="welcomeImage1">
-        <img title="mainImage" class="welcomeImage_1 cushycms" src="http://fpoimg.com/600x435?text=Preview">
+        <img title="mainImage" class="welcomeImage_1 cushycms" src="images/_DSC0610_600x435.png">
       </div>
     </div>
     <div class="five columns">
       <ul class="block-grid two-up welcomeImage2li">
-        <li><img title="smallImage1" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img title="smallImage2" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img title="smallImage3" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
-        <li><img title="smallImage4" class="welcomeImage_2 cushycms" src="http://fpoimg.com/200x200?text=Preview"></li>
+        <li><img title="smallImage1" class="welcomeImage_2 cushycms" src="images/_DSC0030_200x200.png"></li>
+        <li><img title="smallImage2" class="welcomeImage_2 cushycms" src="images/_DSC0103_200x200.png"></li>
+        <li><img title="smallImage3" class="welcomeImage_2 cushycms" src="images/Final_flyer3_starkbier_200x200.png"></li>
+        <li><img title="smallImage4" class="welcomeImage_2 cushycms" src="images/_DSC0104_200x200.png"></li>
       </ul>
     </div>
   </div>
