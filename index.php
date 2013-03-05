@@ -9,10 +9,10 @@
     </div>
     <div class="five columns">
       <ul class="block-grid two-up welcomeImage2li">
-        <li><img title="smallImage1" class="welcomeImage_2 cushycms" src="images/_DSC0030_200x200.png"></li>
-        <li><img title="smallImage2" class="welcomeImage_2 cushycms" src="images/_DSC0103_200x200.png"></li>
-        <li><img title="smallImage3" class="welcomeImage_2 cushycms" src="images/Final_flyer3_starkbier_200x200.png"></li>
-        <li><img title="smallImage4" class="welcomeImage_2 cushycms" src="images/_DSC0104_200x200.png"></li>
+        <li><a title="smallImage1" class="cushycms" href="mayFestival.php"><img title="smallImage1b" class="welcomeImage_2" src="images/_DSC0030_200x200.png"></a></li>
+        <li><a title="smallImage2" class="cushycms" href="cincinnatisHeritage.php"><img title="smallImage2b" class="welcomeImage_2" src="images/_DSC0103_200x200.png"></a></li>
+        <li><a title="smallImage3" class="cushycms" href="bockfest.php"><img title="smallImage3b" class="welcomeImage_2" src="images/Final_flyer3_starkbier_200x200.png"></a></li>
+        <li><a title="smallImage4" class="cushycms" href="oktoberfest.php"><img title="smallImage4b" class="welcomeImage_2" src="images/_DSC0104_200x200.png"></a></li>
       </ul>
     </div>
   </div>
