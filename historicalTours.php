@@ -22,15 +22,21 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Historical Tours</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>ArchiTreks: Cincinnati Walks CincyHaus Tours (American Legacy Tours) German Heritage Tours</p>
-      </div>
+      <div title="eng content" class="cushycms"><p><a href="http://www.cincinnati-walks.org/">ArchiTreks: Cincinnati Walks</a><br />
+Architectural Foundation of Cincinnati<br />
+&nbsp;<br />
+<a href="http://www.americanlegacytours.com/">CincyHaus Tours </a><br />
+American Legacy Tours<br />
+<br />
+<a href="http://www.germanheritagetours.com/">German Heritage Tours</a><br />
+Dr. Don Heinrich Tolzmann</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms"></div>
     </div>
 
     <div class="two columns">

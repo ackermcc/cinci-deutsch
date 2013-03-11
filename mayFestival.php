@@ -22,42 +22,27 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">May Festival</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>The May Festival, which marks the arrival of spring, was first held in Cincinnati by the German singing societies in 1873. The 
-          success of the festival led to the construction of Music Hall in Over-the-Rhine three years later. It is now the oldest choral 
-          festival in the United States.</p>
-        <p>Maifest is also celebrated in the style of a fair at both Mainstrasse Village in Covington, KY and Germania Park in Colerain 
-          Township. The Germania and Donauschwaben Societies both erected a Maypole on their grounds, as did the Hofbraühaus restaurant 
-          in Newport, KY. The Maypole is traditionally the center of celebrations, where dancing and singing usually take place. At
-           Germania, a small Maypole is also placed in the pavilion, where dancers circle the pole while interweaving ribbons. They then 
-           retrace their steps to unravel them.</p>
-        <p>Sources: </br> 
-          Russ, Jennifer M. German Festivals and Customs. London: Oswald Wolff, 1982. </br> 
-          Tolzmann, Dr. Don. German Cincinnati Revisited. Charleston, SC: Arcadia Pub., 2011. Print.
-        </p>
-      </div>
+      <div title="eng content" class="cushycms"><p>The May Festival, which marks the arrival of spring, was first held in Cincinnati by the German singing societies in 1873. The success of the festival led to the construction of Music Hall in Over-the-Rhine three years later. It is now the oldest choral festival in the United States.<br />
+<br />
+Maifest is also celebrated in the style of a fair at both Mainstrasse Village in Covington, KY and Germania Park in Colerain Township. The Germania and Donauschwaben Societies both erected a Maypole on their grounds, as did the Hofbr&auml;uhaus in&nbsp;Newport,&nbsp;KY. The Maypole is traditionally the center of celebrations, where dancing and singing usually take place. At Germania, a small Maypole is also placed in the pavilion, where dancers circle the pole while interweaving ribbons. They then retrace their steps to unravel them.</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">May Festival</div>
+      <div title="ger title" class="gerTitle cushycms">Maifest</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Das Maifest, welches den Fr&uuml;hling einl&auml;utet, wurde zum ersten Mal in Cincinnati im Jahre 1873 von den &bdquo;German Singing Societies&ldquo; durchgef&uuml;hrt. Durch den Erfolg des Events begann nur drei Jahre sp&auml;ter die Konstruktion der &bdquo;Music Hall&ldquo; in Over-the-Rhine. Heutzutage ist das Maifest das &auml;lteste Singfest in Amerika.<br />
+<br />
+Das Maifest wird auch in an der Mainstrasse Village in Covington, KY und im Germania Park in Colerain Township gefeiert.&nbsp;Germania und die Donauschwaben errichten beide einen Maimast, der das Zentrum des Festivals darstellt. Dieselbe Tradition wird auch von Hofbr&auml;uhaus in Newport, KY praktiziert.&nbsp;Der Mast ist das Zentrum f&uuml;r Tanz, Musik und Spass. Bei Germania Pavillon findet man auch einen kleinen Maimast welcher f&uuml;r verschiedene Tanzrituale verwendet wird.</div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms">Celebrations</div>
-        <div title="links" class="cushycms">
-          <a href="">May Festival</a>
-          <a href="">Mainstrasse Village</a>
-          <a href="">Germania Society</a>
-        </div>
+        <div title="links" class="cushycms"><a href="">May Festival</a> <a href="">Mainstrasse Village</a> <a href="">Germania Society</a></div>
 
         <div title="links title" class="eng cushycms secondP">Other Resources</div>
-        <div title="links" class="cushycms">
-          <a href="">Singing Societies</a>
-          <a href="">Saengerfest</a>
-        </div>
+        <div title="links" class="cushycms"><a href="">Singing Societies</a> <a href="">Saengerfest</a></div>
       </div>
     </div>    
 

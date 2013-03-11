@@ -26,53 +26,44 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Cincideutsch introduced the first authentic German Christmas market to downtown Cincinnati’s Fountain Square the weekend after 
-          Thanksgiving. The market featured local vendors with items ranging from Christmas décor to imported German goods to German-style 
-          sweets and foods.</p>
-        <p>Participating vendors included: (almond vendor), Cin-dee’s Crafts, the Germania Society, Munich Sister Cities, Rookwood Pottery, 
-          Servatii’s Pastry Shop &amp Deli, and St. Joseph Catholic School.</p>
-        <p>In a special partnership with Saint Ursula Academy’s senior design class, Cincideutsch worked with the students to create a set 
-          of collectable mugs. The seniors learned about modern German culture and design, and then researched about a designer from the 
-          Bauhaus design school. Taking inspiration from the work produced by their assigned designer, the students created abstract 
-          representations of German words that are difficult to translate into English. </p>
-        <p>To purchase mugs created by the Saint Ursula Academy’s senior design class, please email <a class="pLink">info@cincideutsch.com</a>. All available 
-          mugs can be viewed in this <a class="pLink">PDF</a>. </p>
-      </div>
+      <div title="eng content" class="cushycms"><p>Cincideutsch introduced the first authentic German Christmas market to downtown Cincinnati&rsquo;s Fountain Square the weekend after Thanksgiving. The market featured local vendors with items ranging from Christmas d&eacute;cor to imported German goods to German-style sweets and foods.<br />
+<br />
+Participating vendors included: Ultimate Almonds, <a href="http://www.cin-deescrafts.com/">Cin-dee&rsquo;s Crafts</a>, <a href="http://www.germaniasociety.com/site2007/main.html">the Germania Society</a>, <a href="http://www.munichcincinnati.org/">Munich Sister Cities</a>, <a href="https://www.rookwood.com/">Rookwood Pottery</a>, <a href="http://www.servatiipastryshop.com/Locations.aspx">Servatii&rsquo;s Pastry Shop &amp; Deli</a>, and St. Joseph Catholic School.<br />
+<br />
+In a special partnership with <a href="http://www.saintursula.org/arts/Design/">Saint Ursula Academy&rsquo;s</a> senior design class, Cincideutsch worked with the students to create a set of collectable mugs. The seniors learned about modern German culture and design, and then researched about a designer from the Bauhaus design school. Taking inspiration from the work produced by their assigned designer, the students created abstract representations of German words that are difficult to translate into English.<br />
+<br />
+To purchase mugs created by the Saint Ursula Academy&rsquo;s senior design class, please email info@cincideutsch.com. All available mugs can be viewed in this <a href="images/23_SUAmugs_pricelist.pdf">PDF document</a>.</p>
+</div>
     </div>
 
     <div class="three columns">
       <div title="ger title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2012</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Cincideutsch praesentierte den ersten authentischen deutschen Christkindlmarkt in Downtown Cincinnati’s Fountain 
-        Square. Der Markt fand am Wochenende nach Thanksgiving statt und lokale Geschaefte und Organisationen hatten die Moeglichkeit, 
-        ihre Produkte zu verkaufen. Vom Weihnachtsschmuck ueber importiere deutsche Artikel bis deutsche Suessigkeiten war alles vertreten.</div>
+      <div title="ger content" class="ger cushycms">Cincideutsch pr&auml;sentierte den ersten authentischen deutschen Christkindlmarkt in Downtown Cincinnati&rsquo;s Fountain Square. Der Markt fand am Wochenende nach Thanksgiving statt und lokale Gesch&auml;fte und Organisationen hatten die M&ouml;glichkeit, ihre Produkte zu verkaufen. Vom Weihnachtsschmuck &uuml;ber importiere deutsche Artikel bis deutsche S&uuml;ssigkeiten war alles vertreten.<br />
+<br />
+Die folgenden Verk&auml;ufer hatten am Christkindlmarkt ihre Produkte angeboten: Ultimate Almonds, <a href="http://www.cin-deescrafts.com/">Cin-dee&rsquo;s Crafts</a>, <a href="http://www.germaniasociety.com/site2007/main.html">Germania Society</a>, <a href="http://www.munichcincinnati.org/">Munich Sister Cities</a>, <a href="https://www.rookwood.com/">Rookwood Pottery</a>, <a href="http://www.servatiipastryshop.com/Locations.aspx">Servatii&rsquo;s Pastry Shop &amp; Deli</a> und St. Joseph katholische Schule.<br />
+<br />
+In Kooperation mit der Senior Designs Klasse der <a href="http://www.saintursula.org/arts/Design/">Saint Ursula Akademie</a>, Cincideutsch arbeitete mit den Studenten zusammen, um Tassen mit verschiedenen Designs zu erstellen. Die Senior-Studenten informierten sich zuerst &uuml;ber die moderne deutsche Kunst und danach recherchierten sie &uuml;ber einen Designer der Bauhaus Design Schule. Inspiriert vom Design der ausgew&auml;hlte Designer stellten die Studenten dann die Tassen her, auf denen in abstrakter Weise deutsche W&ouml;rter aufgedruckt wurden. Es wurden spezielle deutsche W&ouml;rter verwendet, die nicht oder nur schwer auf Englisch &uuml;bersetzt werden k&ouml;nnen.<br />
+<br />
+Um einen dieser wunderbaren Tassen der Saint Ursula Akedemie zu bestellen, kann eine E-Mail an info@cincideutsch.com gesendet werden. Alle verf&uuml;gbaren Tassen sind im <a href="23_SUAmugs_pricelist.pdf">PDF Dokument</a> ersichtlich.</div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div title="link title" class="eng cushycms"><a href="">Directions</a></div>
-        <div title="links" class="cushycms">
-          <a href="">Fountain Square</a>
-          <a href="">Parking</a>
-        </div>
+        <div title="links" class="cushycms"><a href="http://myfountainsquare.com/">Fountain Square</a><br />
+<a href="http://myfountainsquare.com/parking/">Parking</a></div>
 
-        <div title="link title" class="eng secondP cushycms"><a href="">Presenting Sponsor 2012</a></div>
-        <div title="links" class="cushycms">
-          <a href="">City of Cincinnati</a>
-        </div>
+        <div title="link title" class="eng secondP cushycms"><strong>Presenting Sponsor</strong></div>
+        <div title="links" class="cushycms"><a href="http://www.cincinnati-oh.gov/cityofcincinnati/">City of Cincinnati</a></div>
 
-        <div title="link title" class="eng secondP cushycms"><a href="">Sponsors 2012</a></div>
-        <div title="links" class="cushycms">
-          <a href="">Christian Moerlein</a>
-          <a href="">Siemens</a>
-          <a href="">UBS</a>
-        </div>
+        <div title="link title" class="eng secondP cushycms"><strong>Sponsors 2012</strong></div>
+        <div title="links" class="cushycms"><a href="http://www.christianmoerlein.com/">Christian Moerlein</a><br />
+<a href="http://www.siemens.com/entry/cc/en/">Siemens</a><br />
+<a href="http://www.ubs.com/us/en.html">UBS</a></div>
 
         <div title="link title" class="eng secondP cushycms"><a href="">Become a 2013 Sponsor</a></div>
-        <div title="links" class="cushycms">
-          <a href="">Become a 2013 Vendor</a>
-        </div>
+        <div title="links" class="cushycms"><a href="">Become a 2013 Vendor</a></div>
       </div>
     </div>    
 

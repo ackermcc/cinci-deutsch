@@ -20,81 +20,81 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Restaurants &amp Breweries</div>
+      <div title="eng title" class="eng cushycms">Restaurants &amp; Breweries</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Christian Moerlein Brewing Company</br>
-          621 Moore Street</br>
-          Cincinnati, Ohio 45202</br>
-          513.423.9469</br>
-          http://www.christianmoerlein.com/main.html</p>
-        <p>Hofbrauhaus Newport</br>
-          3rd & Saratoga</br>
-          Newport, Kentucky 41071 </br>
-          859.491.7200</br>
-          www.hofbrauhausnewport.com/</p>
-        <p>Kreimer’s Bier Haus </br>
-          6052 Ohio 128</br>
-          Miamitown, Ohio  45041</br>
-          513.353.2168</br>
-          www.bierhauswest.net/</p>
-        <p>Listermann Brewing Company</br>
-          1621 Dana Avenue  </br>
-          Cincinnati, OH 45207</br>
-          513.731.1130</br>
-          www.listermann.com/</p>
-        <p>Mecklenburg Gardens</br>
-          302 East University Ave.</br>
-          Cincinnati, Ohio 45219</br>
-          513.221.5353</br>
-          www.mecklenburgs.net/</p>
-        <p>Moerlein Lager House</br>
-          115 Joe Nuxhall Way </br>
-          Cincinnati, Ohio 45202</br>
-          513.421.2337</br>
-          www.moerleinlagerhouse.com/</p>
-        <p>Oleg’s Tavern</br>
-          11929 Montgomery Rd</br>
-          Cincinnati, Ohio 45249</br>
-          513.774.0700</br>
-          www.olegstavern.com</p>
-        </div>
+      <div title="eng content" class="cushycms"><p><a href="http://www.christianmoerlein.com/main.html">Christian Moerlein Brewing Company</a><br />
+621 Moore Street<br />
+Cincinnati, Ohio 45202<br />
+513.423.9469<br />
+<br />
+<a href="http://www.hofbrauhausnewport.com/">Hofbr&auml;uhaus Newport</a><br />
+3rd &amp; Saratoga<br />
+Newport, Kentucky 41071&nbsp;<br />
+859.491.7200<br />
+<br />
+<a href="http://www.bierhauswest.net/">Kreimer&rsquo;s Bier Haus&nbsp;</a><br />
+6052 Ohio 128<br />
+Miamitown, Ohio&nbsp;45041<br />
+513.353.2168<br />
+<br />
+<a href="http://www.listermann.com/">Listermann Brewing Company</a><br />
+1621 Dana Avenue &nbsp;<br />
+Cincinnati, Ohio&nbsp;45207<br />
+513.731.1130<br />
+<br />
+<a href="http://www.mecklenburgs.net/">Mecklenburg Gardens</a><br />
+302 East University Avenue<br />
+Cincinnati, Ohio 45219<br />
+513.221.5353<br />
+<br />
+<a href="http://www.moerleinlagerhouse.com/">Moerlein Lager House</a><br />
+115 Joe Nuxhall Way&nbsp;<br />
+Cincinnati, Ohio 45202<br />
+513.421.2337<br />
+<br />
+<a href="http://www.olegstavern.com">Oleg&rsquo;s Tavern</a><br />
+11929 Montgomery Road<br />
+Cincinnati, Ohio 45249<br />
+513.774.0700<br />
+<br />
+<br />
+<br />
+&nbsp;</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">
-        <p>Queen City Cookies</br>
-          Bakers of Gourmet Springerle Cookies</br>
-          4354 Hamilton Avenue</br>
-          Cincinnati, Ohio 45223</br>
-          (513) 591-0022</br>
-          www.queencitycookies.com</p>
-        <p>Rivertown Brewing Company</br>
-          607 Shepherd Dr, Unit 6</br>
-          Lockland, Ohio 45215</br>
-          513.827.9280</br>
-          http://rivertownbrewery.com/</p>
-        <p>Servatii’s Pastry Shop & Deli</br>
-          Located throughout Cincinnati </br>
-          877.484.2174</br>
-          http://www.servatiipastryshop.com/</p>
-        <p>Steinhaus</br>
-          6415 Dixie Highway  </br>
-          Florence, Kentucky 41042</br>
-          859.371.3000</br>
-          www.steinhausrestaurant.com/</p>
-        <p>Wertheim’s Restaurant</br>
-          514 W. Sixth St.</br>
-          Covington, Kentucky  41011</br>
-          859.261.1233</br>
-          http://www.wertheimsrestaurant.net/</p>
-        <p>Wunderbar</br>
-          1132 Lee St.</br>
-          Covington, Kentucky 41011</br>
-          859.815.8027</p>
-      </div>
+      <div title="ger content" class="ger cushycms"><p><a href="http://www.queencitycookies.com">Queen City Cookies</a><br />
+4354 Hamilton Avenue<br />
+Cincinnati, Ohio 45223<br />
+513.591.0022<br />
+<br />
+<a href="http://rivertownbrewery.com/">Rivertown Brewing Company</a><br />
+607 Shepherd Drive, Unit 6<br />
+Lockland, Ohio 45215<br />
+513.827.9280<br />
+<br />
+<a href="http://www.servatiipastryshop.com/">Servatii&rsquo;s Pastry Shop &amp; Deli</a><br />
+Located throughout Cincinnati&nbsp;<br />
+877.484.2174<br />
+<br />
+<a href="http://www.steinhausrestaurant.com/">Steinhaus</a><br />
+6415 Dixie Highway&nbsp;<br />
+Florence, Kentucky 41042<br />
+859.371.3000<br />
+<br />
+<a href="http://www.wertheimsrestaurant.net/">Wertheim&rsquo;s Restaurant</a><br />
+514 West&nbsp;Sixth Street<br />
+Covington, Kentucky&nbsp; 41011<br />
+859.261.1233<br />
+<br />
+<a href="https://www.facebook.com/wunderbar.covington.3">Wunderbar</a><br />
+1132 Lee Street<br />
+Covington, Kentucky 41011<br />
+859.815.8027</p>
+</div>
     </div>
 
     <div class="two columns">

@@ -20,17 +20,45 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Int’l Relations</div>
+      <div title="eng title" class="eng cushycms">Int&rsquo;l Relations</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>European American Chamber of Commerce Munich Sister City Association Greater Cincinnati World Affairs Council (GCWAC)</p>
-      </div>
+      <div title="eng content" class="cushycms"><p><a href="http://www.europe-cincinnati.com/">European American Chamber of Commerce</a><br />
+1900 Chemed Center&nbsp;<br />
+255 East Fifth Street<br />
+Cincinnati, OH 45202<br />
+513.977.8670&nbsp;<br />
+<br />
+<a href="http://globalcincinnati.org/">Greater Cincinnati World Affairs Council</a><br />
+1118 Pendleton Street,&nbsp;Suite 202<br />
+Cincinnati, Ohio&nbsp;45202<br />
+513.621.5222<br />
+&nbsp;<br />
+<a href="http://www.munichcincinnati.org/">Munich Sister City Association</a><br />
+Cincinnati USA Sister City Association<br />
+Cincinnati-Park Board Carriage House<br />
+421 Oak Street<br />
+Cincinnati, Ohio&nbsp;45219<br />
+513.241.8800</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms">Embassies</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Consulate General of Austria (Chicago)<br />
+<br />
+<a href="http://www.germany.info/Vertretung/usa/en/03__Consulates/Chicago/00/__Home.html">Consulate General of the Federal Republic of Germany (Chicago)</a><br />
+676 North Michigan Avenue, Suite 3200<br />
+Chicago, Illinois 60611<br />
+United States of America<br />
++1.312.202.0480<br />
+<br />
+<a href="http://www.eda.admin.ch/chicago">Consulate General of Switzerland (Chicago)</a><br />
+737 North Michigan Avenue,&nbsp;Suite 2301<br />
+Chicago, Illinois 60611<br />
+United States of America<br />
++1.312.915.4500<br />
+&nbsp;</div>
     </div>
 
     <div class="two columns">

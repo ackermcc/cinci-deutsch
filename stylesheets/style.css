@@ -7,7 +7,6 @@
 body, p, div, a {
 	font-size: 12px;
 	line-height: 1.4;
-	
 }
 
 hr.yellow {
@@ -34,6 +33,15 @@ hr.red {
 	font-weight: normal;
 	font-style: italic;
 }
+	.ger a{
+		text-decoration: underline;
+		color: #222;
+	} 
+		.ger a:hover {
+			text-decoration: underline;
+			color: #c4122f;
+		} 
+
 .gerTitle {
 	font-weight: bold;
 	font-style: italic;
@@ -116,10 +124,6 @@ footer {
 		margin-right: -15px; 
 	}
 
-		.navBar a {
-			color: #000; 
-		}
-
 		ul.navBar li{
 			float: left; 
 		}
@@ -142,11 +146,30 @@ footer {
 		ul.subNav li{
 			clear:both;
 		}
-		ul.subNav li:hover{
-			font-weight: bold;
-		}
-			
 
+	.mainNav{
+		color: #000000;
+	}
+		.mainNav:hover{
+			color: #000000;
+		}		
+	
+	.subNav a{
+		color: #636466;
+	}	
+		.subNav a:hover{
+			color: #000000;
+		}		
+
+	hr.subNavHr {
+		border: solid #636466;
+		border-width: 1px 0 0;
+		margin: 0px; 
+		padding: 0px;
+		clear: both;
+		height: 0;
+
+	}
 
 /* -----------------------------------------
    Welcome Page
@@ -218,6 +241,10 @@ footer {
 		color: #636466; 
 		text-decoration: underline;
 	}
+	.linksUl li{
+		line-height: 1.4px;
+	} 
+
 
 .redEmail {
 	color: #c4122f;

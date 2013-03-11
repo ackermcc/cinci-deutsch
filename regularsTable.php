@@ -34,7 +34,7 @@
     <div class="three columns">
       <div title="ger title" class="gerTitle cushycms">Stammtisch</div>
       <hr class="red">
-      <div class="ger">Jeden Montag treffen sich die Mitglieder von Cincideutsch im Mecklenburg Gardens, dem aeltesten Biergarten in 
+      <div title="german content" class="ger cushycms">Jeden Montag treffen sich die Mitglieder von Cincideutsch im Mecklenburg Gardens, dem aeltesten Biergarten in 
         Cincinnati, zum woechentlichen Stammtisch. Der Stammtisch ist eine gesunde Mischung aus gemuetlichem Beisammensein und 
         tiefgruendigen Unterhaltungen. Cincideutsch’s woechentlicher Stammtisch gibt jung und alt die Moeglichkeit, gleichgesinnte 
         Freunde mit Vorliebe zur deutschen Sprache zu treffen. Ob lokale Einwohner, kurzzeit Besucher oder Austauschstudenten, fuer 

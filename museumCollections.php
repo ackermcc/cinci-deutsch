@@ -22,23 +22,33 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Museum Collections</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Freedom Center </br> 
-          German Heritage Museum </br>
-          Union Terminal</p>
-      </div>
+      <div title="eng content" class="cushycms"><p>Cincinnati Museum Center<br />
+1301 Western Avenue<br />
+Cincinnati, Ohio&nbsp;45203<br />
+513.287.7000<br />
+<br />
+National Underground Railroad Freedom Center<br />
+50 East Freedom Way<br />
+Cincinnati, Ohio&nbsp;45202<br />
+513.333.7739<br />
+<br />
+German Heritage Museum<br />
+4764 West Fork Road<br />
+Cincinnati,&nbsp;Ohio&nbsp;45247<br />
+513.598.5732</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms"></div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
+        <div title="links" class="cushycms">To add your local museum collection to our list, please email pr@cincideutsch.com.</div>
       </div>
     </div>    
 

@@ -20,34 +20,27 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2013 </div>
+      <div title="eng title" class="eng cushycms">Cincideutsch Christkindlmarkt 2013</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"></div>
+      <div title="eng content" class="cushycms">Cincideutsch will continue the tradition of Christkindlmarkt on Fountain Square in 2013. Stay tuned for more news!</div>
     </div>
 
     <div class="three columns">
       <div title="ger title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2013</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"></div>
+      <div title="ger content" class="ger cushycms">Need Translation</div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms">Directions</div>
-        <div title="links" class="cushycms">
-          <a href="">Fountain Square</a>
-          <a href="">Parking</a>
-        </div>
+        <div title="links" class="cushycms"><a href="">Fountain Square</a> <a href="">Parking</a></div>
 
         <div title="links title" class="eng secondP cushycms">Sponsors 2013</div>
-        <div title="links" class="cushycms">
-          <a href="">Become a Sponsor</a>
-        </div>
+        <div title="links" class="cushycms"><a href="">Become a Sponsor</a></div>
 
         <div title="links title" class="eng secondP cushycms">Past Christkindlmarkts</div>
-        <div title="links" class="cushycms">
-          <a href="cincideutschChristkindlmarkt2012.php">2012</a>
-        </div>
+        <div title="links" class="cushycms"><a href="cincideutschChristkindlmarkt2012.php">2012</a></div>
       </div>
     </div>    
 

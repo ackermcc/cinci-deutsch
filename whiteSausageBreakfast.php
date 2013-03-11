@@ -22,17 +22,14 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">White Sausage Breakfast</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Inspired by the Gemütlichkeit of Bavaria’s Händlmaier Mustard Fan Club, Cincinnati’s chapter gathers once each month at 
-          Mecklenburg Gardens for a traditional Bavarian white sausage meal (Weißwurstessen). The spread consists of sausages cooked 
-          in water, sweet mustard (or whichever Händlmaier variety you prefer!), fresh pretzels, and wheat beer. </p>
-      </div>
+      <div title="eng content" class="cushycms"><p>Inspired by the Gem&uuml;tlichkeit of Bavaria&rsquo;s H&auml;ndlmaier Mustard Fan Club, Cincinnati&rsquo;s chapter gathers once each month at Mecklenburg Gardens for a traditional Bavarian white sausage meal (Wei&szlig;wurstessen). The spread consists of sausages cooked in water, sweet mustard (or whichever H&auml;ndlmaier variety you prefer!), fresh pretzels, and wheat beer.</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Weisswurstfrühstuck</div>
+      <div title="ger title" class="gerTitle cushycms">Weisswurstfr&uuml;hstuck</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Inspiriert von der Gem&uuml;tlichkeit des H&auml;ndlmaiers Mustard Fan Club von Bayern, Mitglieder des gleichnamigen Klubs in Cincinnati treffen sich einmal im Monat zum traditionellen bayerischen Weisswurst essen. Traditionell wird die Weisswurst in Wasser gekocht und mit s&uuml;ssem Senf, frischen Pretzeln und Weizenbier serviert. Nat&uuml;rlich kann zwischen verschiedenen Variationen von H&auml;ndlmaier Senfen ausgew&auml;hlt werden.</div>
     </div>
 
     <div class="two columns">

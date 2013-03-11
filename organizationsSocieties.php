@@ -22,56 +22,55 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Organizations &amp Societies</div>
+      <div title="eng title" class="eng cushycms">Organizations &amp; Societies</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p><b>Cultural</b>  </br>
-          Bavarian Beneficial Society </br>
-          Boone County Germanna Group </br>
-          Cincideutsch </br>
-          Cincinnati Carvers Guild </br>
-          Der Deutsche Bubenverein </br>
-          Enzian Tanz Gruppe </br>
-          German American Citizens </br>
-          German-American Club Gesangverein </br>
-          Germanic Heritage Auxiliary </br>
-          Germania Society </br>
-          Haendlmaiers Freunde </br>
-          Indiana German Heritage Society </br>
-          Kolping Society  </br>
-          “Liberty Home Association </br>
-          Deutscher Hausverein” </br>
-          “Old St. Mary’s Historic </br>
-          Preservation Association” </br>
-          OTR Brewery District </br>
-          Schlaraffia  </br>
-          Springfield Liedertafel </br>
-          Swiss Benevolent Association </br>
-          The Wagner Society of Cincinnati </br>
-          Verein der Donauschwaben</p>
-        </div>
+      <div title="eng content" class="cushycms"><p><b><strong>Cultural</strong>&nbsp;</b><br />
+Bavarian Beneficial Society<br />
+Boone County Germanna Group<br />
+Cincideutsch<br />
+Cincinnati Carvers Guild<br />
+Der Deutsche Bubenverein<br />
+Enzian Tanz Gruppe<br />
+German American Citizens<br />
+German-American Club Gesangverein<br />
+Germanic Heritage Auxiliary<br />
+Germania Society<br />
+H&auml;ndlmaiers Freunde<br />
+Indiana German Heritage Society<br />
+Kolping Society&nbsp;<br />
+Liberty Home Association<br />
+Deutscher Hausverein<br />
+Old St. Mary&rsquo;s Historic&nbsp;Preservation Association<br />
+OTR Brewery District<br />
+Schlaraffia&nbsp;<br />
+Springfield Liedertafel<br />
+Swiss Benevolent Association<br />
+The Wagner Society of Cincinnati<br />
+Verein der Donauschwaben</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">...</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">
-        <p><b>Historical</b> </br>
-          Bundeslaender Verein </br>
-          Friends of the German Heritage Museum </br>
-          German Genealogy Group </br>
-          Green Township Historical Association </br>
-          Sons of the American Revolution </br>
-          The Coleraine Historical Society, Inc. </br>
-          Thoroughbred Stein Verein </br>
-          Home Brewing </br>
-          Hamilton Homebrewers Club (Ohio) </br>
-          Bloatarian Brewing League</p>
-        <p><b>Turners</b></br>
-          American Turners  </br>
-          Cincinnati Central Turners  </br>
-          Dayton Liederkranz-Turner</p>  
-      </div>
+      <div title="ger content" class="ger cushycms"><p><strong>Historical</strong><br />
+Bundeslaender Verein<br />
+Friends of the German Heritage Museum<br />
+German Genealogy Group<br />
+Green Township Historical Association<br />
+Sons of the American Revolution<br />
+The Coleraine Historical Society, Inc.<br />
+Thoroughbred Stein Verein<br />
+<br />
+<strong>Brewing</strong><br />
+<b>Hamilton Homebrewers Club (Ohio)</b><br />
+<b>Bloatarian Brewing League</b><br />
+<br />
+<strong>Turners</strong><br />
+American Turners&nbsp;&nbsp; &nbsp;<br />
+Cincinnati Central Turners&nbsp;&nbsp; &nbsp;<br />
+Dayton Liederkranz-Turner&nbsp;&nbsp; <b>&nbsp;</b></p>
+</div>
     </div>
 
     <div class="two columns">

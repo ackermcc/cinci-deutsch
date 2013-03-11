@@ -42,9 +42,22 @@
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms"><a href="http://www.christ-lcms.org/">Christ Lutheran Church</a><br />
+3301 Compton Road<br />
+Cincinnati, Ohio 45251<br />
+Christmas Eve, New Year&rsquo;s Eve<br />
+<br />
+<a href="http://www.oldstmarys.org/">Old Saint Mary&rsquo;s Catholic Church</a><br />
+123 East 13th Street &nbsp;<br />
+Cincinnati, Ohio 45202<br />
+513.721.2988<br />
+11am Sundays, Easter, Christmas Day<br />
+<br />
+<a href="http://www.lutherans.com/churches/church_info.php?church_id=2784">Prince of Peace Lutheran Church</a><br />
+306 Center Street<br />
+Bellevue, Kentucky 41073</div>
     </div>
 
     <div class="two columns">

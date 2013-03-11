@@ -22,51 +22,56 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Out-of-Print Newspapers</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Arbeiterzeitung </br>
-          Cincinnati Anzeiger </br>
-          Cincinnati Abend Presse </br>
-          Cincinnati Tageblatt </br>
-          Cincinnati  Morgen-Post </br>
-          Cincinnati Volksblatt </br>
-          (other forms: Westliche Blätter (Sunday edition), Tägliches Cincinnati Volksblatt, Cincinnatier Volksblatt) </br>
-          Der Deutsch Pioneer (newsletter/maganize)</br>
-          Der Deutsche Patriot</br>
-          Der Deutsche Republikaner</br>
-          Der Weltbürger</br>
-          Der Freisinnige</br>
-          Die fliegenden Blätter</br>
-          Die Ohio Chronik </br>
-          Deutsche Franklin</br>
-          Hochwächter</br>
-          Haus und Herd</br>
-          Kikeriki</br>
-          Täglicher Cincinnati Courier</br>
-          Täglicher Abend-Post</br>
-          Tägliche Ohio Volkszeitung</br>
-          Westlicher Merkur</br>
-          Volksfreund </br>
-          (other forms: Sonntagmorgen (Sunday edition))</br>
-          Cincinnati Freie Presse (became the Cincinnati Kurier)</p>
-        </div>
+      <div title="eng content" class="cushycms"><p>Arbeiterzeitung<br />
+Cincinnati Anzeiger<br />
+Cincinnati Abend Presse<br />
+Cincinnati Tageblatt&nbsp;<br />
+Cincinnati&nbsp;Morgen-Post<br />
+Cincinnati Volksblatt*&nbsp;<br />
+Der Deutsch Pioneer (newsletter/maganize)<br />
+Der Deutsche Patriot &nbsp;<br />
+Der Deutsche Republikaner<br />
+Der Weltb&uuml;rger &nbsp;&nbsp;<br />
+Der Freisinnige<br />
+Die fliegenden Bl&auml;tter<br />
+Die Ohio Chronik&nbsp;<br />
+Deutsche Franklin<br />
+Hochw&auml;chter<br />
+Haus und Herd<br />
+Kikeriki<br />
+T&auml;glicher Cincinnati Courier<br />
+T&auml;glicher Abend-Post<br />
+T&auml;gliche Ohio Volkszeitung<br />
+Westlicher Merkur<br />
+Volksfreund**&nbsp;<br />
+Cincinnati Freie Presse (Cincinnati Kurier)<br />
+<br />
+Other forms:<br />
+*Westliche Bl&auml;tter (Sunday Edition)<br />
+*T&auml;gliches Cincinnati Volksblatt<br />
+*Cincinnatier Volksblatt<br />
+**Sonntagmorgen (Sunday Edition)</p>
+</div>
     </div>
 
     <div class="three columns">
       <div title="ger title" class="gerTitle cushycms">Out-of-Print Religious Publications</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">
-        <p>Catholic </br>
-          Der Sendbote </br>
-          Der Wahrheitsfreund</p>
-        <p>Jewish </br>
-          Die Deborah (supplement to The Israelite) </br>
-          Protestantische ZeitBlätter</p>
-        <p>Lutheran </br>
-          Der Protestant</p>
-        <p>Methodist </br>
-          Der Christliche Apologete </br>
-          Sonntag Schul Glocke</p>
-      </div>
+      <div title="ger content" class="ger cushycms"><p><strong>Catholic</strong><br />
+Der Sendbote<br />
+Der Wahrheitsfreund<br />
+<br />
+<strong>Jewish</strong><br />
+Die Deborah (supplement to The Israelite)<br />
+Protestantische ZeitBl&auml;tter<br />
+<br />
+<strong>Lutheran</strong><br />
+Der Protestant<br />
+<br />
+<strong>Methodist</strong><br />
+Der Christliche Apologete<br />
+Sonntag Schul Glocke</p>
+</div>
     </div>
 
     <div class="two columns">

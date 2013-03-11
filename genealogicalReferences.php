@@ -31,23 +31,47 @@
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">
-        <p>eBooks (German) Cincinnati in Wort Und Bild Max Burgheim</p>
-        <p>“Die neuner.”: Eine Schilderung der Kriegsjahre des 9ten Regiments Ohio Volunteer Infantry Gustav Tafel</p>
-        <p>Cincinnati und sein Deutschthum: </br>
-            eine Geschichte der Entwickelung Cincinnati’s und seines Deutschthums, mit biographischen Skizzen und Illustrationen Queen City Publishing Co.</p>
-        <p>Der deutsche Pionier: Verein von Cincinnati Heinrich Armin Rattermann </p>
-        <p>Deutsche Chronik in der Geschichte des Ohio-Thales Emil Klauprecht </p>
-        <p>Geschichte des grossen amerikanischen Westens: Nach quellen bearbeitet Heinrich Armin Rattermann</p>
-      </div>
+      <div title="ger content" class="ger cushycms"><p>For access to extensive collections of manuscripts,&nbsp;microfilms, photographs and much more, visit the downtown branch of the <a href="http://www.cincinnatilibrary.org/">Public Library of Cincinnati &amp; Hamilton County</a>, which has one of the largest genealogical collections in the country, and&nbsp;<a href="http://americanjewisharchives.org/">The Jacob Rader Marcus Center of the American Jewish Archives</a>,&nbsp;located on the historic Cincinnati campus of Hebrew Union College-Jewish Institute of Religion. Don&#39;t know where to start? Try one of the listed resources and contact the <a href="http://hcgsohio.org/">German Genealogical Group of the Hamilton County Genealogical Society</a> or the <a href="http://www.daytongermanclub.org/dgc_og_backup/genealogy.php">German Genealogy Group of the Dayton Liederkranz-Turner Society</a>&nbsp;for advice from experienced genealogists.&nbsp;<br />
+<br />
+<strong>Printed Resources (English)</strong><br />
+Clubbe, John. Cincinnati Observed: Architecture and History. Columbus: Ohio State University Press, 1992).<br />
+<br />
+Harlow, Alvin F. The Serene Cincinnatians. New York: E.P. Dutton &amp; Co., 1950.<br />
+<br />
+Out-of-Print Newspapers<br />
+<br />
+Tolzmann, Dr. Don Heinrich. German Cincinnati Revisited. Charleston, SCs: Arcadia Pub., 2011. Print.&nbsp;&nbsp;<a href="http://donheinrichtolzmann.net/">(More books by Dr. Tolzmann)</a><br />
+<br />
+Wimberg, Robert J. Cincinnati Breweries. Cincinnati: Ohio Book Store, 1989.<br />
+<br />
+<strong>eBooks (German)</strong><br />
+<a href="http://books.google.com/books/about/Cincinnati_in_wort_und_bild.html?id=HCoWAAAAYAAJ">Cincinnati in Wort Und Bild</a><br />
+Max Burgheim<br />
+<br />
+<a href="http://books.google.com/books?id=quJs8ddL7u0C&amp;printsec=frontcover&amp;dq=“Die+neuner.”:+Eine+Schilderung+der+Kriegsjahre+des+9ten+Regiments+Ohio+Volunteer+Infantry&amp;hl=en&amp;sa=X&amp;ei=epISUeaPIuiq0AGk5oCACg&amp;ved=0CDAQ6AEwAA#v=onepage&amp;q=“Die%20neuner.”%3A%20Eine%20Schilderung%20der%20Kriegsjahre%20des%209ten%20Regiments%20Ohio%20Volunteer%20Infantry&amp;f=false">&ldquo;Die neuner.&rdquo;: Eine Schilderung der Kriegsjahre des 9ten Regiments Ohio Volunteer Infantry&nbsp;</a><br />
+Gustav Tafel<br />
+<br />
+<a href="http://books.google.com/books?id=cioWAAAAYAAJ&amp;printsec=frontcover#v=onepage&amp;q&amp;f=false">Cincinnati und sein Deutschthum:<br />
+eine Geschichte der Entwickelung Cincinnati&rsquo;s und seines Deutschthums, mit biographischen Skizzen und Illustrationen&nbsp;</a><br />
+Queen City Publishing Co.<br />
+<br />
+<a href="http://books.google.com/books?id=E4IOAQAAMAAJ&amp;printsec=frontcover&amp;dq=inauthor:%22Deutscher+Pionier-Verein+von+Cincinnati%22&amp;hl=en&amp;sa=X&amp;ei=SG86UcnCIeSQ0QGkgYHYBA&amp;ved=0CEUQ6AEwBg#v=onepage&amp;q&amp;f=false">Der deutsche Pionier: Verein von Cincinnati (Vol. 18)</a><br />
+Heinrich Armin Rattermann<br />
+<br />
+<a href="http://books.google.com/books?id=i-VYAAAAMAAJ&amp;q=Deutsche+Chronik+in+der+Geschichte+des+Ohio-Thales&amp;dq=Deutsche+Chronik+in+der+Geschichte+des+Ohio-Thales&amp;hl=en&amp;sa=X&amp;ei=yG86Uai5H-Lf0gG1oYHACQ&amp;ved=0CDAQ6AEwAA">Deutsche Chronik in der Geschichte des Ohio-Thales</a><br />
+Emil Klauprecht<br />
+<br />
+<a href="http://books.google.com/books/about/Geschichte_des_grossen_amerikanischen_We.html?id=gtUyAQAAMAAJ">Geschichte des grossen amerikanischen Westens: Nach quellen bearbeitet</a><br />
+Heinrich Armin Rattermann</p>
+</div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
+        <div title="links" class="cushycms">To suggest a reference our list, please email pr@cincideutsch.com.</div>
       </div>
     </div>    
 

@@ -22,44 +22,42 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Language Education</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Fairview German Language School </br>
-          3689 Clifton Avenue  </br>
-          Cincinnati, Ohio 45220 </br>
-          513.363.2100 </br>
-          http://fairview.cps-k12.org/</p>
-        <p>Northern Kentucky University</br>
-          College of Arts & Sciences</br>
-          134 Landrum Academic Center</br>
-          Highland Heights, Kentucky 41099</br>
-          http://www.nku.edu/majors/german.html</p>
-        <p>School Freunde </br>
-          3689 Clifton Avenue </br>
-          Cincinnati, Ohio 45220</br>
-          513.363.2100</br>
-           www.schoolfreunde.com</p>
-        <p>Tristate German-American School</br>
-          PO Box 20161</br>
-          Cincinnati, Ohio  45220</br>
-          Helga Bucher  513.961.7976  </br>
-          Chuck Melville  859.441.5260  </br>
-          Bonnie Van Ee   513.271.6697</br>
-          http://tristategermanschool.org/</p>
-        <p>University of Cincinnati</br>
-          2600 Clifton Avenue  </br>
-          Cincinnati, Ohio 45221</br>
-          513.556.1000</br>
-          http://www.artsci.uc.edu/german/</p>
-        <p>Xavier University</br>
-          3800 Victory Parkway </br>
-          Cincinnati, Ohio 45207 </br>
-          513.745.3000</br>
-          http://www.xavier.edu/modern-languages/German.cfm</p>
-        </div>
+      <div title="eng content" class="cushycms"><p><a href="http://fairview.cps-k12.org/">Fairview German Language School</a><br />
+3689 Clifton Avenue&nbsp;<br />
+Cincinnati, Ohio 45220<br />
+513.363.2100<br />
+<br />
+<a href="http://www.nku.edu/majors/german.html">Northern Kentucky University</a><br />
+College of Arts &amp; Sciences<br />
+134 Landrum Academic Center<br />
+Highland Heights, Kentucky 41099<br />
+<br />
+<a href="http://www.schoolfreunde.com">School Freunde</a><br />
+3689 Clifton Avenue&nbsp;<br />
+Cincinnati, Ohio 45220<br />
+513.363.2100<br />
+<br />
+<a href="http://tristategermanschool.org/">Tristate German-American School</a><br />
+PO Box 20161<br />
+Cincinnati, Ohio&nbsp; 45220<br />
+Helga Bucher &nbsp; &nbsp;&nbsp;513.961.7976 &nbsp; &nbsp;&nbsp;<br />
+Chuck Melville &nbsp;&nbsp; &nbsp;859.441.5260 &nbsp; &nbsp;&nbsp;<br />
+Bonnie Van Ee &nbsp;&nbsp; &nbsp;513.271.6697<br />
+<br />
+<a href="http://www.artsci.uc.edu/german/">University of Cincinnati</a><br />
+2600 Clifton Avenue &nbsp;<br />
+Cincinnati, Ohio 45221<br />
+513.556.1000<br />
+<br />
+<a href="http://www.xavier.edu/modern-languages/German.cfm">Xavier University</a><br />
+3800 Victory Parkway&nbsp;<br />
+Cincinnati, Ohio 45207&nbsp;<br />
+513.745.3000</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Demnächst</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
       <div title="ger content" class="ger cushycms"></div>
     </div>

@@ -22,26 +22,24 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Bockfest</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p><a class="pLink">Bockfest</a> is an annual beer festival held in Cincinnati’s Over-the-Rhine, organized by the OTR Brewery District. Held the first weekend of March, it is the oldest and largest Bock beer festival in the United States. Celebrations begin with a parade that ends at Bockfest Hall, where the ceremonial first keg is tapped. </p>
-        <p>Bock beer was originally brewed in Einbeck, which is locatd in Northern Germany. The monks of the area created this heavy beer to drink during the Lenten fasting season before Easter, as beer consumptions was not restricted like food.</p>
-        <p>Tolzmann, Dr. Don. German Cincinnati Revisited. Charleston, SC: Arcadia Pub., 2011. Print.</p>
-        <p>“Bockfest.com.” Bockfest.com. OTR Brewery District. Web. 12 Jan. 2013.</p>
-      </div>
+      <div title="eng content" class="cushycms"><p>Bockfest is an annual beer festival held in Cincinnati&rsquo;s Over-the-Rhine, organized by the <a href="http://www.otrbrewerydistrict.org/">OTR Brewery District</a>. Held the first weekend of March, it is the oldest and largest Bock beer festival in the United States. Celebrations begin with a parade that ends at Bockfest Hall, where the ceremonial first keg is tapped.<br />
+<br />
+Bock beer was originally brewed in Einbeck, which is located in Northern Germany. The monks of the area created this heavy beer to drink during the Lenten fasting season before Easter, as beer consumptions was not restricted like food.</p>
+</div>
     </div>
 
     <div class="three columns">
       <div title="ger title" class="ger cushycms">Bockfest</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Das Bockfest ist ein j&auml;hrliches Fest das in Cincinnati&rsquo;s Over-the-Rhine stattfindet. Es wird von <a href="http://www.otrbrewerydistrict.org/">OTR Brewery District</a> organisiert. Am ersten Wochenende im M&auml;rz wird das &auml;lteste und gr&ouml;sste Bockfest in Amerika gefeiert. Die Festaktivit&auml;ten beginnen mit der Bockfest Parade gefolgt mit dem traditionellen Bockbier Zapfen. Nach drei Tagen endet das Bockfest in der Bockfest Halle.<br />
+<br />
+Das Bockbier wurde urspr&uuml;nglich in Einbeck, Norddeutschland gebraut. Die lokalen M&ouml;nche kreierten dieses Starkbier, um es w&auml;hrend der Fastenzeit zu geniessen. In der Fastenzeit, die bis zu den Ostern anh&auml;lt, ist die Zunahme von Bier nicht verboten.</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div  title="links title" class="eng cushycms"><a href="">Celebrations</a></div>
-        <div title="links" class="cushycms">
-          <a href="">OTR Brewery District</a>
-        </div>
+        <div title="links title" class="eng cushycms"><a href="languageEducation.php">Celebrations</a></div>
+        <div title="links" class="cushycms"><a href="http://www.bockfest.com/">OTR Bockfest</a></div>
     </div>    
 
   </div>

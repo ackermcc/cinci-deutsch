@@ -20,30 +20,39 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Newspapers &amp Radio</div>
+      <div title="eng title" class="eng cushycms">Newspapers &amp; Radio</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p><a class="pLink">WAIF 88.3FM</a> </br>
-          Host: Gebhard Ehrler </br>
-          Wednesdays 5–8pm </br>
-          German Tunes of the Queen City </br>
-          Saturdays 10am–12pm </br>
-          Fröhlich ins Wochenende </br>
-          513.749.1444</p>
-        <p><a class="pLink">WVQC 95.7FM</a> </br>
-          Host: Wolfgang Grossmann </br>
-          Wednesdays 10am–12pm,  </br>
-          Wolfgang’s Musikalische Krammer </br>
-          Wednesdays 1pm–3pm </br>
-          Suzanne and Wolf’s International Musica</p>
-        <p>For genealogy and historical research, reference these <a class="pLink">out-of-print German-Language Newspapers and Religious Publications.</a></p>
-      </div>
+      <div title="eng content" class="cushycms"><p><a class="pLink">WAIF 88.3FM<br />
+Host: Gebhard Ehrler<br />
+German Tunes of the Queen City<br />
+Wednesdays 5&ndash;8pm<br />
+Fr&ouml;hlich ins Wochenende<br />
+Saturdays 10am&ndash;12pm<br />
+513.749.1444<br />
+<br />
+WOBO 88.7FM<br />
+Hosts: Gebhard Ehrler &amp; Dieter Waldowski<br />
+Over-the-Rhine Showcase News<br />
+Sundays 2&ndash;6pm<br />
+513.724.3939<br />
+<br />
+WVQC 95.7FM<br />
+Host: Wolfgang Grossmann<br />
+Wolfgang&rsquo;s Musikalische Krammer<br />
+Wednesdays 10am&ndash;12pm<br />
+Suzanne and Wolf&rsquo;s International Musica<br />
+Wednesdays 1pm&ndash;3pm</a><br />
+<br />
+<a class="pLink">For genealogy and historical research, reference these out-of-print German-Language Newspapers and Religious Publications.</a><br />
+<a class="pLink"><br />
+&nbsp;</a></p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Cincinnati Gemeinde</div>
+      <div title="ger title" class="gerTitle cushycms"></div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms"></div>
     </div>
 
     <div class="two columns">

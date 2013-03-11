@@ -22,29 +22,25 @@
     <div class="three columns">
       <div title="eng title" class="eng cushycms">German Day</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">
-        <p>Cincinnati held its first German Day celebration in 1895. It is a two day celebration, held at Findlay Market, Ohio’s oldest 
-          public market, on Saturday and at the Hofbräuhaus on Sunday during the first weekend of June. Festivities include a recognition 
-          of Cincinnati’s German societies and representatives, a ceremonial keg tapping, traditional dance, music, and Gemütlichkeit. </p>
-        <p>German Day celebrates the unification of Germany. Prior to 1871, Germany as we know it had existed as individual kingdoms. 
-          This holiday holds a special importance for the German community in Cincinnati, as it led to the founding of the German Day 
-          Society, which coordinated plans for the event. Over the years, this planning committee evolved into the German American Citizens
-           League of Cincinnati (GACL). The GACL unites the many German societies in the Greater Cincinnati area under one organization and 
-           curates the German American Heritage Museum in Colerain Township.</p>
-        <p>Tolzmann, Dr. Don. German Cincinnati Revisited. Charleston, SC: Arcadia Pub., 2011. Print.</p>
-      </div>
+      <div title="eng content" class="cushycms"><p>Cincinnati held its first German Day celebration in 1895. It is a two day celebration, held at Findlay Market, Ohio&rsquo;s oldest public market, on Saturday and at the Hofbr&auml;uhaus on Sunday during the first weekend of June. Festivities include recognition of Cincinnati&rsquo;s German societies and representatives, a ceremonial keg tapping, traditional dance, music, and Gem&uuml;tlichkeit.<br />
+<br />
+German Day celebrates the unification of Germany. Prior to 1871, Germany as we know it had existed as individual kingdoms. This holiday holds a special importance for the German community in Cincinnati, as it led to the founding of the German Day Society, which coordinated plans for the event. Over the years, this planning committee evolved into the <a href="http://www.gacl.org/">German American Citizens League&nbsp;of Cincinnati (GACL)</a>. The GACL unites the many German societies in the Greater Cincinnati area under one organization and curates the German American Heritage Museum in Colerain Township.</p>
+</div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">German Day</div>
+      <div title="ger title" class="gerTitle cushycms">Deutschland Tag</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Demnächst</div>
+      <div title="ger content" class="ger cushycms">Cincinnati f&uuml;hrte den German-Day im Jahre 1895 zum ersten Mal durch. Bis heute ist es eine zweit&auml;tige Veranstaltung und findet beim Findlay Market (Ohio&#39;s &auml;ltester Markt) am Samstag und beim Hofbr&auml;uhaus am Sonntag statt. Die Festivit&auml;ten finden jeweils in der ersten Woche im Juni statt. Die Feier umfasst verschiedene T&auml;tigkeiten zur Anerkennung der Deutschen Gesell-schaften wie traditionelles Tanzen, Bierfass zapfen, Musik und Gem&uuml;tlichkeit.<br />
+<br />
+Der German-Day wird in Erinnerung an die deutsche Vereinigung im Jahre 1871 gehalten. Bis 1871 existierte Deutschland als individuelle K&ouml;nigreiche.&nbsp;Dieser Feiertag ist f&uuml;r die deutschen Gesellschaften besonders wichtig, da er zur Gr&uuml;ndung der German Day Society gef&uuml;hrt hat. Die German Day Society plant verschieden Feste. &Uuml;ber die Jahre entwickelte sich die Organisation zur<a href="http://www.gacl.org/"> German American Citizens League of Cincinnati (GACL)</a>. Die GACL verbindet die meisten deut-schen Vereine in Cincinnati unter einer Organisation.</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms"></div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms">Findlay Market<br />
+Hofbr&auml;uhaus Newport</div>
       </div>
     </div>    
 

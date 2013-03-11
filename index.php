@@ -9,26 +9,29 @@
     </div>
     <div class="five columns">
       <ul class="block-grid two-up welcomeImage2li">
-        <li><a title="smallImage1" class="cushycms" href="mayFestival.php"><img title="smallImage1b" class="welcomeImage_2" src="images/_DSC0030_200x200.png"></a></li>
-        <li><a title="smallImage2" class="cushycms" href="cincinnatisHeritage.php"><img title="smallImage2b" class="welcomeImage_2" src="images/_DSC0103_200x200.png"></a></li>
-        <li><a title="smallImage3" class="cushycms" href="bockfest.php"><img title="smallImage3b" class="welcomeImage_2" src="images/Final_flyer3_starkbier_200x200.png"></a></li>
-        <li><a title="smallImage4" class="cushycms" href="oktoberfest.php"><img title="smallImage4b" class="welcomeImage_2" src="images/_DSC0104_200x200.png"></a></li>
+        <li title="smallImage1 link" class="cushycms"><img alt="" src="index_15_1050431741.png" style="width: 190px; height: 190px;" /></li>
+        <li title="smallImage2 link" class="cushycms"><a href="cincinnatisHeritage.php"><img class="welcomeImage_2" src="images/_DSC0103_200x200.png" style="width: 190px; height: 190px;" title="smallImage2b" /></a></li>
+        <li title="smallImage3 link" class="cushycms"><a href="bockfest.php"><img class="welcomeImage_2" src="images/Final_flyer3_starkbier_200x200.png" style="height: 190px; width: 190px;" title="smallImage3b" /></a></li>
+        <li title="smallImage4 link" class="cushycms"><img alt="" src="index_17_4281801192.png" style="width: 190px; height: 190px;" /></li>
       </ul>
     </div>
   </div>
   
   <div class="row">
     <div class="three columns">
-      <div title ="english title" class="eng cushycms">Cincideutsch Christkindlmarkt 2012</div>
+      <div title="english title" class="eng cushycms">Are you learning German?</div>
       <hr class="yellow">
-      <div title="english copy" class="cushycms">Cincideutsch introduced the first authentic German-Christmas market <br> to downtown Cincinnati’s Fountain Square the weekend after Thanksgiving.
-      </div>
+      <div title="english copy" class="cushycms">&ldquo;Thanks to Cincideutsch, I will be bilingual someday. It is now a fact, not a possibility. I couldn&rsquo;t be happier.&rdquo;&nbsp;<br />
+Margaret Breidenbaugh<br />
+(Chillicothe, Ohio)</div>
     </div>
     <!-- <div class="one column"></div> -->
     <div class="three columns">
-      <div title="german title" class="gerTitle cushycms">Cincideutsch Christkindlmarkt 2012</div>
+      <div title="german title" class="gerTitle cushycms">Lernen Sie Englisch?</div>
       <hr class="red">
-      <div title="german copy" class="ger cushycms">Cincideutsch...</div>
+      <div title="german copy" class="ger cushycms">&ldquo;Thanks to Cincideutsch, I will be bilingual someday. It is now a fact, not a possibility. I couldn&rsquo;t be happier.&rdquo;&nbsp;<br />
+Margaret Breidenbaugh<br />
+(Chillicothe, Ohio)</div>
     </div>
 
     <div class="six columns end social right">
