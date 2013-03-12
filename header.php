@@ -73,10 +73,10 @@ $events = array("events", "cincideutschChristkindlmarkt2012", "regularsTable", "
           <img <?php if(in_array($page, $about)){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a title="link2" class="mainNav cushycms" href="aboutCincideutsh.php"><b>About </b><i>&Uuml;ber</i></a>
            <ul class="subNav">
-              <li title="link2 sub1" class="cushycms"><a href="aboutCincideutsh.php">About Cincideutsch</a></li>
-              <li title="link2 sub2" class="cushycms"><a href="ourHistory.php">Our History</a></li>
-              <li title="link2 sub3" class="cushycms"><a href="cincinnatisHeritage.php">Cincinnati&#39;s Heritage</a></li>
-              <li title="link2 sub5" class="cushycms"><a href="supportCincideutsch.php">Support Cincideutsch</a></li>
+              <li title="link2 sub1" class="cushycms"><a href="aboutCincideutsh.php"><b>About Cincideutsch</b></a></li>
+              <li title="link2 sub2" class="cushycms"><a href="ourHistory.php"><b>Our History</b></a></li>
+              <li title="link2 sub3" class="cushycms"><a href="cincinnatisHeritage.php"><b>Cincinnati&#39;s Heritage</b></a></li>
+              <li title="link2 sub5" class="cushycms"><a href="supportCincideutsch.php"><b>Support Cincideutsch</b></a></li>
            </ul>  
         </li>
 
@@ -84,18 +84,18 @@ $events = array("events", "cincideutschChristkindlmarkt2012", "regularsTable", "
           <img <?php if(in_array($page, $events)){echo "class='selected'";}else{ }?> class="yellowArc" src="images/active-link.png" width="60px"></br>
           <a title="link3" class="mainNav cushycms" href="cincideutschChristkindlmarkt2012.php"><b>Events </b><i>Veranstaltungen</i></a>
           <ul class="subNav">
-              <li title="link3 sub1" class="cushycms"><a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt 2012</a></li>
-              <li title="link3 sub2" class="cushycms"><a href="regularsTable.php">Regulars&rsquo; Table <i>Stammtisch</i></a></li>
+              <li title="link3 sub1" class="cushycms"><a href="cincideutschChristkindlmarkt2012.php"><b>Cincideutsch Christkindlmarkt 2012</b></a></li>
+              <li title="link3 sub2" class="cushycms"><a href="regularsTable.php"><b>Regulars&rsquo; Table</b> <i>Stammtisch</i></a></li>
               <hr class="subNavHr">
-              <li title="link3 sub3" class="cushycms"><a href="whiteSausageBreakfast.php">White Sausage Breakfast <i>Wei&szlig;wurstfr&uuml;hst&uuml;ck</i></a></li>
-              <li title="link3 sub4" class="cushycms"><a href="bockfest.php">Bockfest <i>Bockfest</i></a></li>
-              <li title="link3 sub5" class="cushycms"><a href="mayFestival.php">May Festival <i>Maifest</i></a></li>
-              <li title="link3 sub6" class="cushycms"><a href="germanDay.php">German Day <i>Deutschland Tag</i></a></li>
-              <li title="link3 sub7" class="cushycms"><a href="shootingFestival.php">Shooting Festival <i>Sch&uuml;tzenfest</i></a></li>
-              <li title="link3 sub8" class="cushycms"><a href="oktoberfest.php">Oktoberfest <i>Oktoberfest</i></a></li>
-              <li title="link3 sub9" class="cushycms"><a href="christmasMarket.php">Christmas Markets <i>Christkindlmarkt</i></a></li>
-              <li title="link3 sub10" class="cushycms"><a href="singingFestival.php">Singing Festival <i>S&auml;ngerfest</i></a></li>
-              <li title="link3 sub11" class="cushycms"><a href="cincinnatiCommunity.php">Cincinnati Community <i>Cincinnati Gemeinde</i></a></li>
+              <li title="link3 sub3" class="cushycms"><a href="whiteSausageBreakfast.php"><b>White Sausage Breakfast</b> <i>Wei&szlig;wurstfr&uuml;hst&uuml;ck</i></a></li>
+              <li title="link3 sub4" class="cushycms"><a href="bockfest.php"><b>Bockfest</b> <i>Bockfest</i></a></li>
+              <li title="link3 sub5" class="cushycms"><a href="mayFestival.php"><b>May Festival</b> <i>Maifest</i></a></li>
+              <li title="link3 sub6" class="cushycms"><a href="germanDay.php"><b>German Day</b> <i>Deutschland Tag</i></a></li>
+              <li title="link3 sub7" class="cushycms"><a href="shootingFestival.php"><b>Shooting Festival</b> <i>Sch&uuml;tzenfest</i></a></li>
+              <li title="link3 sub8" class="cushycms"><a href="oktoberfest.php"><b>Oktoberfest</b> <i>Oktoberfest</i></a></li>
+              <li title="link3 sub9" class="cushycms"><a href="christmasMarket.php"><b>Christmas Markets</b> <i>Christkindlmarkt</i></a></li>
+              <li title="link3 sub10" class="cushycms"><a href="singingFestival.php"><b>Singing Festival</b> <i>S&auml;ngerfest</i></a></li>
+              <li title="link3 sub11" class="cushycms"><a href="cincinnatiCommunity.php"><b>Cincinnati Community </b><i>Cincinnati Gemeinde</i></a></li>
           </ul>
         </li> 
 

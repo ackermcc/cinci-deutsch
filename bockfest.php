@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/paradedebut_edited_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="images/paradedebut_edited_290x290.png"></div>
       <div title="eng caption" class="cushycms">Cincideutsch members participating in their first parade as GACL members at the 2012 Bockfest in Over-the-Rhine. <a class="morePhotos">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">Cincideutsch members participating in their first parade as GACL members at the 2012 Bockfest in Over-the-Rhine. <a class="morePhotos">(more photos)</a></div>
       
@@ -16,13 +16,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Bockfest</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p>Bockfest is an annual beer festival held in Cincinnati&rsquo;s Over-the-Rhine, organized by the <a href="http://www.otrbrewerydistrict.org/">OTR Brewery District</a>. Held the first weekend of March, it is the oldest and largest Bock beer festival in the United States. Celebrations begin with a parade that ends at Bockfest Hall, where the ceremonial first keg is tapped.<br />
+      <div title="eng content" class="engContent cushycms"><p>Bockfest is an annual beer festival held in Cincinnati&rsquo;s Over-the-Rhine, organized by the <a href="http://www.otrbrewerydistrict.org/">OTR Brewery District</a>. Held the first weekend of March, it is the oldest and largest Bock beer festival in the United States. Celebrations begin with a parade that ends at Bockfest Hall, where the ceremonial first keg is tapped.<br />
 <br />
 Bock beer was originally brewed in Einbeck, which is located in Northern Germany. The monks of the area created this heavy beer to drink during the Lenten fasting season before Easter, as beer consumptions was not restricted like food.</p>
 </div>
@@ -39,7 +40,11 @@ Das Bockbier wurde urspr&uuml;nglich in Einbeck, Norddeutschland gebraut. Die lo
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms"><a href="languageEducation.php">Celebrations</a></div>
-        <div title="links" class="cushycms"><a href="http://www.bockfest.com/">OTR Bockfest</a></div>
+        <div title="links" class="cushycms">
+          <ul class="linksUl">
+          <li><a href="http://www.bockfest.com/">OTR Bockfest</a></li>
+        </ul>
+        </div>
     </div>    
 
   </div>

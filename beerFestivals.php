@@ -1,6 +1,6 @@
 
   <? include_once('header.php'); ?>
-  
+
   <div class="row mainContent">
 
     <div class="four columns ">
@@ -21,33 +21,37 @@
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Museum Collections</div>
+      <div title="eng title" class="eng cushycms">Beer Festivals</div>
       <hr class="yellow">
-      <div title="eng content" class="engContent cushycms"><p><a href="http://www.cincymuseum.org/">Cincinnati Museum Center</a><br />
-1301 Western Avenue<br />
-Cincinnati, Ohio&nbsp;45203<br />
-513.287.7000<br />
-<br />
-<a href="http://www.gacl.org/museum.html">German Heritage Museum</a><br />
-4764 West Fork Road<br />
-Cincinnati,&nbsp;Ohio&nbsp;45247<br />
-513.598.5732</p>
-</div>
+      <div title="eng content" class="engContent cushycms">
+        <p>During the 1800s, Cincinnati had a booming brewing industry. German beers and lagers dominated the scene. However, with the introduciton of Prohibition, the vast majority of the breweries shut down and local brewing was almost non-existent by the 1980s. </p>
+        <p> Today, the brewing industry in Cincinnati is on the rebound. Its resurgence is celebrated throughout the year with festivals that inspire unique seasonal brews from talented brewers throughout the city.  </p>
+</div>     
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">(continued)</div>
+      <div title="ger title" class="gerTitle cushycms">???</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"><a href="http://www.freedomcenter.org/"><span style="font-size: 13px;">National Underground Railroad Freedom Center</span></a><br />
-50 East Freedom Way<br />
-Cincinnati, Ohio&nbsp;45202<br />
-513.333.7739</div>
+      <div title="ger content" class="ger cushycms"><p>Need Translation</p>
+</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms">To add your local museum collection to our list, please email <a href="mailto:pr@cincideutsch.com?subject=Museum%20Collection%20for%20Cincideutsch.com">pr@cincideutsch.com</a>.</div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms"><ul class="linksUl">
+        	<li><a href="">Beer Week</a></li>
+        	<li><a href="">Bockfest</a></li>
+        	<li><a href="">Starkbier Fest</a></li>
+        	<li><a href="">Craft Beer Oktoberfest</a></li>
+          </ul>
+        </div>
+        <div title="links title" class="eng cushycms secondP">Other Resources</div>
+        <div title="links" class="cushycms"><ul class="linksUl">
+          <li><a href="">Homebrewing Orgs</a></li>
+          <li><a href="">Restaurants and Breweries</a></li>
+        </ul>
+        </div>
       </div>
     </div>    
 

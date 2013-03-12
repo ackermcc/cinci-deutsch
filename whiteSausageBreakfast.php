@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/DSC_0054_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="images/DSC_0054_290x290.png"><div>
       <div title="eng caption" class="cushycms">Händlmaier Mustard Club members enjoying a beautiful day in the beer garden at Mecklenburg Gardens for their once monthly Weisswurstessen.</div>
       <div title="ger caption" class="ger secondP cushycms">Händlmaier Senf Klub Mitglieder geniessen eine wunderschoenen Tag im Biergarten bei Mecklenburg Gardens zum monatlichen Weisswurstessen.</div>
       
@@ -16,13 +16,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">White Sausage Breakfast</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p>Inspired by the Gem&uuml;tlichkeit of Bavaria&rsquo;s H&auml;ndlmaier Mustard Fan Club, Cincinnati&rsquo;s chapter gathers once each month at Mecklenburg Gardens for a traditional Bavarian white sausage meal (Wei&szlig;wurstessen). The spread consists of sausages cooked in water, sweet mustard (or whichever H&auml;ndlmaier variety you prefer!), fresh pretzels, and wheat beer.</p>
+      <div title="eng content" class="engContent cushycms"><p>Inspired by the Gem&uuml;tlichkeit of Bavaria&rsquo;s H&auml;ndlmaier Mustard Fan Club, Cincinnati&rsquo;s chapter gathers once each month at Mecklenburg Gardens for a traditional Bavarian white sausage meal (Wei&szlig;wurstessen). The spread consists of sausages cooked in water, sweet mustard (or whichever H&auml;ndlmaier variety you prefer!), fresh pretzels, and wheat beer.</p>
 </div>
     </div>
 
@@ -34,8 +35,11 @@
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms"></div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms"><ul class="linksUl">
+	<li><a href="http://www.mustardclub.org/">Mustard Club</a></li>
+</ul>
+</div>
       </div>
     </div>    
 

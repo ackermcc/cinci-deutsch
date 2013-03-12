@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
       <div title="eng caption" class="cushycms">...</div>
       <div title="ger caption" class="ger secondP cushycms">...</div>
       
@@ -16,13 +16,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Int&rsquo;l Relations</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p><a href="http://www.europe-cincinnati.com/">European American Chamber of Commerce</a><br />
+      <div title="eng content" class="engContent cushycms"><p><a href="http://www.europe-cincinnati.com/">European American Chamber of Commerce</a><br />
 1900 Chemed Center&nbsp;<br />
 255 East Fifth Street<br />
 Cincinnati, OH 45202<br />
@@ -64,7 +65,7 @@ United States of America<br />
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms"></div>
+        <div title="links" class="cushycms"><ul class="linksUl"><li></li></ul></div>
       </div>
     </div>    
 

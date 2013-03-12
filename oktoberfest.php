@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg " src="images/tracht_chrissy_nick_290x290.png">
+      <div><img title="image" class="imageSubPg " src="images/tracht_chrissy_nick_290x290.png"></div>
       <div title="eng caption" class="cushycms">Cincideutsch members in traditional Bavarian garb at the Germania Society&rsquo;s Oktoberfest in 2012. Formal Dirndl dresses and Lederhosen have become synonymous with the event throughout the world. <a class="morePhotos">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">Need Translation</div>
       
@@ -16,13 +16,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Oktoberfest</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p>Autumn is the busiest time of year for the German community in Cincinnati. From the last week of August through the first week of October, Oktoberfest celebrations can be found every weekend throughout the city. In fact, Cincinnati has more Oktoberfests than any other city in the United States.<br />
+      <div title="eng content" class="engContent cushycms"><p>Autumn is the busiest time of year for the German community in Cincinnati. From the last week of August through the first week of October, Oktoberfest celebrations can be found every weekend throughout the city. In fact, Cincinnati has more Oktoberfests than any other city in the United States.<br />
 <br />
 Oktoberfest originally began in Munich, Cincinnati&rsquo;s Sister-City, as the wedding celebration of the Bavarian Crown Prince Ludwig (King Ludwig I) to Princess Therese of Saxe-Hildburghausen, the present-day Free State of Th&uuml;ringen. The primary feature of the event was horse racing. In following years, horse racing became part of the opening ceremonies and the commemorative event took more of a festival-like atmosphere.</p>
 </div>
@@ -39,7 +40,18 @@ Das Oktoberfest begann in Cincinnati&lsquo;s Schwester Stadt M&uuml;nchen w&auml
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms">Celebrations</div>
-        <div title="links" class="cushycms"><a href="">Germania Society </a> <a href="">Liberty Home </a> <a href="">Mainstrasse Village</a> <a href="">Mount Adams</a> <a href="">Zinzinnati</a> <a href="">&Uuml;berdrome</a> <a href="">Newport</a> <a href="">Listermann&rsquo;s</a> <a href="">Donauschwaben</a></div>
+        <div title="links" class="cushycms"><ul class="linksUl">
+	<li><a href="http://www.germaniasociety.com/ofestsite/oktoberfest12.html">Germania Society </a></li>
+	<li><a href="http://www.libertyhome.net/">Liberty Home </a></li>
+	<li><a href="http://www.mainstrasse.org/">Mainstrasse Village</a></li>
+	<li><a href="http://mtadamstoday.com/home/events/mt-adams-oktoberfest/">Mount Adams</a></li>
+	<li><a href="http://www.oktoberfestzinzinnati.com/">Zinzinnati</a></li>
+	<li><a href="http://www.moerleinlagerhouse.com/">&Uuml;berdrome</a></li>
+	<li><a href="http://www.oktoberfestnewport.com/">Newport</a></li>
+	<li><a href="http://listermannbrewing.com/special-events/">Listermann</a></li>
+	<li><a href="http://www.cincydonau.com/">Donauschwaben</a></li>
+</ul>
+</div>
       </div>
     </div>    
 

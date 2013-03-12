@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/_DSC0219_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="cincinnatiCommunity_27_2441372008.png"></div>
       <div title="eng caption" class="cushycms">...</div>
       <div title="ger caption" class="ger secondP cushycms">...</div>
       
@@ -16,13 +16,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Cincinnati Community</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p>The influence of German culture in Cincinnati extends beyond the organizations that keep the history and traditions of German immigrants alive into realms of the arts, cuisine, and community. Currently, Cincideutsch has several relationships that provide members with opportunities to enjoy the work of Cincinnati&rsquo;s talented artists and musicians and to become involved in the city&rsquo;s latest developments.<br />
+      <div title="eng content" class="engContent cushycms"><p>The influence of German culture in Cincinnati extends beyond the organizations that keep the history and traditions of German immigrants alive into realms of the arts, cuisine, and community. Currently, Cincideutsch has several relationships that provide members with opportunities to enjoy the work of Cincinnati&rsquo;s talented artists and musicians and to become involved in the city&rsquo;s latest developments.<br />
 <br />
 <a href="https://www.facebook.com/CincinnatiChamberOpera"><strong>Cincinnati Chamber Opera</strong></a><br />
 Founded by Cincideutsch member, Autumn West, and fellow CCM alum Shawn Mylnek, the organization aspires to bring high-quality, fully staged opera productions to the Cincinnati area in an intimate, chamber setting,&nbsp;as well as to give local young talent an opportunity to showcase their voices and their work.<br />
@@ -59,15 +60,17 @@ Das &ldquo;Over-the-Rhine&rdquo; Quartier, auch OTR genannt, erhielt den Namen a
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms">Links</div>
-        <div title="links" class="cushycms"><p><a href="">Genealogical References&nbsp;<br />
-Historical Tours</a><br />
-<a href="">Int&rsquo;l Relations</a><br />
-<a href="">Museum Collections</a><br />
-<a href="">Newspapers &amp; Radio</a><br />
-<a href="">Organizations &amp; Societies</a>&nbsp;<br />
-<a href="">Religious Services</a><br />
-<a href="">Restaurants &amp; Breweries</a><br />
-<a href="">Language Education</a></p>
+        <div title="links" class="cushycms"><ul class="linksUl">
+	<li><a href="genealogicalReferences.php">Genealogical References&nbsp;</a></li>
+	<li><a href="historicalTours.php">Historical Tours</a></li>
+	<li><a href="IntLRelations.php">Int&rsquo;l Relations</a></li>
+	<li><a href="museumCollections.php">Museum Collections</a></li>
+	<li><a href="newspapersRadio.php">Newspapers &amp; Radio</a></li>
+	<li><a href="organizationsSocieties.php">Organizations &amp; Societies</a></li>
+	<li><a href="religiousServices.php">Religious Services</a></li>
+	<li><a href="restaurantsBreweries.php">Restaurants &amp; Breweries</a></li>
+	<li><a href="languageEducation.php">Language Education</a></li>
+</ul>
 </div>
     </div>    
 

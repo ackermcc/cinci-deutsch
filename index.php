@@ -21,7 +21,7 @@
     <div class="three columns">
       <div title="english title" class="eng cushycms">Are you learning German?</div>
       <hr class="yellow">
-      <div title="english copy" class="cushycms">&ldquo;Thanks to Cincideutsch, I will be bilingual someday. It is now a fact, not a possibility. I couldn&rsquo;t be happier.&rdquo;&nbsp;<br />
+      <div title="english copy" class="engContent cushycms">&ldquo;Thanks to Cincideutsch, I will be bilingual someday. It is now a fact, not a possibility. I couldn&rsquo;t be happier.&rdquo;&nbsp;<br />
 Margaret Breidenbaugh<br />
 (Chillicothe, Ohio)</div>
     </div>
@@ -42,6 +42,7 @@ Margaret Breidenbaugh<br />
       <a href=""><img class="smIcons_index" src="images/flickr.png"></a>
       <a href=""><img class="smIcons_index" src="images/linkedIn.png"></a>
       <a href=""><img class="smIcons_index" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
     </div>
   </div>
 

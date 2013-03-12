@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/DSC04125_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="images/DSC04125_290x290.png"></div>
       <div title="eng caption" class="cushycms">The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
         several times a day, drawing tourists from all over the world. It portrays two stories of festivities from the Middle Ages, 
         where a Bavarian knight wins a joust to celebrate the birthday of Duke Wilhelm V.</div>
@@ -18,13 +18,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Education First (EF) Scholarship</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms">Should I note that this is the plan? To have a scholarship? Or should I take this page down for now?</div>     
+      <div title="eng content" class="engContent cushycms">Should I note that this is the plan? To have a scholarship? Or should I take this page down for now?</div>     
     </div>
 
     <div class="three columns">
@@ -36,8 +37,17 @@
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms">Program Applicants</div>
-        <div title="links" class="cushycms"><a href="">Application</a> <a href="">Recommendation Forms</a></div>
-        <div title="links" class="secondP cushycms"><a href="">Donate to EF Scholarship</a></div>
+        <div title="links" class="cushycms">
+          <ul class="linksUl">
+          <li><a href="">Application</a></li> 
+          <li><a href="">Recommendation Forms</a></li>
+        </ul>
+        </div>
+        <div title="links" class="secondP cushycms">
+          <ul class="linksUl">
+          <li><a href="">Donate to EF Scholarship</a></li>
+        </ul>
+        </div>
       </div>
     </div>    
 

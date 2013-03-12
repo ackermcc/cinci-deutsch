@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
       <div title="eng caption" class="cushycms">...</div>
       <div title="ger caption" class="ger secondP cushycms">...</div>
       
@@ -16,13 +16,14 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Out-of-Print Newspapers</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p>Arbeiterzeitung<br />
+      <div title="eng content" class="engContent cushycms"><p>Arbeiterzeitung<br />
 Cincinnati Anzeiger<br />
 Cincinnati Abend Presse<br />
 Cincinnati Tageblatt&nbsp;<br />

@@ -4,7 +4,7 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <img title="image" class="imageSubPg cushycms" src="images/_DSC0048_290x290.png">
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0048_290x290.png"></div>
       <div title="eng caption" class="cushycms">The Kolping Sängerchor singing German Christmas carols during the opening ceremony of Cincideutsch’s first Christkindlmarkt on Fountain Square. <a class="pLink">(more photos)</a></div>
       <div title="ger caption" class="ger secondP cushycms">The Kolping Sängerchor singing German Christmas carols during the opening ceremony of Cincideutsch’s first Christkindlmarkt on Fountain Square. <a class="pLink">(more photos)</a></div>
       
@@ -16,17 +16,23 @@
         <a href=""><img class="smIcons" src="images/flickr.png"></a>
         <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
         <a href=""><img class="smIcons" src="images/instagram.png"></a>
+        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
       </div>
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Singing Societies</div>
+      <div title="eng title" class="eng cushycms">Current Singing Societies</div>
       <hr class="yellow">
-      <div title="eng content" class="cushycms"><p>Current Groups<br />
-Cincinnati Kolping S&auml;ngerchor<br />
+      <div title="eng content" class="engContent cushycms"><p>Cincinnati Kolping S&auml;ngerchor<br />
 <br />
-<strong>Past Gesang-Vereine</strong><br />
-Arbeiter S&auml;ngerbund<br />
+&nbsp;</p>
+</div>
+    </div>
+
+    <div class="three columns">
+      <div title="ger title" class="gerTitle cushycms"><b>Former Singing Societies</b></div>
+      <hr class="red">
+      <div title="ger content" class="ger cushycms">Arbeiter S&auml;ngerbund<br />
 Badischer Liederkranz<br />
 Bayerischer M&auml;nnerchor<br />
 B&auml;cker Gesang Verein<br />
@@ -62,20 +68,17 @@ Schw&auml;bische S&auml;nger<br />
 Schweizer M&auml;nnerchor<br />
 Teutonia M&auml;nnerchor<br />
 Die Vereinigten S&auml;nger<br />
-Westend M&auml;nnerchor</p>
-</div>
-    </div>
-
-    <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms"></div>
-      <hr class="red">
-      <div title="ger content" class="ger cushycms"></div>
+Westend M&auml;nnerchor</div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms"></div>
+        <div title="links title" class="eng cushycms">Celebrations</div>
+        <div title="links" class="cushycms"><ul class="linksUl">
+	<li><a href="mayFestival.php">May Festival</a></li>
+	<li><a href="singingFestival.php">S&auml;ngerfest</a></li>
+</ul>
+</div>
       </div>
     </div>    
 

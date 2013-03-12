@@ -28,6 +28,14 @@ hr.red {
 .eng {
 	font-weight: bold;
 }
+	.engContent a{
+			text-decoration: underline;
+			color: #222;
+		} 
+			.engContent a:hover {
+				text-decoration: underline;
+				color: #c4122f;
+			} 
 
 .ger {
 	font-weight: normal;
@@ -85,6 +93,10 @@ footer {
 	.footerOption2{
 		margin: 50px 0 -40px 0; 
 	}
+
+.meetUs{
+	padding-top: 10px;
+}	
 
 /* -------------------------------------------------- 
    over ride	
