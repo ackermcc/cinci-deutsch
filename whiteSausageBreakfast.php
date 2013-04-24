@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/DSC_0054_290x290.png"><div>
-      <div title="eng caption" class="cushycms">Händlmaier Mustard Club members enjoying a beautiful day in the beer garden at Mecklenburg Gardens for their once monthly Weisswurstessen.</div>
-      <div title="ger caption" class="ger secondP cushycms">Händlmaier Senf Klub Mitglieder geniessen eine wunderschoenen Tag im Biergarten bei Mecklenburg Gardens zum monatlichen Weisswurstessen.</div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/DSC_0054_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">H&auml;ndlmaier Mustard Club members enjoying a beautiful day in the beer garden at Mecklenburg Gardens for their once monthly <a href="http://meetup.com/cincideutsch">Weisswurstessen</a>.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">H&auml;ndlmaier Senf Klub Mitglieder geniessen eine wunderschoenen Tag im Biergarten bei Mecklenburg Gardens zum monatlichen <a href="http://meetup.com/cincideutsch">Weisswurstessen</a>.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
@@ -28,7 +19,7 @@
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Weisswurstfr&uuml;hstuck</div>
+      <div title="ger title" class="gerTitle cushycms">Weisswurstfr&uuml;hst&uuml;ck</div>
       <hr class="red">
       <div title="ger content" class="ger cushycms">Inspiriert von der Gem&uuml;tlichkeit des H&auml;ndlmaiers Mustard Fan Club von Bayern, Mitglieder des gleichnamigen Klubs in Cincinnati treffen sich einmal im Monat zum traditionellen bayerischen Weisswurst essen. Traditionell wird die Weisswurst in Wasser gekocht und mit s&uuml;ssem Senf, frischen Pretzeln und Weizenbier serviert. Nat&uuml;rlich kann zwischen verschiedenen Variationen von H&auml;ndlmaier Senfen ausgew&auml;hlt werden.</div>
     </div>

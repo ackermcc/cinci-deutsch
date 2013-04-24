@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg " src="images/tracht_chrissy_nick_290x290.png"></div>
-      <div title="eng caption" class="cushycms">Cincideutsch members in traditional Bavarian garb at the Germania Society&rsquo;s Oktoberfest in 2012. Formal Dirndl dresses and Lederhosen have become synonymous with the event throughout the world. <a class="morePhotos">(more photos)</a></div>
-      <div title="ger caption" class="ger secondP cushycms">Need Translation</div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/tracht_chrissy_nick_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">Cincideutsch members in traditional Bavarian garb at the Germania Society&rsquo;s Oktoberfest in 2012. Formal Dirndl dresses and Lederhosen have become synonymous with the event throughout the world. <a href="http://www.flickr.com/photos/cincideutsch/sets/72157631568862968/">more photos</a></div>
+      <div title="ger caption" class="gerCap secondP cushycms">Cincideutsch-Mitglieder in traditioneller bayerischer Tracht beim Germania-Society&#39;s Oktoberfest 2012. Dirndl und Lederhosen wurden zu Synonymen des Oktoberfestes in der ganzen Welt. <a href="http://www.flickr.com/photos/cincideutsch/sets/72157631568862968/">mehr Fotos folgen</a></div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">

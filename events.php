@@ -5,19 +5,10 @@
 
     <div class="four columns ">
       <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
-      <div title="eng caption" class="cushycms">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
-      <div title="ger caption" class="ger secondP cushycms">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
+      <div title="eng caption" class="engCap cushycms">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Cofounders and coorganizers Linda McAlister and Olaf Scheil are interviewed by Cincinnati City Councilwoman Laure Quinlivan at the 2012 Cincideutsch Christkindlmarkt.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p>Meet us at Stammtisch, every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">

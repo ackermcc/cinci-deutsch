@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/image_290x290.png"></div>
-      <div title="eng caption" class="cushycms">A mug from the 2012 Schützenfest, showcasing the iconic eagle and symbos of marksmen. <a class="morePhotos">(more photos)</a></div>
-      <div title="ger caption" class="ger secondP cushycms"></div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/image_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">A mug from the 2012 Sch&uuml;tzenfest, showcasing the iconic eagle and symbols of marksmen.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Eine Tasse vom Sch&uuml;tzenfest 2012, darauf abgebildet die Adler-Ikone und die Symbole der Schie&szlig;kunst.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
@@ -32,7 +23,9 @@ The tradition of Sch&uuml;tzenfest is over 500 years old. There is a legend behi
     <div class="three columns">
       <div title="ger title" class="gerTitle cushycms">Sch&uuml;tzenfest</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms">Need Translation</div>
+      <div title="ger content" class="ger cushycms">Das Sch&uuml;tzenfest ist ein Zielschie&szlig;en, welches in jedem Sommer von der Kolping-Gesellschaft im Kolping-Klubhaus abgehalten wird. Die Sieger des Wettbewerbs werden zum K&ouml;nig und zur K&ouml;nigin des Festivals gek&uuml;rt. Dabei handelt es sich um diejenigen, die das letzte St&uuml;ck des Holzadlers herunterschie&szlig;en. Das Festival, urspr&uuml;nglich im St.-Clair&#39;s Park (dem ehemaligen Sch&uuml;tzen-Buckel-H&uuml;gel) durch die Riflemen&#39;s Society abgehalten, findet in Cincinnati seit 1866 statt. Seit 1925 wird die Veranstaltung von der Kolping-Gesellschaft durchgef&uuml;hrt.<br />
+<br />
+Die Tradition des Sch&uuml;tzenfestes ist mehr als 500 Jahre alt. Es gibt eine Legende zur Veranstaltung, die einen Adler beschreibt, der ein Kind angreift. Ein Meistersch&uuml;tze, der den Adler t&ouml;tete, um das Kind zu retten, wird seither als Held betrachtet. Das Fest wurde erschaffen, um seine mutige Tat zu w&uuml;rdigen.</div>
     </div>
 
     <div class="two columns">

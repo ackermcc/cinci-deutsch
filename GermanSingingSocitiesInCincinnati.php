@@ -4,26 +4,17 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0048_290x290.png"></div>
-      <div title="eng caption" class="cushycms">The Kolping Sängerchor singing German Christmas carols during the opening ceremony of Cincideutsch’s first Christkindlmarkt on Fountain Square. <a class="pLink">(more photos)</a></div>
-      <div title="ger caption" class="ger secondP cushycms">The Kolping Sängerchor singing German Christmas carols during the opening ceremony of Cincideutsch’s first Christkindlmarkt on Fountain Square. <a class="pLink">(more photos)</a></div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0048_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">The Kolping S&auml;ngerchor singing German Christmas carols during the opening ceremony of Cincideutsch&rsquo;s first Christkindlmarkt on Fountain Square.&nbsp;<a href="http://www.flickr.com/photos/cincideutsch/sets/72157632008671343/">(more photos)</a></div>
+      <div title="ger caption" class="gerCap secondP cushycms">Translation in Progress</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Current Singing Societies</div>
       <hr class="yellow">
-      <div title="eng content" class="engContent cushycms"><p>Cincinnati Kolping S&auml;ngerchor<br />
+      <div title="eng content" class="engContent cushycms"><p><a href="http://www.kolpingcincinnati.com/sangerchor.html">Cincinnati Kolping S&auml;ngerchor</a><br />
 <br />
 &nbsp;</p>
 </div>

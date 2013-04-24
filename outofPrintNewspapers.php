@@ -4,24 +4,15 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
-      <div title="eng caption" class="cushycms">...</div>
-      <div title="ger caption" class="ger secondP cushycms">...</div>
+      <div><img title="image" class="imageSubPg cushycms" src="outofPrintNewspapers_5_241859049.png" /></div>
+      <div title="eng caption" class="engCap cushycms">A letterpressed religious document from the Cincinnati Museum Center.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Translation in Progress</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Out-of-Print Newspapers</div>
+      <div title="eng title" class="eng cushycms">Out-of-Print News</div>
       <hr class="yellow">
       <div title="eng content" class="engContent cushycms"><p>Arbeiterzeitung<br />
 Cincinnati Anzeiger<br />
@@ -29,7 +20,7 @@ Cincinnati Abend Presse<br />
 Cincinnati Tageblatt&nbsp;<br />
 Cincinnati&nbsp;Morgen-Post<br />
 Cincinnati Volksblatt*&nbsp;<br />
-Der Deutsch Pioneer (newsletter/maganize)<br />
+Der&nbsp;Deutsche Pionier<br />
 Der Deutsche Patriot &nbsp;<br />
 Der Deutsche Republikaner<br />
 Der Weltb&uuml;rger &nbsp;&nbsp;<br />
@@ -64,21 +55,19 @@ Der Wahrheitsfreund<br />
 <br />
 <strong>Jewish</strong><br />
 Die Deborah (supplement to The Israelite)<br />
-Protestantische ZeitBl&auml;tter<br />
 <br />
-<strong>Lutheran</strong><br />
-Der Protestant<br />
-<br />
-<strong>Methodist</strong><br />
+<strong>Protestant</strong><br />
 Der Christliche Apologete<br />
-Sonntag Schul Glocke</p>
+<span style="font-size: 13px;">Der Protestant</span><br />
+Protestantische ZeitBl&auml;tter<br />
+<span style="font-size: 13px;">Sonntag Schul Glocke</span></p>
 </div>
     </div>
 
     <div class="two columns">
       <div class="links">
         <div title="links title" class="eng cushycms"></div>
-        <div title="links" class="cushycms">To add an out-of-print publication to our list, please email pr@cincideutsch.com.</div>
+        <div title="links" class="cushycms">To add an out-of-print publication to our list, please email <a href="mailto:pr@cincideutsch.com?subject=Publication%20for%20Cincideutsch.com">pr@cincideutsch.com</a>.</div>
       </div>
     </div>    
 

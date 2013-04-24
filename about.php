@@ -5,18 +5,10 @@
 
     <div class="four columns ">
       <div><img title="image" class="imageSubPg cushycms" src="http://fpoimg.com/290x290?text=Preview"></div>
-      <div title="eng caption" class="cushycms">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
-      <div title="ger caption" class="ger secondP cushycms">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
+      <div title="eng caption" class="engCap cushycms">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">The Westendorf family at Cincinnati’s very first Oktoberfest, held by the Germania Society in 197x.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">

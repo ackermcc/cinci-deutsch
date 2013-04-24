@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/Covington_HeritageTour_Tolzmann_290x290.png"></div>
-      <div title="eng caption" class="cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
-      <div title="ger caption" class="ger secondP cushycms">To add your local historical tour to our list, please email pr@cincideutsch.com.</div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/Covington_HeritageTour_Tolzmann_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">Dr. Don Heinrich Tolzmann, an expert on German American history in Cincinnati, leads a German Heritage Tour in Covington, Kentucky.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Der deutsch-amerikanische Geschichte Experte Dr. Don Heinrich Tolzmann h&auml;lt eine historische Tour in in Covington, Kentucky.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">

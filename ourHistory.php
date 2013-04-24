@@ -4,30 +4,17 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0119_290x290.png"></div>
-      <div title="eng caption" class="cushycms">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during the opening ceremonies, 
-        where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal is hung at each tent, 
-        following traditions in Bavaria.  <a class="morePhotos">(more photos)</a></div>
-      <div title="ger caption" class="ger secondP cushycms">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during 
-        the opening ceremonies, where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal 
-        is hung at each tent, following traditions in Bavaria. <a class="morePhotos">(more photos)</a></div>
+      <div><img class="imageSubPg cushycms" src="images/_DSC0119_290x290.png" /></div>
+      <div class="engCap cushycms">Cincideutsch members parading through downtown at the 2012 Zinzinnati Oktoberfest during the opening ceremonies, where members of the GACL walk to each fest tent to tap the first kegs. A flag and a seal is hung at each tent, following traditions in Bavaria. <a href="http://www.flickr.com/photos/cincideutsch/sets/72157631568862968/">more photos</a></div>
+      <div class="gerCap secondP cushycms">Cincideutsch Mitglieder paradieren durch der Innenstadt w&auml;hrend der Er&ouml;ffnungsfeiern beim 2012 Oktoberfest, wo die GACL Mitglieder zu jeden Festzelten gehen, um die ersten F&auml;sser anzuzapfen. Nach bayerischen Traditionen wird eine Fanne und Siegel an jedes Zelt aufgeh&auml;ngt.&nbsp;<a href="http://www.flickr.com/photos/cincideutsch/sets/72157631568862968/">mehr Fotos folgen</a></div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
-      <div title="eng title" class="eng cushycms">Our History</div>
+      <div class="eng cushycms">Our History</div>
       <hr class="yellow">
-      <div title="eng content" class="engContent cushycms"><p>February 7, 2011<br />
+      <div class="engContent cushycms"><p>February 7, 2011<br />
 First <a href="regularsTable.php">Stammtisch</a> held at Mecklenburg Gardens by the German Language and Culture Group of Cincinnati</p>
 
 <p>July 19, 2011<br />
@@ -46,14 +33,17 @@ Acquired nonprofit status</p>
 Participated in its first Zinzinnati Oktoberfest parade, the second largest <a href="oktoberfest.php">Oktoberfest</a> in the world</p>
 
 <p>November 23&ndash;25, 2012<br />
-Held the first <a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt</a> at Fountain Square, the first-ever authentic German Christmas market in downtown Cincinnati</p>
+Held the first <a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt</a> at Fountain Square, the first-ever authentic German Christmas market in downtown Cincinnati<br />
+<br />
+March 23, 2013<br />
+Sponsored its first event, Listermann&#39;s <a href="beerFestivals.php">Starkbierfest</a></p>
 </div>     
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">Unsere Geschichte</div>
+      <div class="gerTitle cushycms">Unsere Geschichte</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"><p>7. Februar 2011<br />
+      <div class="ger cushycms"><p>7. Februar 2011<br />
 Der erste <a href="regularsTable.php">Stammtisch</a> bei Mecklenburg Gardens wurde von dem Deutsch Sprache und Kultur Verein Cincinnati&nbsp;veranstaltet<br />
 <br />
 19. Juli 2011<br />
@@ -72,17 +62,20 @@ Gemeinn&uuml;tziger Status erworben<br />
 Nahm zum erste Mal an der Oktoberfest Zinzinnati Parade teil. Dieses Oktoberfest ist weltweit das zweitgr&ouml;sste Oktoberfest<br />
 <br />
 23-25. November 2012<br />
-Etablierte den ersten <a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt</a> auf dem Fountain Square, der erste authentische deutsche Christkindlmarkt der Innenstadt Cincinnati</p>
+Etablierte den ersten <a href="cincideutschChristkindlmarkt2012.php">Cincideutsch Christkindlmarkt</a> auf dem Fountain Square, der erste authentische deutsche Christkindlmarkt der Innenstadt Cincinnati<br />
+<br />
+23. M&auml;rz 2013<br />
+Unterst&uuml;tzt die erste Veranstaltung, Listermann&#39;s <a href="beerFestivals.php">Starkbierfest</a></p>
 </div>
     </div>
 
     <div class="two columns">
       <div class="links">
-        <div title="links title" class="eng cushycms">Links</div>
-        <div title="links" class="cushycms"><ul class="linksUl">
-	<li><a href="">Christkindlmarkt 2012</a></li>
+        <div class="eng cushycms">Links</div>
+        <div class="cushycms"><ul class="linksUl">
+	<li><a href="cincideutschChristkindlmarkt2012.php">Christkindlmarkt 2012</a></li>
 	<li><a href="regularsTable.php">Stammtisch</a></li>
-	<li><a href="">Support Cincideutsch</a></li>
+	<li><a href="supportCincideutsch.php">Support Cincideutsch</a></li>
 </ul>
 </div>
       </div>

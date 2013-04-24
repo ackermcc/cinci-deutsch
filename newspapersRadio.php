@@ -4,34 +4,17 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
-      <div title="eng caption" class="cushycms">...</div>
-      <div title="ger caption" class="ger secondP cushycms">...</div>
+      <div><img title="image" class="imageSubPg cushycms" src="newspapersRadio_5_4142682650.png" /></div>
+      <div title="eng caption" class="engCap cushycms">Gebhard Ehrler broadcasting from the WAIF 88.3FM studio.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Gebhard Ehrler w&auml;hrend der &Uuml;bertragung aus dem WAIF-88.3FM-Studio.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Newspapers&nbsp;</div>
       <hr class="yellow">
-      <div title="eng content" class="engContent cushycms"><p><a class="pLink" style="font-size: 13px;">For genealogy and historical research, reference these out-of-print German-Language Newspapers and Religious Publications.</a><br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<a class="pLink"><br />
-&nbsp;</a></p>
-</div>
+      <div title="eng content" class="engContent cushycms">For genealogy and historical research, reference these <a href="outofPrintNewspapers.php">out-of-print</a> German-Language Newspapers and Religious Publications.</div>
     </div>
 
     <div class="three columns">

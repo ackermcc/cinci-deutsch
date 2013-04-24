@@ -5,21 +5,12 @@
 
     <div class="four columns ">
       <div><img title="image" class="imageSubPg cushycms" src="images/DSC04125_290x290.png"></div>
-      <div title="eng caption" class="cushycms">The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
+      <div title="eng caption" class="engCap cushycms">The Rathaus, or town hall, at Marienplatz, Munich’s main town square. The Glockenspiel on the tower of the hall plays 
         several times a day, drawing tourists from all over the world. It portrays two stories of festivities from the Middle Ages, 
         where a Bavarian knight wins a joust to celebrate the birthday of Duke Wilhelm V.</div>
-      <div title="ger caption" class="ger secondP cushycms"></div>
+      <div title="ger caption" class="gerCap secondP cushycms"></div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">

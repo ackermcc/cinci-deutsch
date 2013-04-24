@@ -4,20 +4,12 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0119_290x290.png"></div>
-      <div title="eng caption" class="cushycms">Bratwurst and mettwurst on the grill. </div>
-      <div title="ger caption" class="ger secondP cushycms"></div>
+      <div><img title="image" class="imageSubPg cushycms" src="languageEducation_7_1737570069.png" /></div>
+      <div title="eng caption" class="engCap cushycms">School Freunde teaches language classes at the Fairview Clifton German Language School. Courses take place on Tuesdays at 6:30pm and are aimed toward those who know very basic German and would like to improve their speaking skills. Visit <a href="http://www.schoolfreunde.com">schoolfreunde.com</a>&nbsp;for more information about their next 10 week session.<br />
+&nbsp;</div>
+      <div title="ger caption" class="gerCap secondP cushycms">School Freunde unterrichtet Sprachkurse in der Fairview Clifton German Language School. Kurse finden jeweils Dienstags um 18:30 Uhr statt und sind f&uuml;r Studenten geeignet, die wenige Deutsch-Grundkenntnise haben und ihre Sprachkenntnise verbessern m&ouml;chten. Besuch schoolfreunde.com f&uuml;r mehr Informationen &uuml;ber das n&auml;chste zehnw&ouml;chige Kursprogramm.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
@@ -31,7 +23,7 @@ Cincinnati, Ohio 45220<br />
 <a href="http://www.schoolfreunde.com">School Freunde</a><br />
 3689 Clifton Avenue&nbsp;<br />
 Cincinnati, Ohio 45220<br />
-513.363.2100<br />
+513.681.0224 &nbsp;Ext.3<br />
 <br />
 <a href="http://tristategermanschool.org/">Tristate German-American School</a><br />
 PO Box 20161<br />

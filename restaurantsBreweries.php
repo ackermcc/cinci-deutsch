@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0036_290x290.png"></div>
-      <div title="eng caption" class="cushycms">Bratwurst and mettwurst on the grill. </div>
-      <div title="ger caption" class="ger secondP cushycms"></div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0036_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">Bratwurst and mettwurst on a grill at the Newport Oktoberfest.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Bratwurst und Mettwurst auf dem Grill w&auml;hrend des Newport Oktoberfestes.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
@@ -27,6 +18,11 @@
 621 Moore Street<br />
 Cincinnati, Ohio 45202<br />
 513.423.9469<br />
+<br />
+<a href="http://www.firesidepizzawagon.com/index.html">Fireside Pizza Wagon</a><br />
+Now serving flammkuchen&mdash;<br />
+Contact for events and catering&nbsp;<br />
+859.982.9759<br />
 <br />
 <a href="http://www.hofbrauhausnewport.com/">Hofbr&auml;uhaus Newport</a><br />
 3rd &amp; Saratoga<br />
@@ -53,11 +49,6 @@ Cincinnati, Ohio 45219<br />
 Cincinnati, Ohio 45202<br />
 513.421.2337<br />
 <br />
-<a href="http://www.olegstavern.com">Oleg&rsquo;s Tavern</a><br />
-11929 Montgomery Road<br />
-Cincinnati, Ohio 45249<br />
-513.774.0700<br />
-<br />
 <br />
 <br />
 &nbsp;</p>
@@ -67,7 +58,12 @@ Cincinnati, Ohio 45249<br />
     <div class="three columns">
       <div title="ger title" class="gerTitle cushycms">(continued)</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"><p><a href="http://www.queencitycookies.com">Queen City Cookies</a><br />
+      <div title="ger content" class="ger cushycms"><p><a href="http://www.olegstavern.com">Oleg&rsquo;s Tavern</a><br />
+11929 Montgomery Road<br />
+Cincinnati, Ohio 45249<br />
+513.774.0700<br />
+<br />
+<a href="http://www.queencitycookies.com">Queen City Cookies</a><br />
 4354 Hamilton Avenue<br />
 Cincinnati, Ohio 45223<br />
 513.591.0022<br />
@@ -81,12 +77,7 @@ Lockland, Ohio 45215<br />
 Located throughout Cincinnati&nbsp;<br />
 877.484.2174<br />
 <br />
-<a href="http://www.steinhausrestaurant.com/">Steinhaus</a><br />
-6415 Dixie Highway&nbsp;<br />
-Florence, Kentucky 41042<br />
-859.371.3000<br />
-<br />
-<a href="http://www.wertheimsrestaurant.net/">Wertheim&rsquo;s Restaurant</a><br />
+<a href="http://www.wertheimsrestaurant.net/" style="font-size: 13px;">Wertheim&rsquo;s Restaurant</a><br />
 514 West&nbsp;Sixth Street<br />
 Covington, Kentucky&nbsp;41011<br />
 859.261.1233<br />
@@ -94,7 +85,12 @@ Covington, Kentucky&nbsp;41011<br />
 <a href="https://www.facebook.com/wunderbar.covington.3">Wunderbar</a><br />
 1132 Lee Street<br />
 Covington, Kentucky 41011<br />
-859.815.8027</p>
+859.815.8027<br />
+<br />
+<a href="https://www.facebook.com/wurstbarinthesq">Wurst Bar in the Square</a><br />
+3204 Linwood Ave&nbsp;<br />
+Cincinnati,&nbsp;OH&nbsp;45226<br />
+513.321.0615</p>
 </div>
     </div>
 

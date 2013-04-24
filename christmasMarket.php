@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_1_290x290.png"></div>
-      <div title="eng caption" class="cushycms">The Germania Jadghorn Bläser Gruppe performs  during the opening ceremony of the 2012 Cincideutsch Christkindlmarkt. <a class="morePhotos">(more photos)</a></div>
-      <div title="ger caption" class="ger secondP cushycms">Jadghorn</div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_1_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">The Germania Jadghorn Bl&auml;ser Gruppe performs during the opening ceremony of the 2012 Cincideutsch Christkindlmarkt. <a href="http://www.flickr.com/photos/cincideutsch/sets/72157632008671343/">more photos</a></div>
+      <div title="ger caption" class="gerCap secondP cushycms">Die Germania Jagdhorn Bl&auml;ser Gruppe musizieren w&auml;hrend der Er&ouml;ffnungsfeier des 2012 Cincideutsch Christkindlmarkt. <a href="http://www.flickr.com/photos/cincideutsch/sets/72157632008671343/">mehr Fotos folgen</a></div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
@@ -45,6 +36,7 @@ Der Christkindlmarkt nimmt w&auml;hrend &nbsp;der Adventszeit im Dezember viele 
 	<li><a href="cincideutschChristkindlmarkt2012.php">Cincideutsch</a></li>
 </ul>
 </div>
+    </div>    
     </div>    
 
   </div>

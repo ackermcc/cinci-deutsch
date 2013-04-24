@@ -4,40 +4,35 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
-      <div title="eng caption" class="cushycms">...</div>
-      <div title="ger caption" class="ger secondP cushycms">...</div>
+      <div><img title="image" class="imageSubPg cushycms" src="genealogicalReferences_10_3273524474.png" /></div>
+      <div title="eng caption" class="engCap cushycms"><strong>Image courtesy of the Breidenbaugh family:</strong> Margaret found her great-great-great-great grandmother&rsquo;s unmarked burial site&nbsp;at Spring Grove Cemetery. Magdalena Seipel Breitenbach (1800&ndash;1884) immigrated to Cincinnati with her seven children&nbsp;from Hessen, Prussia (now Germany).<br />
+<br />
+If you would like to share your family&rsquo;s German-American history, please email an image and story to <a href="mailto:pr@cincideutsch.com?subject=Heritage%20Story%20for%20Cincideutsch.com">pr@cincideutsch.com</a>.</div>
+      <div title="ger caption" class="gerCap secondP cushycms"><strong>Bild mit freundlicher Genehmigung von der Familie Breidenbaugh:&nbsp;</strong>Margaret fand das namenlos Grab ihrer Ur-Ur-Ur-Urgro&szlig;mutter beim Spring Grove Friedhof. &nbsp;Magdalena Seipel Breitenbach (1800-1884) wanderte von Hessen, Preussen (heute Deutschland) nach Ohio mit ihren sieben Kindern ein. &nbsp;<br />
+<br />
+Wenn Sie die deutscher-amerikaner Geschichte Ihrer Familie teilen m&ouml;gen, bitte schicken Sie ein Bild und Geschichte nach&nbsp;<a href="mailto:pr@cincideutsch.com?subject=Heritage%20Story%20for%20Cincideutsch.com">pr@cincideutsch.com</a>.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Genealogical References</div>
       <hr class="yellow">
-      <div title="eng content" class="engContent cushycms"><p>This list contains but a small fraction of the many books written about German-Americans. For further reading materials and access to microfilms, visit the downtown branch of the Public Library of Cincinnati &amp; Hamilton County, which has one of the largest genealogical collections in the country. If you need assistance in your search or references to further resources, contact the German Genealogical Group of the Hamilton County Genealogical Society.</p>
+      <div title="eng content" class="engContent cushycms"><p>For access to extensive collections of manuscripts,&nbsp;microfilms, photographs and much more, visit the downtown branch of the&nbsp;<a href="http://www.cincinnatilibrary.org/">Public Library of Cincinnati &amp; Hamilton County</a>, which has one of the largest genealogical collections in the country, and&nbsp;<a href="http://americanjewisharchives.org/">The Jacob Rader Marcus Center of the American Jewish Archives</a>,&nbsp;located on the historic Cincinnati campus of Hebrew Union College-Jewish Institute of Religion.<br />
+<br />
+Don&#39;t know where to start? Try one of the listed resources and contact the&nbsp;<a href="http://hcgsohio.org/">German Genealogical Group of the Hamilton County Genealogical Society</a>&nbsp;or the&nbsp;<a href="http://www.daytongermanclub.org/dgc_og_backup/genealogy.php">German Genealogy Group of the Dayton Liederkranz-Turner Society</a>&nbsp;for advice from experienced genealogists.&nbsp;</p>
 </div>
     </div>
 
     <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms">(continued)</div>
+      <div title="ger title" class="gerTitle cushycms">Reading Materials</div>
       <hr class="red">
-      <div title="ger content" class="ger cushycms"><p>For access to extensive collections of manuscripts,&nbsp;microfilms, photographs and much more, visit the downtown branch of the <a href="http://www.cincinnatilibrary.org/">Public Library of Cincinnati &amp; Hamilton County</a>, which has one of the largest genealogical collections in the country, and&nbsp;<a href="http://americanjewisharchives.org/">The Jacob Rader Marcus Center of the American Jewish Archives</a>,&nbsp;located on the historic Cincinnati campus of Hebrew Union College-Jewish Institute of Religion. Don&#39;t know where to start? Try one of the listed resources and contact the <a href="http://hcgsohio.org/">German Genealogical Group of the Hamilton County Genealogical Society</a> or the <a href="http://www.daytongermanclub.org/dgc_og_backup/genealogy.php">German Genealogy Group of the Dayton Liederkranz-Turner Society</a>&nbsp;for advice from experienced genealogists.&nbsp;<br />
-<br />
-<strong>Printed Resources (English)</strong><br />
+      <div title="ger content" class="ger cushycms"><p><strong style="font-size: 13px;">Printed Resources (English)</strong><br />
 Clubbe, John. Cincinnati Observed: Architecture and History. Columbus: Ohio State University Press, 1992).<br />
 <br />
 Harlow, Alvin F. The Serene Cincinnatians. New York: E.P. Dutton &amp; Co., 1950.<br />
 <br />
-Out-of-Print Newspapers<br />
+<a href="outofPrintNewspapers.php">Out-of-Print Newspapers (list)</a><br />
 <br />
 Tolzmann, Dr. Don Heinrich. German Cincinnati Revisited. Charleston, SCs: Arcadia Pub., 2011. Print.&nbsp;&nbsp;<a href="http://donheinrichtolzmann.net/">(More books by Dr. Tolzmann)</a><br />
 <br />

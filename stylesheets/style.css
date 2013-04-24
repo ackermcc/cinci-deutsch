@@ -50,6 +50,7 @@ hr.red {
 			color: #c4122f;
 		} 
 
+
 .gerTitle {
 	font-weight: bold;
 	font-style: italic;
@@ -97,7 +98,40 @@ footer {
 .meetUs{
 	padding-top: 10px;
 }	
+	.meetUs a{
+			text-decoration: underline;
+			color: #636466;
+		} 
+			.meetUs a:hover {
+				text-decoration: underline;
+				color: #c4122f;
+			} 
+.engCap {
+	font-weight: normal;
+	color: #636466;
+}
+	.engCap a{
+			text-decoration: underline;
+			color: #636466;
+		} 
+			.engCap a:hover {
+				text-decoration: underline;
+				color: #c4122f;
+			} 
 
+.gerCap {
+	font-weight: normal;
+	color: #636466;
+	font-style: italic;
+}
+	.gerCap a{
+		text-decoration: underline;
+		color: #636466;
+	} 
+		.gerCap a:hover {
+			text-decoration: underline;
+			color: #c4122f;
+		} 
 /* -------------------------------------------------- 
    over ride	
 -----------------------------------------------------*/
@@ -141,7 +175,7 @@ footer {
 		}
 
 	.navSpace{
-		padding-right: 36px;
+		padding-right: 35px;
 		text-align: center;
 	}
 	.navEnd{
@@ -212,7 +246,7 @@ footer {
 
 	.social {
 		color: #636466; 
-		margin-top: 35px; 
+		margin-top: 30px; 
 	}
 
 	.social i {
@@ -256,7 +290,14 @@ footer {
 	.linksUl li{
 		line-height: 1.4px;
 	} 
-
+.albumLinks{
+	text-decoration: none;
+	color: #000; 
+}
+	.albumLinks:hover{
+	text-decoration: none;
+	color: #c4122f; 
+	}
 
 .redEmail {
 	color: #c4122f;

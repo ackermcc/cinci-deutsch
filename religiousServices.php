@@ -4,61 +4,36 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0219_290x290.png"></div>
-      <div title="eng caption" class="cushycms"><a class="pLink">Old Saint Mary’s Catholic Church</a>, built by German immigrants in 1841, is the oldest church in the city of Cincinnati. Mass is 
-        still held in German every Sunday. (more cultural photos)</div>
-      <div title="ger caption" class="ger secondP cushycms"><a class="pLink">Die katholische Kirche Old Saint Mary’s</a> wurde 1841 von deutschen Einwanderer gebaut. Es handelt sich um die
-        aelteste Kirche in Cincinnati. Jeden Sonntag wird eine Messe gehalten. </div>
+      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0219_290x290.png" /></div>
+      <div title="eng caption" class="engCap cushycms">Old Saint Mary&rsquo;s Catholic Church, built by German immigrants in 1841, is the oldest church in the city of Cincinnati. Mass is still held in German every Sunday.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Die katholische Kirche Old Saint Mary&rsquo;s wurde 1841 von deutschen Einwanderer gebaut. Es handelt sich um die aelteste Kirche in Cincinnati. Jeden Sonntag wird eine Messe gehalten.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
       <div title="eng title" class="eng cushycms">Religious Services</div>
       <hr class="yellow">
-      <div title="eng content" class="engContent cushycms"
-        <p><a class="pLink">Christ Lutheran Church</a></br>
-          3301 Compton Road
-          Cincinnati, Ohio 45251
-          Christmas Eve, New Year’s Eve</p>
-        <p><a class="pLink">Old Saint Mary’s Catholic Church</a></br>
-          123 East 13th Street  
-          Cincinnati, Ohio 45202
-          513.721.2988
-          11am Sundays, Easter, Christmas Day</p>  
-        <p>
-          <a class="pLink">Prince of Peace Lutheran Church</a></br>
-          306 Center Street
-          Bellevue, Kentucky 41073</p>
-        </div>
-    </div>
-
-    <div class="three columns">
-      <div title="ger title" class="gerTitle cushycms"></div>
-      <hr class="red">
-      <div title="ger content" class="ger cushycms"><a href="http://www.christ-lcms.org/">Christ Lutheran Church</a><br />
+      <div title="eng content" class="engContent cushycms"><p><a href="http://www.christ-lcms.org/">Christ Lutheran Church</a><br />
 3301 Compton Road<br />
 Cincinnati, Ohio 45251<br />
 Christmas Eve, New Year&rsquo;s Eve<br />
 <br />
-<a href="http://www.oldstmarys.org/">Old Saint Mary&rsquo;s Catholic Church</a><br />
+<a href="http://www.lutherans.com/churches/church_info.php?church_id=2784">Prince of Peace Lutheran Church</a><br />
+306 Center Street<br />
+Bellevue, Kentucky 41073</p>
+</div>
+    </div>
+
+    <div class="three columns">
+      <div title="ger title" class="gerTitle cushycms">(continued)</div>
+      <hr class="red">
+      <div title="ger content" class="ger cushycms"><a href="http://www.oldstmarys.org/" style="font-size: 13px;">Old Saint Mary&rsquo;s Catholic Church</a><br />
 123 East 13th Street &nbsp;<br />
 Cincinnati, Ohio 45202<br />
 513.721.2988<br />
 11am Sundays, Easter, Christmas Day<br />
-<br />
-<a href="http://www.lutherans.com/churches/church_info.php?church_id=2784">Prince of Peace Lutheran Church</a><br />
-306 Center Street<br />
-Bellevue, Kentucky 41073</div>
+&nbsp;</div>
     </div>
 
     <div class="two columns">

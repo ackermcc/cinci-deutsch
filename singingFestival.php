@@ -4,20 +4,11 @@
   <div class="row mainContent">
 
     <div class="four columns ">
-      <div><img title="image" class="imageSubPg cushycms" src="images/_DSC0128_290x290.png"></div>
-      <div title="eng caption" class="cushycms">...</div>
-      <div title="ger caption" class="ger secondP cushycms">...</div>
+      <div><img title="image" class="imageSubPg cushycms" src="singingFestival_11_3662173010.png" /></div>
+      <div title="eng caption" class="engCap cushycms">The Kolping S&auml;ngerchor singing German Christmas carols during the opening ceremony of Cincideutsch&rsquo;s first Christkindlmarkt on Fountain Square.</div>
+      <div title="ger caption" class="gerCap secondP cushycms">Der Kolping-S&auml;ngerchor singt deutsche Weihnachtslieder w&auml;hrend der Er&ouml;ffnungszeremonie des ersten Cincideutsch-Christkindlmarktes auf dem Fountain-Square.</div>
       
-      <div class="social">
-        <div class="eng">Connect <span class="ger">Anschließen</span></div>
-        <a href=""><img class="smIcons" src="images/meetUp.png"></a>
-        <a href=""><img class="smIcons" src="images/facebook.png"></a>
-        <a href=""><img class="smIcons" src="images/twitter.png"></a>
-        <a href=""><img class="smIcons" src="images/flickr.png"></a>
-        <a href=""><img class="smIcons" src="images/linkedIn.png"></a>
-        <a href=""><img class="smIcons" src="images/instagram.png"></a>
-        <p class="meetUs">Meet us at Stammtisch, <br> every Monday at 6:00pm.</p>
-      </div>
+      <? include_once('socialMedia.php'); ?>
     </div>
 
     <div class="three columns">
@@ -43,7 +34,7 @@
 
         <div title="links title" class="eng cushycms secondP">Resources</div>
         <div title="links" class="cushycms"><ul class="linksUl">
-	<li><a href="">Singing Societies</a></li>
+	<li><a href="GermanSingingSocitiesInCincinnati.php">Singing Societies</a></li>
 	<li><a href="mayFestival.php">May Festival</a></li>
 </ul>
 </div>
